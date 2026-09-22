@@ -1,0 +1,6 @@
+INVOICE #1002
+From: Shalini Pati (Self-employed)
+To: Usha Verma
+Date: 2025-11-16
+Amount: Rs. 9564
+Description: Professional services rendered

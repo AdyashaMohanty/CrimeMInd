@@ -1,0 +1,1 @@
+This directory represents where original, unprocessed source exports would be archived (raw CDR dumps, raw bank exports, raw CCTV device pulls, etc.) prior to normalization. In this synthetic dataset, the files under 03-10 already serve as the raw/source-of-record representations referenced by MANIFEST.json.

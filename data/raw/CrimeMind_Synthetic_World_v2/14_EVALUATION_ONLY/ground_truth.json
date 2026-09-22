@@ -1,0 +1,28 @@
+{
+  "case_id": "CM-2026-0314-NDP",
+  "note": "FOR EVALUATION PURPOSES ONLY. This file must never be used as input to CrimeMind's operational pipeline or ingested alongside operational evidence. It exists solely to score CrimeMind's discovered hypotheses against the world model actually used to generate the evidence.",
+  "victim_person_id": "P042",
+  "strong_connection_1": {
+    "person_id": "P009",
+    "basis": "Warehouse badge access at 21:36:52 and denied server-room access at 21:48:11; late-night message exchange on 14 March; P009-linked vehicle V017 has partial-plate sightings at L011 at 21:42:18 and 21:49:37; prior REF-LOAN-0228 transfer is explicitly documented in operational bank records as a personal loan repayment."
+  },
+  "strong_connection_2": {
+    "person_id": "P037",
+    "basis": "Documented business relationship with victim; call frequency spike in the week before the incident; calendar meeting five days prior."
+  },
+  "weak_coincidental_connection": {
+    "person_id": "P025",
+    "basis": "GPS ping near the area around incident time; no other supporting evidence links this person to the incident."
+  },
+  "misleading_connection": {
+    "person_id": "P026",
+    "basis": "Documented dispute (message about owed money) with victim weeks before incident; no evidence places this person near the scene on the incident night."
+  },
+  "irrelevant_but_proximate": {
+    "person_id": "P006",
+    "basis": "P006 works rotating shifts at the 24-hour Green Park Fuel Station (L028), a nearby location. CAM017 records routine station activity on the incident night, without operational evidence connecting that work activity to the warehouse incident."
+  },
+  "incident_location_id": "L011",
+  "incident_time_estimate": "2026-03-14 21:47:00",
+  "intended_investigative_takeaway": "CLOSE_1 and CLOSE_2 warrant follow-up based on multiple independent, if individually inconclusive, evidentiary threads; WEAK_1, MISLEADING_1, and IRRELEVANT_BUT_NEARBY are designed to be plausible false leads that a sound investigation (human or CrimeMind) should be able to de-prioritize once cross-referenced against the fuller evidence set."
+}

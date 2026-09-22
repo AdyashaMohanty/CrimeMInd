@@ -1,0 +1,1858 @@
+[
+  {
+    "source_file": "00_CASE_CONTEXT\\case_context.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "CASE ID: MH-2026-0818\nPrimary site: Meridian House, Nandipur\nIncident window: 20:45–22:00\nIncident location: East Office, Level 1\nVictim: Arvind Malhotra\nInitial report: Meridian House security desk\nNo person is classified as a candidate classification in this document.\n"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P001_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P001\nName: Arvind Malhotra\nRole: property owner\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P002_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P002\nName: Leena Malhotra\nRole: office administrator\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P003_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P003\nName: Rohan Mehta\nRole: accountant\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P004_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P004\nName: Nisha Verma\nRole: legal consultant\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P005_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P005\nName: Kabir Sethi\nRole: security supervisor\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P006_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P006\nName: Meera Joshi\nRole: event coordinator\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P007_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P007\nName: Vikram Rao\nRole: former business partner\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P008_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P008\nName: Ananya Sen\nRole: tenant representative\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P009_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P009\nName: Dev Kapoor\nRole: delivery driver\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P010_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P010\nName: Samar Das\nRole: maintenance technician\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P011_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P011\nName: Priya Nair\nRole: neighbour\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P012_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P012\nName: Amit Roy\nRole: restaurant manager\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P013_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P013\nName: Tara Bose\nRole: guest\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P014_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P014\nName: Rahul Iyer\nRole: IT support technician\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P015_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P015\nName: Sonal Gupta\nRole: bank relationship manager\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P016_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P016\nName: Manav Khanna\nRole: tenant\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P017_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P017\nName: Ishita Sen\nRole: guest\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P018_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P018\nName: Farhan Ali\nRole: ride-hailing driver\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P019_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P019\nName: Karan Dutta\nRole: security guard\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P020_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P020\nName: Ritu Sharma\nRole: accounting assistant\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P021_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P021\nName: Neel Bhatia\nRole: courier desk clerk\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P022_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P022\nName: Asha Kulkarni\nRole: building cleaner\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P023_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P023\nName: Varun Shah\nRole: supplier representative\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "01_PEOPLE\\person_profiles\\P024_profile.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx_text_fallback",
+      "content": "PERSON PROFILE\nID: P024\nName: Maya Thomas\nRole: journalist\nContext: fictional investigation world.\n",
+      "warning": "DOCX parsing failed: File is not a zip file"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\audio_transcripts\\interview_003.srt",
+    "extension": ".srt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "1\n00:00:01,000 --> 00:00:05,000\nI remember the hallway was noisy.\n\n2\n00:00:05,500 --> 00:00:10,000\nDo you know the exact time?\n\n3\n00:00:10,500 --> 00:00:15,000\nNo. Maybe around nine fifteen, but that is only an estimate.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\audio_transcripts\\interview_003.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "Speaker 1: I remember the hallway was noisy.\nSpeaker 2: Do you know the exact time?\nSpeaker 1: No. Maybe around nine fifteen, but that is only an estimate.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P002_interview.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Witness Interview Record",
+        "I was in reception until shortly after 21:05. I heard a door close toward the east corridor. Around 21:12 I saw someone in a pale shirt near the staircase, but the lighting was poor and I did not see a face clearly."
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P002_interview.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "INTERVIEW RECORD\nWitness: P002\nI was in reception until shortly after 21:05. I heard a door close toward the east corridor. Around 21:12 I saw someone in a pale shirt near the staircase, but the lighting was poor and I did not see a face clearly.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P005_interview.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Witness Interview Record",
+        "The access desk showed an east-corridor event around 21:16. One reader had been intermittently failing. I remember a dark vehicle near the service side, but cannot identify the model confidently."
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P005_interview.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "INTERVIEW RECORD\nWitness: P005\nThe access desk showed an east-corridor event around 21:16. One reader had been intermittently failing. I remember a dark vehicle near the service side, but cannot identify the model confidently.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P008_interview.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Witness Interview Record",
+        "I left the tenant lounge around 21:00 and returned near 21:25. I noticed two people near the courtyard gate. I did not check my phone, so my time estimate is approximate."
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P008_interview.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "INTERVIEW RECORD\nWitness: P008\nI left the tenant lounge around 21:00 and returned near 21:25. I noticed two people near the courtyard gate. I did not check my phone, so my time estimate is approximate.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P009_interview.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Witness Interview Record",
+        "I delivered a package to the service entrance. My route app records the stop. I waited in the vehicle because the loading area was occupied and saw another vehicle leave."
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P009_interview.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "INTERVIEW RECORD\nWitness: P009\nI delivered a package to the service entrance. My route app records the stop. I waited in the vehicle because the loading area was occupied and saw another vehicle leave.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P011_interview.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Witness Interview Record",
+        "From my window I could see part of the service road. Around the emergency activity I noticed headlights moving away from the property, but could not see the driver."
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P011_interview.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "INTERVIEW RECORD\nWitness: P011\nFrom my window I could see part of the service road. Around the emergency activity I noticed headlights moving away from the property, but could not see the driver.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P013_interview.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Witness Interview Record",
+        "I arrived for dinner and later saw the owner speaking with a man near the office corridor. I was not watching continuously and may be wrong about the exact location."
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P013_interview.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "INTERVIEW RECORD\nWitness: P013\nI arrived for dinner and later saw the owner speaking with a man near the office corridor. I was not watching continuously and may be wrong about the exact location.\n"
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P017_interview.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Witness Interview Record",
+        "I remember a disagreement being discussed earlier. Later I was outside making a phone call. I cannot reliably place other people by minute."
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P017_interview.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "INTERVIEW RECORD\nWitness: P017\nI remember a disagreement being discussed earlier. Later I was outside making a phone call. I cannot reliably place other people by minute.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\gis\\locations.geojson",
+    "extension": ".geojson",
+    "success": true,
+    "data": {
+      "type": "geojson",
+      "data": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "location_id": "L001"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                85.82,
+                20.29
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "location_id": "L004"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                85.821,
+                20.291
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "location_id": "L005"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                85.8215,
+                20.2905
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "location_id": "L006"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                85.8195,
+                20.2915
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "location_id": "L007"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                85.825,
+                20.287
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\gis\\locations.kml",
+    "extension": ".kml",
+    "success": true,
+    "data": {
+      "type": "kml",
+      "places": [
+        {
+          "name": "L001",
+          "coordinates": "85.82,20.29,0"
+        },
+        {
+          "name": "L004",
+          "coordinates": "85.821,20.291,0"
+        },
+        {
+          "name": "L005",
+          "coordinates": "85.8215,20.2905,0"
+        },
+        {
+          "name": "L006",
+          "coordinates": "85.8195,20.2915,0"
+        },
+        {
+          "name": "L007",
+          "coordinates": "85.825,20.287,0"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L001_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL001\nMeridian House\nType: mixed-use heritage property\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L002_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL002\nEast Office\nType: restricted office\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L003_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL003\nEast Corridor\nType: Level 1 corridor\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L004_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL004\nService Entrance\nType: loading/service access\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L005_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL005\nCourtyard Gate\nType: pedestrian gate\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L006_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL006\nNorth Parking\nType: parking area\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L007_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL007\nCedar Table\nType: restaurant\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L008_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL008\nNorthstar Bank Branch\nType: bank\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L009_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL009\nQuickRoute Depot\nType: logistics depot\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "03_LOCATIONS\\site_plans\\L010_location.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "LOCATION\nL010\nShieldGate Office\nType: security contractor office\nSynthetic location.\n"
+    }
+  },
+  {
+    "source_file": "04_COMMUNICATIONS\\call_records\\call_detail_records.csv",
+    "extension": ".csv",
+    "success": true,
+    "data": {
+      "type": "csv",
+      "columns": [
+        "call_id",
+        "caller",
+        "receiver",
+        "start_time",
+        "duration_seconds",
+        "status"
+      ],
+      "rows": [
+        {
+          "call_id": "C001",
+          "caller": "P002",
+          "receiver": "P001",
+          "start_time": "2026-08-18 19:42:11",
+          "duration_seconds": "146",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C002",
+          "caller": "P003",
+          "receiver": "P001",
+          "start_time": "2026-08-18 20:03:22",
+          "duration_seconds": "312",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C003",
+          "caller": "P007",
+          "receiver": "P001",
+          "start_time": "2026-08-18 20:47:09",
+          "duration_seconds": "524",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C004",
+          "caller": "P004",
+          "receiver": "P001",
+          "start_time": "2026-08-18 20:58:44",
+          "duration_seconds": "93",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C005",
+          "caller": "P009",
+          "receiver": "P021",
+          "start_time": "2026-08-18 21:02:15",
+          "duration_seconds": "81",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C006",
+          "caller": "P005",
+          "receiver": "P019",
+          "start_time": "2026-08-18 21:09:30",
+          "duration_seconds": "44",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C007",
+          "caller": "P013",
+          "receiver": "P017",
+          "start_time": "2026-08-18 21:11:06",
+          "duration_seconds": "181",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C008",
+          "caller": "P014",
+          "receiver": "P001",
+          "start_time": "2026-08-18 21:13:18",
+          "duration_seconds": "37",
+          "status": "MISSED"
+        },
+        {
+          "call_id": "C009",
+          "caller": "P001",
+          "receiver": "P007",
+          "start_time": "2026-08-18 21:15:55",
+          "duration_seconds": "204",
+          "status": "CONCLUSIONED"
+        },
+        {
+          "call_id": "C010",
+          "caller": "P018",
+          "receiver": "P011",
+          "start_time": "2026-08-18 21:20:02",
+          "duration_seconds": "67",
+          "status": "CONCLUSIONED"
+        }
+      ],
+      "row_count": 10
+    }
+  },
+  {
+    "source_file": "04_COMMUNICATIONS\\emails\\email_001.eml",
+    "extension": ".eml",
+    "success": true,
+    "data": {
+      "type": "eml",
+      "from": "P001@synthetic.example",
+      "to": "P004@synthetic.example",
+      "cc": null,
+      "subject": "Re: contract review",
+      "date": null,
+      "body": "Let's settle the revised terms tomorrow.\n"
+    }
+  },
+  {
+    "source_file": "04_COMMUNICATIONS\\emails\\email_002.eml",
+    "extension": ".eml",
+    "success": true,
+    "data": {
+      "type": "eml",
+      "from": "P001@synthetic.example",
+      "to": "P015@synthetic.example",
+      "cc": null,
+      "subject": "Account confirmation",
+      "date": null,
+      "body": "Please confirm the incoming transfer reference.\n"
+    }
+  },
+  {
+    "source_file": "04_COMMUNICATIONS\\emails\\email_003.eml",
+    "extension": ".eml",
+    "success": true,
+    "data": {
+      "type": "eml",
+      "from": "P007@synthetic.example",
+      "to": "P020@synthetic.example",
+      "cc": null,
+      "subject": "Ledger copy",
+      "date": null,
+      "body": "Send the reconciliation before close of business.\n"
+    }
+  },
+  {
+    "source_file": "04_COMMUNICATIONS\\messages\\meeting.ics",
+    "extension": ".ics",
+    "success": true,
+    "data": {
+      "type": "ics",
+      "event": {
+        "uid": "mh-briefing",
+        "start": "20260818T193000",
+        "end": "20260818T201500",
+        "summary": "Meridian House financial review",
+        "location": "Meridian House - Meeting Room"
+      }
+    }
+  },
+  {
+    "source_file": "04_COMMUNICATIONS\\messages\\messages.csv",
+    "extension": ".csv",
+    "success": true,
+    "data": {
+      "type": "csv",
+      "columns": [
+        "message_id",
+        "sender",
+        "receiver",
+        "time",
+        "body"
+      ],
+      "rows": [
+        {
+          "message_id": "M001",
+          "sender": "P001",
+          "receiver": "P003",
+          "time": "2026-08-18 20:35",
+          "body": "Please bring the revised ledger upstairs."
+        },
+        {
+          "message_id": "M002",
+          "sender": "P003",
+          "receiver": "P001",
+          "time": "2026-08-18 20:37",
+          "body": "On my way."
+        },
+        {
+          "message_id": "M003",
+          "sender": "P001",
+          "receiver": "P007",
+          "time": "2026-08-18 20:51",
+          "body": "We should discuss the outstanding matter tonight."
+        },
+        {
+          "message_id": "M004",
+          "sender": "P007",
+          "receiver": "P001",
+          "time": "2026-08-18 20:54",
+          "body": "Fine. I will be there shortly."
+        },
+        {
+          "message_id": "M005",
+          "sender": "P005",
+          "receiver": "P019",
+          "time": "2026-08-18 21:08",
+          "body": "Check the east corridor reader."
+        }
+      ],
+      "row_count": 5
+    }
+  },
+  {
+    "source_file": "04_COMMUNICATIONS\\messages\\P003_contact.vcf",
+    "extension": ".vcf",
+    "success": true,
+    "data": {
+      "type": "vcf",
+      "contact": {
+        "name": "Rohan Mehta",
+        "phone": "+91-9000001003",
+        "email": "rohan.mehta@synthetic.example"
+      }
+    }
+  },
+  {
+    "source_file": "05_FINANCIAL\\bank_statements\\P001_bank_statement.xlsx",
+    "extension": ".xlsx",
+    "success": true,
+    "data": {
+      "type": "xlsx",
+      "sheets": {
+        "Statement": [
+          [
+            "Transaction ID",
+            "Date",
+            "Time",
+            "Narration",
+            "Debit",
+            "Credit",
+            "Currency",
+            "Reference"
+          ],
+          [
+            "TX001",
+            "18-08-2026",
+            "18:42:09",
+            "Vendor settlement",
+            null,
+            "85000",
+            "INR",
+            "NSB-88412"
+          ],
+          [
+            "TX002",
+            "18-08-2026",
+            "19:18:33",
+            "Consulting payment",
+            "42000",
+            null,
+            "INR",
+            "NSB-88491"
+          ],
+          [
+            "TX003",
+            "18-08-2026",
+            "20:11:04",
+            "Account transfer",
+            null,
+            "125000",
+            "INR",
+            "NSB-88517"
+          ],
+          [
+            "TX004",
+            "18-08-2026",
+            "20:44:52",
+            "Cash withdrawal",
+            "30000",
+            null,
+            "INR",
+            "ATM-11982"
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "source_file": "05_FINANCIAL\\transaction_exports\\bank_system_export.xml",
+    "extension": ".xml",
+    "success": true,
+    "data": {
+      "type": "xml",
+      "root": "Transactions",
+      "data": {
+        "Transactions": {
+          "Transaction": [
+            {
+              "transaction_id": "TX101",
+              "sender_entity_id": "P003",
+              "receiver_entity_id": "P020",
+              "amount": "18000",
+              "currency": "INR",
+              "type": "BANK_TRANSFER",
+              "timestamp": "2026-08-18T17:52:21"
+            },
+            {
+              "transaction_id": "TX102",
+              "sender_entity_id": "P007",
+              "receiver_entity_id": "P001",
+              "amount": "95000",
+              "currency": "INR",
+              "type": "WIRE",
+              "timestamp": "2026-08-17T12:11:09"
+            },
+            {
+              "transaction_id": "TX103",
+              "sender_entity_id": "P001",
+              "receiver_entity_id": "P023",
+              "amount": "26000",
+              "currency": "INR",
+              "type": "SUPPLIER_PAYMENT",
+              "timestamp": "2026-08-18T16:21:10"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_file": "05_FINANCIAL\\transaction_exports\\transaction_export.csv",
+    "extension": ".csv",
+    "success": true,
+    "data": {
+      "type": "csv",
+      "columns": [
+        "transaction_id",
+        "sender",
+        "receiver",
+        "amount",
+        "currency",
+        "type",
+        "timestamp"
+      ],
+      "rows": [
+        {
+          "transaction_id": "TX101",
+          "sender": "P003",
+          "receiver": "P020",
+          "amount": "18000",
+          "currency": "INR",
+          "type": "BANK_TRANSFER",
+          "timestamp": "2026-08-18T17:52:21"
+        },
+        {
+          "transaction_id": "TX102",
+          "sender": "P007",
+          "receiver": "P001",
+          "amount": "95000",
+          "currency": "INR",
+          "type": "WIRE",
+          "timestamp": "2026-08-17T12:11:09"
+        },
+        {
+          "transaction_id": "TX103",
+          "sender": "P001",
+          "receiver": "P023",
+          "amount": "26000",
+          "currency": "INR",
+          "type": "SUPPLIER_PAYMENT",
+          "timestamp": "2026-08-18T16:21:10"
+        }
+      ],
+      "row_count": 3
+    }
+  },
+  {
+    "source_file": "05_FINANCIAL\\transaction_exports\\transactions.json",
+    "extension": ".json",
+    "success": true,
+    "data": {
+      "type": "json",
+      "data": [
+        {
+          "transaction_id": "TX101",
+          "sender_entity_id": "P003",
+          "receiver_entity_id": "P020",
+          "amount": 18000,
+          "currency": "INR",
+          "type": "BANK_TRANSFER",
+          "timestamp": "2026-08-18T17:52:21"
+        },
+        {
+          "transaction_id": "TX102",
+          "sender_entity_id": "P007",
+          "receiver_entity_id": "P001",
+          "amount": 95000,
+          "currency": "INR",
+          "type": "WIRE",
+          "timestamp": "2026-08-17T12:11:09"
+        },
+        {
+          "transaction_id": "TX103",
+          "sender_entity_id": "P001",
+          "receiver_entity_id": "P023",
+          "amount": 26000,
+          "currency": "INR",
+          "type": "SUPPLIER_PAYMENT",
+          "timestamp": "2026-08-18T16:21:10"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "06_VEHICLES\\vehicle_registry.csv",
+    "extension": ".csv",
+    "success": true,
+    "data": {
+      "type": "csv",
+      "columns": [
+        "vehicle_id",
+        "associated_person",
+        "plate",
+        "description"
+      ],
+      "rows": [
+        {
+          "vehicle_id": "V001",
+          "associated_person": "P005",
+          "plate": "SG-4821",
+          "description": "dark blue hatchback"
+        },
+        {
+          "vehicle_id": "V002",
+          "associated_person": "P009",
+          "plate": "QR-7314",
+          "description": "white compact van"
+        },
+        {
+          "vehicle_id": "V003",
+          "associated_person": "P007",
+          "plate": "RT-2198",
+          "description": "silver sedan"
+        },
+        {
+          "vehicle_id": "V004",
+          "associated_person": "P018",
+          "plate": "GC-5502",
+          "description": "white sedan"
+        },
+        {
+          "vehicle_id": "V005",
+          "associated_person": "P010",
+          "plate": "UF-9031",
+          "description": "grey utility vehicle"
+        }
+      ],
+      "row_count": 5
+    }
+  },
+  {
+    "source_file": "06_VEHICLES\\vehicle_sightings.json",
+    "extension": ".json",
+    "success": true,
+    "data": {
+      "type": "json",
+      "data": [
+        {
+          "vehicle_id": "V001",
+          "location_id": "L006",
+          "time": "2026-08-18T21:04:18"
+        },
+        {
+          "vehicle_id": "V003",
+          "location_id": "L004",
+          "time": "2026-08-18T21:12:44"
+        },
+        {
+          "vehicle_id": "V002",
+          "location_id": "L004",
+          "time": "2026-08-18T21:03:07"
+        },
+        {
+          "vehicle_id": "V005",
+          "location_id": "L001",
+          "time": "2026-08-18T20:18:52"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "07_DEVICES\\P003_device_extraction.json",
+    "extension": ".json",
+    "success": true,
+    "data": {
+      "type": "json",
+      "data": {
+        "device_id": "D003",
+        "entity_id": "P003",
+        "device_type": "Android phone",
+        "extraction_time": "2026-08-19T10:21:00+05:30",
+        "artifacts": {
+          "recent_calls": [
+            "C002"
+          ],
+          "wifi_ssids": [
+            "MeridianHouse-Guest"
+          ],
+          "location_points": [
+            {
+              "time": "2026-08-18T20:58:10",
+              "lat": 20.2907,
+              "lon": 85.8208
+            },
+            {
+              "time": "2026-08-18T21:11:42",
+              "lat": 20.2909,
+              "lon": 85.8211
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_file": "08_LOCATION_MOVEMENT\\gps_points.csv",
+    "extension": ".csv",
+    "success": true,
+    "data": {
+      "type": "csv",
+      "columns": [
+        "point_id",
+        "entity_id",
+        "timestamp",
+        "lat",
+        "lon",
+        "accuracy_m"
+      ],
+      "rows": [
+        {
+          "point_id": "G001",
+          "entity_id": "P003",
+          "timestamp": "2026-08-18T20:58:10",
+          "lat": "20.2907",
+          "lon": "85.8208",
+          "accuracy_m": "18"
+        },
+        {
+          "point_id": "G002",
+          "entity_id": "P003",
+          "timestamp": "2026-08-18T21:11:42",
+          "lat": "20.2909",
+          "lon": "85.8211",
+          "accuracy_m": "22"
+        },
+        {
+          "point_id": "G003",
+          "entity_id": "P007",
+          "timestamp": "2026-08-18T20:59:31",
+          "lat": "20.2899",
+          "lon": "85.823",
+          "accuracy_m": "35"
+        },
+        {
+          "point_id": "G004",
+          "entity_id": "P007",
+          "timestamp": "2026-08-18T21:13:51",
+          "lat": "20.2911",
+          "lon": "85.8215",
+          "accuracy_m": "27"
+        },
+        {
+          "point_id": "G005",
+          "entity_id": "P009",
+          "timestamp": "2026-08-18T21:03:07",
+          "lat": "20.291",
+          "lon": "85.821",
+          "accuracy_m": "12"
+        }
+      ],
+      "row_count": 5
+    }
+  },
+  {
+    "source_file": "09_ACCESS_SECURITY\\logs\\access_control.log",
+    "extension": ".log",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "2026-08-18 20:54:11 ACCESS L001 EAST_DOOR P005 GRANTED\n2026-08-18 21:03:09 ACCESS L004 SERVICE_DOOR P009 GRANTED\n2026-08-18 21:08:22 ACCESS L003 EAST_CORRIDOR P005 GRANTED\n2026-08-18 21:12:58 ACCESS L003 EAST_CORRIDOR CARD_READER_TIMEOUT\n2026-08-18 21:13:02 ACCESS L003 EAST_CORRIDOR UNKNOWN DENIED\n2026-08-18 21:16:11 ACCESS L003 EAST_CORRIDOR P003 GRANTED\n2026-08-18 21:18:27 ALARM L002 EAST_OFFICE MOTION_ALERT\n2026-08-18 21:20:04 SECURITY L001 DESK EMERGENCY_CALL_PLACED\n"
+    }
+  },
+  {
+    "source_file": "10_FORENSICS\\E014_door_handle_report.docx",
+    "extension": ".docx",
+    "success": true,
+    "data": {
+      "type": "docx",
+      "paragraphs": [
+        "Forensic Examination Report",
+        "FORENSIC EXAMINATION — SYNTHETIC\nItem: E-014, East Office door-handle swab\nFinding: Mixed low-level contact traces. Partial profile quality; not suitable for\nsingle-source attribution without comparison and corroboration.\nConfidence: moderate.\n"
+      ],
+      "tables": []
+    }
+  },
+  {
+    "source_file": "10_FORENSICS\\E014_door_handle_report.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "FORENSIC EXAMINATION — SYNTHETIC\nItem: E-014, East Office door-handle swab\nFinding: Mixed low-level contact traces. Partial profile quality; not suitable for\nsingle-source attribution without comparison and corroboration.\nConfidence: moderate.\n"
+    }
+  },
+  {
+    "source_file": "11_DIGITAL_MEDIA\\audio\\interview_003.wav",
+    "extension": ".wav",
+    "success": true,
+    "data": {
+      "type": "wav",
+      "channels": 1,
+      "sample_width": 2,
+      "frame_rate": 8000,
+      "frame_count": 8000,
+      "duration_seconds": 1.0
+    }
+  },
+  {
+    "source_file": "11_DIGITAL_MEDIA\\audio\\README.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "Synthetic audio placeholder; replace with authorized recording if required.\n"
+    }
+  },
+  {
+    "source_file": "11_DIGITAL_MEDIA\\cctv\\README.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "CCTV INPUT — INTENTIONALLY EMPTY\nPlace generated/licensed MP4 files here.\nPreserve camera ID, source location, local start time, frame rate and duration.\nIngestion must extract frames and timestamps. Do not pre-label crimes or people.\n"
+    }
+  },
+  {
+    "source_file": "11_DIGITAL_MEDIA\\photos\\E014_corridor.jpg",
+    "extension": ".jpg",
+    "success": true,
+    "data": {
+      "type": "image",
+      "filename": "E014_corridor.jpg",
+      "extension": ".jpg",
+      "size_bytes": 7781,
+      "width": 800,
+      "height": 500,
+      "format": "JPEG"
+    }
+  },
+  {
+    "source_file": "11_DIGITAL_MEDIA\\photos\\site_plan.png",
+    "extension": ".png",
+    "success": true,
+    "data": {
+      "type": "image",
+      "filename": "site_plan.png",
+      "extension": ".png",
+      "size_bytes": 9667,
+      "width": 1000,
+      "height": 700,
+      "format": "PNG"
+    }
+  },
+  {
+    "source_file": "12_LEGAL_BUSINESS\\contract_review.eml",
+    "extension": ".eml",
+    "success": true,
+    "data": {
+      "type": "eml",
+      "from": "P004@synthetic.example",
+      "to": "P001@synthetic.example",
+      "cc": null,
+      "subject": "Contract review",
+      "date": null,
+      "body": "We can meet tomorrow to discuss revised service terms.\n"
+    }
+  },
+  {
+    "source_file": "12_LEGAL_BUSINESS\\tenant_agreement.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "MERIDIAN HOUSE TENANCY AGREEMENT EXTRACT\nTenant contact: P008\nTerm: 2026-01-01 to 2026-12-31\nPurpose: office tenancy.\n"
+    }
+  },
+  {
+    "source_file": "13_INVESTIGATION_MATERIAL\\contradiction_register.csv",
+    "extension": ".csv",
+    "success": true,
+    "data": {
+      "type": "csv",
+      "columns": [
+        "contradiction_id",
+        "subject",
+        "source_a",
+        "source_b",
+        "issue"
+      ],
+      "rows": [
+        {
+          "contradiction_id": "X001",
+          "subject": "21:12 movement",
+          "source_a": "P008 statement",
+          "source_b": "P003 GPS",
+          "issue": "Approximate witness time differs from device timestamp"
+        },
+        {
+          "contradiction_id": "X002",
+          "subject": "vehicle near service entrance",
+          "source_a": "P005 interview",
+          "source_b": "P009 delivery record",
+          "issue": "Vehicle description incomplete"
+        },
+        {
+          "contradiction_id": "X003",
+          "subject": "east corridor access",
+          "source_a": "security log",
+          "source_b": "witness statement",
+          "issue": "Reader timeout creates uncertainty"
+        }
+      ],
+      "row_count": 3
+    }
+  },
+  {
+    "source_file": "13_INVESTIGATION_MATERIAL\\preliminary_notes.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "PRELIMINARY INVESTIGATION NOTES\nObserved: incomplete access records; multiple legitimate visitors; conflicting witness times;\nvehicle sightings incomplete; multiple communications and financial records require correlation.\nOpen questions: presence, shared locations, direct/indirect relationships, timeline gaps,\nmulti-source corroboration.\nNo conclusion is stated.\n"
+    }
+  },
+  {
+    "source_file": "13_INVESTIGATION_MATERIAL\\public_web_capture.html",
+    "extension": ".html",
+    "success": true,
+    "data": {
+      "type": "html",
+      "content": "Cedar Table Archive\nReservation Archive\n18 Aug 2026 evening reservation CT-818-44."
+    }
+  },
+  {
+    "source_file": "14_EVALUATION_ONLY\\ground_truth.json",
+    "extension": ".json",
+    "success": true,
+    "data": {
+      "type": "json",
+      "data": {
+        "evaluation_only": true,
+        "targets": [
+          {
+            "entity_id": "P007",
+            "label": "evaluation_actor_A"
+          },
+          {
+            "entity_id": "P003",
+            "label": "evaluation_actor_B"
+          },
+          {
+            "entity_id": "P005",
+            "label": "evaluation_actor_C"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "source_file": "14_EVALUATION_ONLY\\README.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "EVALUATION ONLY — NEVER INGEST. Remove before production testing.\n"
+    }
+  },
+  {
+    "source_file": "MANIFEST.json",
+    "extension": ".json",
+    "success": true,
+    "data": {
+      "type": "json",
+      "data": [
+        {
+          "path": "00_CASE_CONTEXT/case_context.txt",
+          "format": ".txt",
+          "bytes": 256
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P001_profile.docx",
+          "format": ".docx",
+          "bytes": 107
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P002_profile.docx",
+          "format": ".docx",
+          "bytes": 112
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P003_profile.docx",
+          "format": ".docx",
+          "bytes": 99
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P004_profile.docx",
+          "format": ".docx",
+          "bytes": 105
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P005_profile.docx",
+          "format": ".docx",
+          "bytes": 108
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P006_profile.docx",
+          "format": ".docx",
+          "bytes": 106
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P007_profile.docx",
+          "format": ".docx",
+          "bytes": 111
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P008_profile.docx",
+          "format": ".docx",
+          "bytes": 109
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P009_profile.docx",
+          "format": ".docx",
+          "bytes": 103
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P010_profile.docx",
+          "format": ".docx",
+          "bytes": 109
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P011_profile.docx",
+          "format": ".docx",
+          "bytes": 97
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P012_profile.docx",
+          "format": ".docx",
+          "bytes": 104
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P013_profile.docx",
+          "format": ".docx",
+          "bytes": 92
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P014_profile.docx",
+          "format": ".docx",
+          "bytes": 109
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P015_profile.docx",
+          "format": ".docx",
+          "bytes": 114
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P016_profile.docx",
+          "format": ".docx",
+          "bytes": 96
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P017_profile.docx",
+          "format": ".docx",
+          "bytes": 93
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P018_profile.docx",
+          "format": ".docx",
+          "bytes": 107
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P019_profile.docx",
+          "format": ".docx",
+          "bytes": 103
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P020_profile.docx",
+          "format": ".docx",
+          "bytes": 109
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P021_profile.docx",
+          "format": ".docx",
+          "bytes": 107
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P022_profile.docx",
+          "format": ".docx",
+          "bytes": 107
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P023_profile.docx",
+          "format": ".docx",
+          "bytes": 111
+        },
+        {
+          "path": "01_PEOPLE/person_profiles/P024_profile.docx",
+          "format": ".docx",
+          "bytes": 99
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/audio_transcripts/interview_003.srt",
+          "format": ".srt",
+          "bytes": 221
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/audio_transcripts/interview_003.txt",
+          "format": ".txt",
+          "bytes": 156
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P002_interview.docx",
+          "format": ".docx",
+          "bytes": 36756
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P002_interview.txt",
+          "format": ".txt",
+          "bytes": 247
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P005_interview.docx",
+          "format": ".docx",
+          "bytes": 36747
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P005_interview.txt",
+          "format": ".txt",
+          "bytes": 227
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P008_interview.docx",
+          "format": ".docx",
+          "bytes": 36729
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P008_interview.txt",
+          "format": ".txt",
+          "bytes": 202
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P009_interview.docx",
+          "format": ".docx",
+          "bytes": 36721
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P009_interview.txt",
+          "format": ".txt",
+          "bytes": 202
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P011_interview.docx",
+          "format": ".docx",
+          "bytes": 36723
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P011_interview.txt",
+          "format": ".txt",
+          "bytes": 196
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P013_interview.docx",
+          "format": ".docx",
+          "bytes": 36722
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P013_interview.txt",
+          "format": ".txt",
+          "bytes": 197
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P017_interview.docx",
+          "format": ".docx",
+          "bytes": 36712
+        },
+        {
+          "path": "02_WITNESS_MATERIAL/interview_notes/P017_interview.txt",
+          "format": ".txt",
+          "bytes": 171
+        },
+        {
+          "path": "03_LOCATIONS/gis/locations.geojson",
+          "format": ".geojson",
+          "bytes": 1165
+        },
+        {
+          "path": "03_LOCATIONS/gis/locations.kml",
+          "format": ".kml",
+          "bytes": 579
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L001_location.txt",
+          "format": ".txt",
+          "bytes": 83
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L002_location.txt",
+          "format": ".txt",
+          "bytes": 70
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L003_location.txt",
+          "format": ".txt",
+          "bytes": 71
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L004_location.txt",
+          "format": ".txt",
+          "bytes": 80
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L005_location.txt",
+          "format": ".txt",
+          "bytes": 71
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L006_location.txt",
+          "format": ".txt",
+          "bytes": 67
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L007_location.txt",
+          "format": ".txt",
+          "bytes": 63
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L008_location.txt",
+          "format": ".txt",
+          "bytes": 67
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L009_location.txt",
+          "format": ".txt",
+          "bytes": 73
+        },
+        {
+          "path": "03_LOCATIONS/site_plans/L010_location.txt",
+          "format": ".txt",
+          "bytes": 85
+        },
+        {
+          "path": "04_COMMUNICATIONS/call_records/call_detail_records.csv",
+          "format": ".csv",
+          "bytes": 543
+        },
+        {
+          "path": "04_COMMUNICATIONS/emails/email_001.eml",
+          "format": ".eml",
+          "bytes": 127
+        },
+        {
+          "path": "04_COMMUNICATIONS/emails/email_002.eml",
+          "format": ".eml",
+          "bytes": 135
+        },
+        {
+          "path": "04_COMMUNICATIONS/emails/email_003.eml",
+          "format": ".eml",
+          "bytes": 128
+        },
+        {
+          "path": "04_COMMUNICATIONS/messages/P003_contact.vcf",
+          "format": ".vcf",
+          "bytes": 104
+        },
+        {
+          "path": "04_COMMUNICATIONS/messages/meeting.ics",
+          "format": ".ics",
+          "bytes": 207
+        },
+        {
+          "path": "04_COMMUNICATIONS/messages/messages.csv",
+          "format": ".csv",
+          "bytes": 369
+        },
+        {
+          "path": "05_FINANCIAL/bank_statements/P001_bank_statement.xlsx",
+          "format": ".xlsx",
+          "bytes": 5167
+        },
+        {
+          "path": "05_FINANCIAL/transaction_exports/bank_system_export.xml",
+          "format": ".xml",
+          "bytes": 857
+        },
+        {
+          "path": "05_FINANCIAL/transaction_exports/transaction_export.csv",
+          "format": ".csv",
+          "bytes": 240
+        },
+        {
+          "path": "05_FINANCIAL/transaction_exports/transactions.json",
+          "format": ".json",
+          "bytes": 650
+        },
+        {
+          "path": "06_VEHICLES/vehicle_registry.csv",
+          "format": ".csv",
+          "bytes": 227
+        },
+        {
+          "path": "06_VEHICLES/vehicle_sightings.json",
+          "format": ".json",
+          "bytes": 386
+        },
+        {
+          "path": "07_DEVICES/P003_device_extraction.json",
+          "format": ".json",
+          "bytes": 487
+        },
+        {
+          "path": "08_LOCATION_MOVEMENT/gps_points.csv",
+          "format": ".csv",
+          "bytes": 296
+        },
+        {
+          "path": "09_ACCESS_SECURITY/logs/access_control.log",
+          "format": ".log",
+          "bytes": 475
+        },
+        {
+          "path": "10_FORENSICS/E014_door_handle_report.docx",
+          "format": ".docx",
+          "bytes": 36815
+        },
+        {
+          "path": "10_FORENSICS/E014_door_handle_report.txt",
+          "format": ".txt",
+          "bytes": 246
+        },
+        {
+          "path": "11_DIGITAL_MEDIA/audio/README.txt",
+          "format": ".txt",
+          "bytes": 76
+        },
+        {
+          "path": "11_DIGITAL_MEDIA/audio/interview_003.wav",
+          "format": ".wav",
+          "bytes": 16044
+        },
+        {
+          "path": "11_DIGITAL_MEDIA/cctv/README.txt",
+          "format": ".txt",
+          "bytes": 237
+        },
+        {
+          "path": "11_DIGITAL_MEDIA/photos/E014_corridor.jpg",
+          "format": ".jpg",
+          "bytes": 7781
+        },
+        {
+          "path": "11_DIGITAL_MEDIA/photos/site_plan.png",
+          "format": ".png",
+          "bytes": 9667
+        },
+        {
+          "path": "12_LEGAL_BUSINESS/contract_review.eml",
+          "format": ".eml",
+          "bytes": 137
+        },
+        {
+          "path": "12_LEGAL_BUSINESS/tenant_agreement.txt",
+          "format": ".txt",
+          "bytes": 118
+        },
+        {
+          "path": "13_INVESTIGATION_MATERIAL/contradiction_register.csv",
+          "format": ".csv",
+          "bytes": 342
+        },
+        {
+          "path": "13_INVESTIGATION_MATERIAL/preliminary_notes.txt",
+          "format": ".txt",
+          "bytes": 366
+        },
+        {
+          "path": "13_INVESTIGATION_MATERIAL/public_web_capture.html",
+          "format": ".html",
+          "bytes": 137
+        },
+        {
+          "path": "13_INVESTIGATION_MATERIAL/raw_ingestion_sample.sql",
+          "format": ".sql",
+          "bytes": 444
+        },
+        {
+          "path": "14_EVALUATION_ONLY/README.txt",
+          "format": ".txt",
+          "bytes": 68
+        },
+        {
+          "path": "14_EVALUATION_ONLY/evaluation reference.json",
+          "format": ".json",
+          "bytes": 276
+        },
+        {
+          "path": "README.txt",
+          "format": ".txt",
+          "bytes": 2683
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "README.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "CRIMEMIND — FINAL SYNTHETIC INVESTIGATION WORLD\n================================================\nFictional case: The Meridian House Incident\nFictional city: Nandipur, India\nIncident date: 18 August 2026\n\nSTORY\n-----\nMeridian House is a fictional mixed-use heritage property with offices, a guest\nwing, courtyard, service entrance, parking and nearby commercial premises.\n\nOn the evening of 18 August 2026, the owner, Arvind Malhotra, hosted a private\nbusiness meeting and dinner. Several employees, contractors, guests, a former\nbusiness associate, tenants and service personnel were present or had legitimate\nreasons to interact with the property.\n\nAt approximately 21:18, an east-office motion alert was recorded. A staff member\nsubsequently discovered the owner unconscious in the restricted office. Emergency\nservices were called and the victim was pronounced dead.\n\nThere is no single clean account of what happened. Witnesses disagree about\ntimes and descriptions. One access reader intermittently failed. Vehicle records\nare incomplete. Phone activity, financial records, location traces and access\nrecords overlap in ways that require investigation.\n\nCrimeMind must determine which facts are connected, which people are relevant,\nwhich timelines contain meaningful gaps, and which evidence sources corroborate\none another.\n\nCRITICAL RESEARCH DESIGN\n------------------------\nThe ingestible world DOES NOT identify candidate classifications, offender classifications, offenders or conclusions.\nAll people are ordinary entities with legitimate roles and relationships.\nCrimeMind must discover candidates itself.\n\nThe evidence is deliberately heterogeneous and imperfect. The structured database\nis not supplied as the conclusion; the ingestion layer must extract and normalize the\nraw evidence first.\n\nFormats included:\nPDF/DOCX/TXT/CSV/XLSX/JSON/XML/HTML/EML/VCF/ICS/LOG/JPG/PNG/WAV/SRT/KML/\nGeoJSON/SQL plus an intentionally empty MP4 CCTV input folder.\n\nThe 40 predefined investigation questions remain the fixed analytical question\nset. This world introduces no replacement question set.\n\nPIPELINE\n--------\nRaw evidence -> ingestion/extraction -> normalization -> PostgreSQL/PostGIS\n-> reusable SQL modules -> correlation engine -> evidence packets\n-> AI synthesis -> traceable investigator report.\n\nThe LLM explains evidence-supported conclusions; it does not invent facts.\n\nCCTV\n----\n11_DIGITAL_MEDIA/cctv is intentionally blank. Add licensed/generated MP4 files.\nThe system must extract frames and preserve camera/timestamp metadata.\n\nEVALUATION\n----------\n14_EVALUATION_ONLY contains hidden evaluation labels. It is NOT part of normal\ningestion and must be excluded before testing the investigation pipeline.\n"
+    }
+  },
+  {
+    "source_file": "VALIDATION_REPORT.txt",
+    "extension": ".txt",
+    "success": true,
+    "data": {
+      "type": "text",
+      "content": "FINAL DATASET VALIDATION\n========================\nIngestible forbidden-label scan: PASS\nMatches outside evaluation folder: 0\n\nCCTV input folder: intentionally empty.\nEvaluation reference: isolated under 14_EVALUATION_ONLY and excluded from ingestion.\nThe 40 predefined investigation questions remain the fixed analytical specification.\nThe world contains heterogeneous raw evidence and deliberately imperfect/contradictory records.\n"
+    }
+  }
+]

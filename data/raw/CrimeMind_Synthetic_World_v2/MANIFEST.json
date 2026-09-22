@@ -1,0 +1,518 @@
+{
+  "dataset_version": "2.0-realistic",
+  "case_id": "CM-2026-0314-NDP",
+  "case_name": "The Green Park Warehouse Incident",
+  "city": "Nandipur",
+  "country": "India",
+  "incident_date": "2026-03-14",
+  "generation_seed": 20260922,
+  "evaluation_folder": "14_EVALUATION_ONLY",
+  "counts": {
+    "people": 42,
+    "locations": 28,
+    "vehicles": 17,
+    "events": "Derived across source systems; no single event table is supplied",
+    "calls": 1051,
+    "messages": 352,
+    "emails": 160,
+    "transactions": 1176,
+    "vehicle_sightings": 146,
+    "access_records": 288,
+    "visitor_records": 40,
+    "cctv_sources": 17,
+    "cctv_annotations": 114,
+    "cctv_frame_images": 5,
+    "audio_sources": 11,
+    "audio_wav_files": 3,
+    "forensic_reports": 15,
+    "witness_interviews": 10,
+    "files": 97
+  },
+  "files": [
+    {
+      "path": "generate_world.py",
+      "size_bytes": 222,
+      "sha256": "c32c69dc3bd4bc103306e274fa9776987264f8777edef018a29c2a0cd53e7815"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 1191,
+      "sha256": "aca33b6e1e0deae8005e1d614a8399a152d5c3d7a1708093f3336b179c4501f2"
+    },
+    {
+      "path": "validate_world.py",
+      "size_bytes": 1828,
+      "sha256": "f68be4403848afe5d1834cf18e742b1f1abffc70f9f94ab2e325c52e68e54147"
+    },
+    {
+      "path": "VALIDATION_REPORT.md",
+      "size_bytes": 1267,
+      "sha256": "afac1b105aee6da61f7f7384a510638335bf6b644b6f595e85f3625f3d69a228"
+    },
+    {
+      "path": "13_INVESTIGATION_MATERIAL/contradiction_register/contradictions.csv",
+      "size_bytes": 4535,
+      "sha256": "2eccb4d02d70b6de36d1582c181afa6515d2aff1c9107f21761d97a187dd7972"
+    },
+    {
+      "path": "13_INVESTIGATION_MATERIAL/investigator_notes/note_001.txt",
+      "size_bytes": 582,
+      "sha256": "0296cc75dd54ff3acfdcd8dbb9401ab53ae8edc2eac1ac8fa22147bd5509e368"
+    },
+    {
+      "path": "13_INVESTIGATION_MATERIAL/investigator_notes/note_002.txt",
+      "size_bytes": 750,
+      "sha256": "b9008615c02125f4f009cbd852f214860e72224688d5cb346d1c7c283e017a0f"
+    },
+    {
+      "path": "13_INVESTIGATION_MATERIAL/evidence_requests/request_001.txt",
+      "size_bytes": 173,
+      "sha256": "a3e0894df720ac1a6906a5c887f2cde33165488c1ffe235c970502c309bd6a4e"
+    },
+    {
+      "path": "05_VEHICLES/registry/vehicles.csv",
+      "size_bytes": 1320,
+      "sha256": "931fc9a48d88c3a208e63ac1c655afd4a9a3dbba6f48231a73b5258fbd8ece43"
+    },
+    {
+      "path": "05_VEHICLES/sightings/vehicle_sightings.csv",
+      "size_bytes": 10200,
+      "sha256": "aa691728100c0d36e3aee491f8d98097c18d6bb8d0680533b5ff442c55a81b55"
+    },
+    {
+      "path": "07_ACCESS_SECURITY/visitor_logs/visitor_logs.csv",
+      "size_bytes": 2531,
+      "sha256": "0c743762edc13c96b3e15caf2a0804166e20bd7a9a1bccfb8cdca9159eb7f0ed"
+    },
+    {
+      "path": "07_ACCESS_SECURITY/access_logs/access_logs.csv",
+      "size_bytes": 19579,
+      "sha256": "d73864904e176291b708b316870da4831890b72e1c73744fd600894261afdf4c"
+    },
+    {
+      "path": "03_COMMUNICATIONS/contacts/contacts.vcf",
+      "size_bytes": 4519,
+      "sha256": "73283fb4ae5d5942c9121722fbffc246b8badc9c934a07eb3f4da02e5a5520ad"
+    },
+    {
+      "path": "03_COMMUNICATIONS/messages/messages.csv",
+      "size_bytes": 34001,
+      "sha256": "927ddf101aed5bd6cbad924fd94b33f8bfceca6f8b0be0b3278fb3da6f89c834"
+    },
+    {
+      "path": "03_COMMUNICATIONS/calendars/calendar.ics",
+      "size_bytes": 483,
+      "sha256": "ddeca4bd8d90de9099d5759564b07027a372189e8233e81b816a48536d0cf783"
+    },
+    {
+      "path": "03_COMMUNICATIONS/calls/calls.csv",
+      "size_bytes": 115907,
+      "sha256": "7126b389da28fce2fcacc6c1436e7bfbabc3444ca975f93f5f8eec6b367c0e58"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00003.eml",
+      "size_bytes": 309,
+      "sha256": "506c7714d9ec043aefef0c997f187431926d2ce3bcca95b05d49ccc152ceedcc"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00007.eml",
+      "size_bytes": 261,
+      "sha256": "fa25f1170fcc341290acab0e1dbb01a67cbe9a3716a0efc84eee55b96fc59d3a"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00012.eml",
+      "size_bytes": 285,
+      "sha256": "dd2f18ecf15ec9de6d7cb849f11cff5024a1677ce4b9692f6abfb5c5b9111fac"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00010.eml",
+      "size_bytes": 311,
+      "sha256": "26869c8de6683c46efc7b36a4ef6edb93e1b131390d94276e0f67e8be619327a"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00009.eml",
+      "size_bytes": 292,
+      "sha256": "b3dcd1bfc9aba320a097d220b16f7bb77ef4566b95288dcfcdca46cb5f3258c9"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00011.eml",
+      "size_bytes": 287,
+      "sha256": "62cd17ba06c36890cfc9d3dc66a03182efeea8a4959c00a50ae58f8e47f01a5f"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00001.eml",
+      "size_bytes": 294,
+      "sha256": "c23297c4ebc8b630a6529824c947a12c30e5b2a35a1fd0a4d6b144e6087ff1ef"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00006.eml",
+      "size_bytes": 308,
+      "sha256": "5e7967d1c9cee0ab895e062f85cf628a4510ab0cff101f668fb2ae132527fbf1"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00002.eml",
+      "size_bytes": 310,
+      "sha256": "3adb7e2d92aa0e0042b96b1753ce2975f73d67ed513717fba8f4a8cf51a65775"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00008.eml",
+      "size_bytes": 286,
+      "sha256": "94b527c7b4a81b4e694e02fdb6025b2f290e1800509c2a6b00e6b893f7ea1e33"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00005.eml",
+      "size_bytes": 290,
+      "sha256": "c52059c415e123a1134d80f92de48f20a908bc3f500cc2580d868ce71a0e9529"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/emails.csv",
+      "size_bytes": 27601,
+      "sha256": "d87c3d61b6355d34126ab869890f4e7373f670f9a2399c834fc8ff475249bece"
+    },
+    {
+      "path": "03_COMMUNICATIONS/emails/EML00004.eml",
+      "size_bytes": 299,
+      "sha256": "2ba42a561f20e5c7439fd07f280e8c9272ae9a7224ed391d2d8a4ee4abf0a72c"
+    },
+    {
+      "path": "12_PUBLIC_INFORMATION/news/herald_article_001.txt",
+      "size_bytes": 387,
+      "sha256": "efb3d4ef1a15b45e1ce16caaf42bd27b1dca46664af0608bbef5cf226bf90fcb"
+    },
+    {
+      "path": "12_PUBLIC_INFORMATION/public_posts/post_2.txt",
+      "size_bytes": 84,
+      "sha256": "ba7279c8edc573ca9f6e02c60d141bf341dcd80a41f54d0b623e24f0503595e0"
+    },
+    {
+      "path": "12_PUBLIC_INFORMATION/public_posts/post_5.txt",
+      "size_bytes": 83,
+      "sha256": "f4004cd90749aa2e23a9751e86fe6ab6e23283d2c25e4956b165a97d023cfc61"
+    },
+    {
+      "path": "12_PUBLIC_INFORMATION/public_posts/post_3.txt",
+      "size_bytes": 89,
+      "sha256": "4cacd671e325e762320554107f56fe7154a4a686a64ba62f8d51e1b712d8e6e0"
+    },
+    {
+      "path": "12_PUBLIC_INFORMATION/public_posts/post_4.txt",
+      "size_bytes": 82,
+      "sha256": "ec18979e016a11ac5500c74d7adda3ed595ff72bed8916cfafad76e6fa1c47ad"
+    },
+    {
+      "path": "12_PUBLIC_INFORMATION/public_posts/post_1.txt",
+      "size_bytes": 84,
+      "sha256": "99aa388eb0e6cf10d58c263ee8b8c7894c33fbb3549c03ac3e063e5357e0f013"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT004.txt",
+      "size_bytes": 1442,
+      "sha256": "1f21b9861c9b3c0660ab6a2cfa443df02b66d715df1173b200d85ce445fdf48b"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT001.txt",
+      "size_bytes": 1404,
+      "sha256": "ad6daa81e522c10d2f4a7aeb8e2620ec4c97fd61c19cb7d6348a894d0ad62408"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT007.txt",
+      "size_bytes": 1455,
+      "sha256": "4ff958f1692602a66e9dd9a8ba834b39e9bd0fb0559171bcd8f291c2e6d11ef5"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT010.txt",
+      "size_bytes": 1418,
+      "sha256": "4d8323c52eae5f45155253a5f7183502c370ad34b6fdc125a1a8f673fde5637f"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT006.txt",
+      "size_bytes": 1437,
+      "sha256": "b37b219d037d1d712abca503f69986d8d8df3bfcd041740312cf1aa9256dd586"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT003.txt",
+      "size_bytes": 1543,
+      "sha256": "f48b9198e07177f7b8c4b0d9a64f6d377be59d40a7eda49f1ff1df4658d6a290"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT002.txt",
+      "size_bytes": 1485,
+      "sha256": "86572ef28638569885540f4c5a4d9bc88f5f86c8f825fb07cc04e358b1a381fe"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT009.txt",
+      "size_bytes": 1523,
+      "sha256": "c21ab83aec55fde45326af7fd84f5d5877a3a65b1543a9384650fb4958a52cf0"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT008.txt",
+      "size_bytes": 1572,
+      "sha256": "d404670582e4b0fc0fea21c9e41e7c19818273116dd2500e1f6196bf89b09680"
+    },
+    {
+      "path": "01_PEOPLE/interviews/WIT005.txt",
+      "size_bytes": 1491,
+      "sha256": "88243b40bb55c976c6b8f6ae2bd915683647a1f5bfc18695c613adf6ee654054"
+    },
+    {
+      "path": "01_PEOPLE/person_profiles/people.csv",
+      "size_bytes": 7681,
+      "sha256": "48c1e42d607bfed668460073d38e4d9202d27cc815b84df50a144af7704ff90f"
+    },
+    {
+      "path": "01_PEOPLE/person_profiles/people.json",
+      "size_bytes": 22958,
+      "sha256": "6496903c02a005179798863437b53c952ab86da492c2f6fa2d747ac069cb6e50"
+    },
+    {
+      "path": "01_PEOPLE/relationships/relationships.csv",
+      "size_bytes": 2502,
+      "sha256": "7aefd273968de6c78ff6bbc446f5549469abe011da09461d8646c986cbe0d49b"
+    },
+    {
+      "path": "15_RAW_SOURCE/original_files/README.txt",
+      "size_bytes": 310,
+      "sha256": "94a2b622c29f0828b2e9776d5ef57409a5ab550ac000b397d919deeb9541789e"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD005_transcript.txt",
+      "size_bytes": 123,
+      "sha256": "8a1511a01876cc848bbff8b1d28f9517fbd10c8118c8ce4952a95caf28df53e9"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD011_transcript.txt",
+      "size_bytes": 230,
+      "sha256": "d6198926b07ea7253c2658ee86ad3ade84fa7da4d19780d3fd60f41a1933ec9b"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD001_transcript.txt",
+      "size_bytes": 121,
+      "sha256": "e5a048febd365c3695591c018d1845560ae1dcacb115a3163fecd455117720bc"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD007_transcript.txt",
+      "size_bytes": 127,
+      "sha256": "21d60d287ad9700ff941bf57e8fa942feba8a9a9d8f254cde67ad8371bbc5c4b"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD008_transcript.txt",
+      "size_bytes": 115,
+      "sha256": "37b5aa39b7520173178b4a5eab7d9e8862d90e82cae28f4d51d637cdf610d5fd"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD006_transcript.txt",
+      "size_bytes": 124,
+      "sha256": "ae69daeb8a54a8786f9236bc6a50d41d3f2d34decf55031d3eadb36c8c25104b"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD009_transcript.txt",
+      "size_bytes": 124,
+      "sha256": "de6027a1bc5dcad8ea291f154f092b757a3825fd4e6093eb381a359606217a92"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD010_transcript.txt",
+      "size_bytes": 124,
+      "sha256": "19cadea2c792cd8a622b9b42d19535d71a0dcae562dabb1ed09c67ede9f79665"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD002_transcript.txt",
+      "size_bytes": 125,
+      "sha256": "500706e2b7292f071c13d76a6ba6b6f87c1d2d37188eb86547f6f551e7a13ea4"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD003_transcript.txt",
+      "size_bytes": 124,
+      "sha256": "6b682aa57c8c90760d0ec291f2e403c5c235d70c0c58c5e29fdb1ec9e2ece3e8"
+    },
+    {
+      "path": "09_AUDIO/transcripts/AUD004_transcript.txt",
+      "size_bytes": 119,
+      "sha256": "57ce4b1a3d0456c4c82f5441cbade43c62ce831b63fecdc2007d584a2388dcb3"
+    },
+    {
+      "path": "09_AUDIO/recordings/audio_metadata.csv",
+      "size_bytes": 880,
+      "sha256": "aaf0f15dab4d7f8d78a2edec06954aaaf936169acbbcd2087f9ab07a66582c92"
+    },
+    {
+      "path": "09_AUDIO/recordings/wav/AUD005.wav",
+      "size_bytes": 128044,
+      "sha256": "5f08263190bc95da0ccc68996b9bbe622f3a0600cc7288490cce8dd812c04012"
+    },
+    {
+      "path": "09_AUDIO/recordings/wav/AUD011.wav",
+      "size_bytes": 128044,
+      "sha256": "a1e0bfecc2f7cf2b08b8b61d5930f6d9cea38d9dbf84271017ad4255b625a1a7"
+    },
+    {
+      "path": "09_AUDIO/recordings/wav/AUD001.wav",
+      "size_bytes": 128044,
+      "sha256": "5ae9a8ecdfd4ce77cf79233e39cc4ff69c953b8f26b0fe22f31476796d03a6fb"
+    },
+    {
+      "path": "02_LOCATIONS/locations.kml",
+      "size_bytes": 3815,
+      "sha256": "81b1c01de9a34e90e50c74e95fc8579dc6c1052427d294d8f0e70010df0be1aa"
+    },
+    {
+      "path": "02_LOCATIONS/locations.csv",
+      "size_bytes": 3876,
+      "sha256": "eeddcd0196499368a394b437a18cffac0aa24f320de9da312b2e1487d31af4c1"
+    },
+    {
+      "path": "02_LOCATIONS/locations.geojson",
+      "size_bytes": 12691,
+      "sha256": "bf3f33a36deffa469519b90e2d9b220edda2a87b48ceaf7ad145bb2006ad43a6"
+    },
+    {
+      "path": "14_EVALUATION_ONLY/ground_truth.json",
+      "size_bytes": 2148,
+      "sha256": "e70df04f23e9d8eacea2a2ab57825f554773201831e7d4d1e2e4d3e8c248c1c7"
+    },
+    {
+      "path": "08_CCTV/annotations/cctv_annotations.csv",
+      "size_bytes": 14966,
+      "sha256": "7fc3760e906aec2ed8e1bef51757064583b51fcbc3619b1a62fdc492720d92e1"
+    },
+    {
+      "path": "08_CCTV/metadata/cameras.csv",
+      "size_bytes": 1455,
+      "sha256": "159d8783879e8646d1a359ba0eec2dd67568bd42a9b4f01274dc7bdb7170e923"
+    },
+    {
+      "path": "08_CCTV/frames/CAM016_20260314_215005.jpg",
+      "size_bytes": 39794,
+      "sha256": "e57fc80e8b80e472d306a35f79a35bad09ad30a7ddf6ebe4a9aac262e9f7e63e"
+    },
+    {
+      "path": "08_CCTV/frames/CAM017_20260314_220311.jpg",
+      "size_bytes": 39895,
+      "sha256": "7598a7d1a76915e5377e00d9a85cb36569bc9be85fdb3843783fed47b3f85bde"
+    },
+    {
+      "path": "08_CCTV/frames/CAM017_20260314_213842.jpg",
+      "size_bytes": 40497,
+      "sha256": "acd3e53f657f2c28512a6a35eede051938a23a292c0578657ae46068bae74724"
+    },
+    {
+      "path": "08_CCTV/frames/CAM016_20260314_214130.jpg",
+      "size_bytes": 40325,
+      "sha256": "f88aa3a6ec18ade1d35ddb8549f0582f3400ebf627f33b901cb65cd09e43c890"
+    },
+    {
+      "path": "08_CCTV/frames/CAM016_20260314_214410.jpg",
+      "size_bytes": 41434,
+      "sha256": "cf34eff07357428bd4573212eb1b1dd0db9d8deb12d60a7e346ad3036b3eeb33"
+    },
+    {
+      "path": "11_LEGAL_BUSINESS/employment/employment_record_001.txt",
+      "size_bytes": 129,
+      "sha256": "224dcddb4b40b1d120f73cbc97cb4e46f25ebac5ad86f7740abf0ced26ae711c"
+    },
+    {
+      "path": "11_LEGAL_BUSINESS/leases/lease_agreement_001.txt",
+      "size_bytes": 163,
+      "sha256": "3d25e4358402c12d895e45d7d72cff056d5237b88cbf52c1c41286c13273c8e6"
+    },
+    {
+      "path": "11_LEGAL_BUSINESS/invoices/invoice_1005.txt",
+      "size_bytes": 136,
+      "sha256": "ff000bc63b8d131dc91522677fbcac6bfc540abf303ca8b464f41ef47a8ff91f"
+    },
+    {
+      "path": "11_LEGAL_BUSINESS/invoices/invoice_1003.txt",
+      "size_bytes": 149,
+      "sha256": "661ffb9a51a8f18a47f23ca356b8a1568c7bb61bb0bb5fcc23d600c2f9c9b7da"
+    },
+    {
+      "path": "11_LEGAL_BUSINESS/invoices/invoice_1004.txt",
+      "size_bytes": 152,
+      "sha256": "68ba63361de06b24dae6e519d70ad1c69a2f59da81aac2d82b9313783eb68bcf"
+    },
+    {
+      "path": "11_LEGAL_BUSINESS/invoices/invoice_1002.txt",
+      "size_bytes": 142,
+      "sha256": "82d97f8dcf0a87ef11e67788f323eb1214e9d6e7cc330771945a7a7f4455d80b"
+    },
+    {
+      "path": "11_LEGAL_BUSINESS/invoices/invoice_1001.txt",
+      "size_bytes": 147,
+      "sha256": "6b6c97887f3916eb9ebf09725a8da23ffd72ad43cec147bb5293faa5b2131270"
+    },
+    {
+      "path": "04_FINANCIAL/transactions/transactions.csv",
+      "size_bytes": 164344,
+      "sha256": "2a1eb45ffa2d6113c9dcef15db6ce485e3a8fd055648bcf29d780cd678f1f990"
+    },
+    {
+      "path": "04_FINANCIAL/bank/bank_export_subset.xml",
+      "size_bytes": 2277,
+      "sha256": "edaacee8f8d645b853221adfcdb051dca592555c704697f5875f5cca42a0abc8"
+    },
+    {
+      "path": "04_FINANCIAL/bank/bank_export_subset.json",
+      "size_bytes": 10628,
+      "sha256": "e354fb641aa3942b77385dc915384045aca78bf8668a9f5be783690c9d0828de"
+    },
+    {
+      "path": "16_NORMALIZATION_REFERENCE/normalization_notes.md",
+      "size_bytes": 1190,
+      "sha256": "a85bf58299356822c50b715ccc8ca707ddcedbef31222add53bcc56e2e2482e8"
+    },
+    {
+      "path": "06_DEVICES/browser/browser_history.csv",
+      "size_bytes": 731,
+      "sha256": "693ee37c97bcfbff067f6adf76d8077814f2dbf8d534b9b86c14f7accc8004d6"
+    },
+    {
+      "path": "06_DEVICES/gps/gps_logs_full.csv",
+      "size_bytes": 27286,
+      "sha256": "0557bd912943b7d4bc0067b42a9520462099ee59d351ac772caf7e964ea2b02f"
+    },
+    {
+      "path": "06_DEVICES/gps/gps_logs.csv",
+      "size_bytes": 14452,
+      "sha256": "a5cb9054911d73e4abab993078fd236a75d460690444459215157550f8608482"
+    },
+    {
+      "path": "06_DEVICES/device_extractions/P026_device_extraction.json",
+      "size_bytes": 678,
+      "sha256": "2c02c84da38a187c72e4089eef782f239879c13eac8f801bbdacafe627f7cf74"
+    },
+    {
+      "path": "06_DEVICES/device_extractions/P025_device_extraction.json",
+      "size_bytes": 676,
+      "sha256": "008e5e9298cdf9a43ee3ae3aa3437c71263f1ca5eda3a985e6448f1c31317c96"
+    },
+    {
+      "path": "06_DEVICES/device_extractions/P042_device_extraction.json",
+      "size_bytes": 679,
+      "sha256": "9a2281ce343cb052b389494ef17fe02e35674350b2c3beb042aebd169f609dcd"
+    },
+    {
+      "path": "06_DEVICES/device_extractions/P009_device_extraction.json",
+      "size_bytes": 680,
+      "sha256": "9a9161524975232a2a6ef1e3a4fc49bd193286fe83d60306225d025393e63bc2"
+    },
+    {
+      "path": "06_DEVICES/device_extractions/P037_device_extraction.json",
+      "size_bytes": 679,
+      "sha256": "f3def80e86056e4ef30074f4515936df73065b6d48c31e871444228dd872f6b3"
+    },
+    {
+      "path": "10_FORENSICS/reports/forensic_reports.csv",
+      "size_bytes": 6014,
+      "sha256": "8c86c1f8dde36fb0812e981db8bec8cb80a6525460f66a64ed9989caf0eebbc2"
+    },
+    {
+      "path": "00_CASE_CONTEXT/city_profile.md",
+      "size_bytes": 506,
+      "sha256": "0421461bfd4198cccbade493422920f78b54ea8ebb3783a6ed0bf39861fcb25a"
+    },
+    {
+      "path": "00_CASE_CONTEXT/case_overview.md",
+      "size_bytes": 1650,
+      "sha256": "eaeb4250bae332b3e38988b8fc95bdafc88a27358f97a7558f62666749f1949b"
+    }
+  ]
+}

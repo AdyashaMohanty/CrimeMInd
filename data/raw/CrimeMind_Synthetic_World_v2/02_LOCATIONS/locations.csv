@@ -1,0 +1,29 @@
+location_id,name,type,address,latitude,longitude,neighborhood,opening_hours
+L001,Highway 42 Service Road Residence 0,residence,"132, Gandhi Nagar Road, Civil Lines, Nandipur",20.233495,85.830597,Ring Road East,24 hours
+L002,Nandipur Herald Office,office,"30, Ring Road, Rajpath Enclave, Nandipur",20.262223,85.771517,Sundarpada,08:00-22:00
+L003,Spice Route Restaurant,restaurant,"37, Canal Road, Industrial Area Phase 2, Nandipur",20.336179,85.77124,Kalinga Nagar,08:00-22:00
+L004,"Union Trust Bank, Nandipur Branch",bank,"55, Gandhi Nagar Road, Ring Road East, Nandipur",20.308051,85.793575,Green Park,08:00-22:00
+L005,Union Trust Bank ATM #4,atm,"27, Station Road, Industrial Area Phase 2, Nandipur",20.378651,85.840259,Green Park,08:00-22:00
+L006,Hotel Kalinga Residency,hotel,"10, Fort Road, Lakeview Colony, Nandipur",20.303554,85.752599,Ganga Vihar,08:00-22:00
+L007,Nandipur City Hospital,hospital,"163, Ring Road, University Campus Area, Nandipur",20.348106,85.797024,University Campus Area,24 hours
+L008,Nandipur Railway Station,railway_station,"74, New Colony Road, Kalinga Nagar, Nandipur",20.268515,85.815391,Green Park,08:00-22:00
+L009,Nandipur Central Bus Terminal,bus_terminal,"130, MG Road, Rajpath Enclave, Nandipur",20.253628,85.791708,Sundarpada,08:00-22:00
+L010,Nandipur State University,university,"177, Hill View Lane, Sector 5, Nandipur",20.293781,85.763866,Sector 5,08:00-22:00
+L011,Green Park Warehouse,warehouse,"160, Fort Road, Lakeview Colony, Nandipur",20.288056,85.856096,Industrial Area Phase 2,24 hours
+L012,Ashok Nagar Public Parking,parking_lot,"139, Riverbank Road, Ganga Vihar, Nandipur",20.238194,85.759098,Green Park,08:00-22:00
+L013,"HP Fuel Station, Riverbank Road",fuel_station,"67, Sector 7 Main Road, Sundarpada, Nandipur",20.342679,85.812854,Ring Road East,24 hours
+L014,Palm Court Apartments,apartment_complex,"94, Old Bypass, Old Town, Nandipur",20.369721,85.82863,Housing Board Colony,24 hours
+L015,Nandipur City Police Station,police_station,"54, Industrial Estate Road, University Campus Area, Nandipur",20.247948,85.813613,Civil Lines,24 hours
+L016,Nandipur City Mall,shopping_mall,"175, Gandhi Nagar Road, Industrial Area Phase 2, Nandipur",20.344506,85.758451,Civil Lines,08:00-22:00
+L017,Bean There Cafe,cafe,"96, Junction Road, Ring Road East, Nandipur",20.307345,85.855475,University Campus Area,08:00-22:00
+L018,Royal Enclave Gated Community,gated_community,"175, MG Road, Old Town, Nandipur",20.223251,85.900378,Sundarpada,24 hours
+L019,"Industrial Unit #18, Phase 2",industrial_unit,"109, Lake View Road, Ring Road East, Nandipur",20.263392,85.784765,Civil Lines,24 hours
+L020,Station Road / Industrial Estate Road Junction,intersection,"71, Highway 42 Service Road, Ganga Vihar, Nandipur",20.310753,85.857457,Industrial Area Phase 2,24 hours
+L021,Market Road Residence 20,residence,"192, Market Road, Housing Board Colony, Nandipur",20.366136,85.77728,Sector 5,24 hours
+L022,Dash & Partners Office,office,"140, Sector 7 Main Road, Housing Board Colony, Nandipur",20.38314,85.735894,Ashok Nagar,08:00-22:00
+L023,Coastal Curry Restaurant,restaurant,"27, Junction Road, Ring Road East, Nandipur",20.221918,85.912015,Old Town,08:00-22:00
+L024,"Union Trust Bank, Nandipur Branch",bank,"194, Court Road, Civil Lines, Nandipur",20.305906,85.873187,Green Park,08:00-22:00
+L025,Union Trust Bank ATM #24,atm,"179, Sector 7 Main Road, Green Park, Nandipur",20.324001,85.898941,Industrial Area Phase 2,08:00-22:00
+L026,Nandipur Grand Hotel,hotel,"87, Temple Street, Housing Board Colony, Nandipur",20.288326,85.801484,Ring Road East,08:00-22:00
+L027,Nandipur City Hospital,hospital,"18, Industrial Estate Road, Sector 5, Nandipur",20.281161,85.807814,Station Bazaar,24 hours
+L028,Green Park Fuel Station,fuel_station,"12, Lakeview Link Road, Industrial Area Phase 2, Nandipur",20.289420,85.858210,Industrial Area Phase 2,24 hours

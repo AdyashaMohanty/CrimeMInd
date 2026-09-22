@@ -1,0 +1,115 @@
+annotation_id,camera_id,timestamp,description,confidence
+CCTV00001,CAM001,2026-03-17 07:35:36,"individual approaches the gate, tries the handle, then steps back and waits",0.7
+CCTV00002,CAM001,2025-09-26 08:45:56,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.93
+CCTV00003,CAM001,2026-01-14 15:35:32,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.63
+CCTV00004,CAM001,2025-12-13 20:35:45,"person crosses in front of the entrance, moderate walking pace, no bag visible",0.88
+CCTV00005,CAM001,2025-12-03 13:15:55,"two individuals appear together near the gate, standing close, one gesturing with hands",0.82
+CCTV00006,CAM001,2025-11-13 14:00:59,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.73
+CCTV00007,CAM002,2025-11-13 21:10:44,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.8
+CCTV00008,CAM002,2026-04-25 06:50:53,"person_01 crouches briefly near the base of the fence, obscured partially by a parked container",0.7
+CCTV00009,CAM002,2026-03-06 15:25:09,"two individuals appear together near the gate, standing close, one gesturing with hands",0.69
+CCTV00010,CAM002,2026-01-21 07:25:54,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.79
+CCTV00011,CAM002,2025-09-23 15:10:30,individual wearing a dark jacket pauses near the fence line for several seconds before moving on,0.74
+CCTV00012,CAM002,2025-09-14 14:05:19,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.88
+CCTV00013,CAM002,2026-03-12 17:15:51,"no motion detected for an extended period, frame otherwise static",0.9
+CCTV00014,CAM002,2026-02-25 19:55:13,individual wearing a dark jacket pauses near the fence line for several seconds before moving on,0.85
+CCTV00015,CAM002,2025-10-19 06:45:23,"individual approaches the gate, tries the handle, then steps back and waits",0.85
+CCTV00016,CAM002,2026-02-20 20:50:01,"no motion detected for an extended period, frame otherwise static",0.88
+CCTV00017,CAM003,2026-02-06 16:15:39,vehicle idles at the edge of frame for close to two minutes before departing,0.74
+CCTV00018,CAM003,2025-11-01 11:45:02,"two people appear to exchange an object near the gate, hard to determine contents from this angle",0.76
+CCTV00019,CAM003,2026-01-18 19:50:12,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.66
+CCTV00020,CAM003,2025-11-16 08:50:38,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.71
+CCTV00021,CAM004,2026-02-09 17:35:10,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.78
+CCTV00022,CAM004,2025-11-29 12:25:45,vehicle idles at the edge of frame for close to two minutes before departing,0.94
+CCTV00023,CAM004,2026-02-01 15:55:58,"two people appear to exchange an object near the gate, hard to determine contents from this angle",0.9
+CCTV00024,CAM004,2026-01-27 19:05:56,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.86
+CCTV00025,CAM004,2025-12-07 20:05:59,"person exits frame quickly toward the rear of the property, does not look back",0.93
+CCTV00026,CAM004,2025-10-23 18:25:55,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.84
+CCTV00027,CAM005,2025-12-25 11:55:36,"person crosses in front of the entrance, moderate walking pace, no bag visible",0.57
+CCTV00028,CAM005,2026-04-05 11:50:00,"person_01 crouches briefly near the base of the fence, obscured partially by a parked container",0.52
+CCTV00029,CAM005,2026-01-28 23:15:24,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.67
+CCTV00030,CAM005,2025-12-22 11:40:25,"person crosses in front of the entrance, moderate walking pace, no bag visible",0.5
+CCTV00031,CAM005,2026-04-07 15:20:12,"person_01 crouches briefly near the base of the fence, obscured partially by a parked container",0.58
+CCTV00032,CAM005,2026-03-12 06:50:06,"person exits frame quickly toward the rear of the property, does not look back",0.67
+CCTV00033,CAM005,2025-11-18 22:00:18,"a group of three passes through frame, appears to be a routine patrol or delivery crew",0.68
+CCTV00034,CAM005,2026-01-13 13:40:15,"person crosses in front of the entrance, moderate walking pace, no bag visible",0.86
+CCTV00035,CAM005,2026-01-31 19:40:37,individual wearing a dark jacket pauses near the fence line for several seconds before moving on,0.81
+CCTV00036,CAM006,2026-04-20 18:15:40,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.89
+CCTV00037,CAM006,2025-09-16 19:00:37,"no motion detected for an extended period, frame otherwise static",0.89
+CCTV00038,CAM006,2026-02-11 20:30:42,"no motion detected for an extended period, frame otherwise static",0.56
+CCTV00039,CAM006,2025-11-10 09:30:26,"no motion detected for an extended period, frame otherwise static",0.65
+CCTV00040,CAM006,2026-02-16 07:05:34,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.56
+CCTV00041,CAM006,2026-03-20 14:00:17,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.64
+CCTV00042,CAM006,2025-12-17 17:30:30,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.94
+CCTV00043,CAM006,2025-12-28 19:50:26,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.93
+CCTV00044,CAM006,2025-10-18 22:40:36,"two individuals appear together near the gate, standing close, one gesturing with hands",0.69
+CCTV00045,CAM007,2025-10-16 09:40:14,vehicle idles at the edge of frame for close to two minutes before departing,0.84
+CCTV00046,CAM007,2026-02-11 18:15:49,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.61
+CCTV00047,CAM007,2026-01-22 08:25:17,"individual approaches the gate, tries the handle, then steps back and waits",0.93
+CCTV00048,CAM007,2025-11-27 18:45:40,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.59
+CCTV00049,CAM007,2026-03-11 20:15:32,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.68
+CCTV00050,CAM007,2026-01-11 13:35:48,"person_01 crouches briefly near the base of the fence, obscured partially by a parked container",0.77
+CCTV00051,CAM007,2025-12-05 19:25:01,"person exits frame quickly toward the rear of the property, does not look back",0.75
+CCTV00052,CAM007,2025-11-18 07:05:18,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.6
+CCTV00053,CAM007,2025-12-06 10:45:35,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.71
+CCTV00054,CAM007,2026-02-13 14:30:04,individual wearing a dark jacket pauses near the fence line for several seconds before moving on,0.82
+CCTV00055,CAM008,2026-01-28 14:55:45,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.59
+CCTV00056,CAM008,2026-02-28 13:35:56,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.72
+CCTV00057,CAM008,2026-04-07 12:50:31,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.7
+CCTV00058,CAM008,2026-02-02 18:20:16,"no motion detected for an extended period, frame otherwise static",0.88
+CCTV00059,CAM008,2026-03-13 21:30:47,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.63
+CCTV00060,CAM008,2025-10-01 20:15:30,"two individuals appear together near the gate, standing close, one gesturing with hands",0.74
+CCTV00061,CAM009,2026-01-17 22:55:35,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.55
+CCTV00062,CAM009,2026-01-01 11:10:30,"person_01 crouches briefly near the base of the fence, obscured partially by a parked container",0.92
+CCTV00063,CAM009,2025-10-12 16:35:07,"no motion detected for an extended period, frame otherwise static",0.87
+CCTV00064,CAM009,2025-09-29 20:55:09,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.83
+CCTV00065,CAM010,2025-12-14 18:10:03,"a group of three passes through frame, appears to be a routine patrol or delivery crew",0.76
+CCTV00066,CAM010,2025-12-17 06:10:42,"person crosses in front of the entrance, moderate walking pace, no bag visible",0.81
+CCTV00067,CAM010,2025-10-19 11:15:28,"person_01 lingers near the gate for close to a minute, glancing toward the road twice",0.78
+CCTV00068,CAM010,2025-10-09 09:00:58,"person exits frame quickly toward the rear of the property, does not look back",0.83
+CCTV00069,CAM010,2025-12-03 23:15:28,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.88
+CCTV00070,CAM010,2025-10-07 17:15:46,"delivery activity observed, one individual carrying boxes from a two-wheeler to the entrance",0.57
+CCTV00071,CAM010,2026-02-16 19:10:52,"two individuals appear together near the gate, standing close, one gesturing with hands",0.59
+CCTV00072,CAM010,2025-09-23 10:00:25,"two people appear to exchange an object near the gate, hard to determine contents from this angle",0.59
+CCTV00073,CAM011,2026-03-20 19:25:43,"person crosses in front of the entrance, moderate walking pace, no bag visible",0.83
+CCTV00074,CAM011,2026-02-25 19:45:56,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.6
+CCTV00075,CAM011,2025-10-03 16:40:23,"two individuals appear together near the gate, standing close, one gesturing with hands",0.83
+CCTV00076,CAM011,2026-01-07 08:30:47,"individual approaches the gate, tries the handle, then steps back and waits",0.61
+CCTV00077,CAM011,2025-12-24 08:30:35,"person exits frame quickly toward the rear of the property, does not look back",0.81
+CCTV00078,CAM012,2026-02-22 10:45:24,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.87
+CCTV00079,CAM012,2026-01-01 09:45:55,"person exits frame quickly toward the rear of the property, does not look back",0.9
+CCTV00080,CAM012,2025-09-16 15:35:24,"person crosses in front of the entrance, moderate walking pace, no bag visible",0.92
+CCTV00081,CAM012,2025-10-31 11:15:56,vehicle idles at the edge of frame for close to two minutes before departing,0.82
+CCTV00082,CAM013,2025-12-14 16:25:31,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.57
+CCTV00083,CAM013,2026-02-11 22:45:22,"individual approaches the gate, tries the handle, then steps back and waits",0.85
+CCTV00084,CAM013,2025-10-24 07:40:24,"person_01 crouches briefly near the base of the fence, obscured partially by a parked container",0.51
+CCTV00085,CAM013,2025-10-16 20:05:30,"no motion detected for an extended period, frame otherwise static",0.84
+CCTV00086,CAM013,2026-01-22 16:00:51,"person exits frame quickly toward the rear of the property, does not look back",0.73
+CCTV00087,CAM013,2025-12-31 11:00:51,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.89
+CCTV00088,CAM013,2025-11-23 06:45:49,vehicle idles at the edge of frame for close to two minutes before departing,0.52
+CCTV00089,CAM013,2025-09-13 16:35:06,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.9
+CCTV00090,CAM014,2025-11-01 22:20:40,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.72
+CCTV00091,CAM014,2025-09-28 11:55:50,"vehicle enters frame from the north access road, headlights on, no visible plate at this angle",0.63
+CCTV00092,CAM014,2026-04-07 17:15:04,individual wearing a dark jacket pauses near the fence line for several seconds before moving on,0.7
+CCTV00093,CAM014,2025-09-28 18:05:14,"no motion detected for an extended period, frame otherwise static",0.91
+CCTV00094,CAM014,2026-01-20 17:45:19,individual wearing a dark jacket pauses near the fence line for several seconds before moving on,0.74
+CCTV00095,CAM014,2025-12-02 21:25:31,"vehicle exits frame heading south, brake lights visible briefly at the junction",0.8
+CCTV00096,CAM015,2026-01-03 14:05:12,"individual approaches the gate, tries the handle, then steps back and waits",0.71
+CCTV00097,CAM015,2025-11-29 13:05:20,"vehicle_partial_02 parked briefly at the edge of frame, engine appears to remain running (exhaust visible)",0.55
+CCTV00098,CAM015,2025-09-30 18:05:08,"person_01 crouches briefly near the base of the fence, obscured partially by a parked container",0.86
+CCTV00099,CAM015,2026-02-09 12:50:36,"person_01 lingers near the gate for close to a minute, glancing toward the road twice",0.71
+CCTV00100,CAM016,2026-03-29 14:20:51,"person exits frame quickly toward the rear of the property, does not look back",0.77
+CCTV00101,CAM016,2026-01-16 22:55:25,"no motion detected for an extended period, frame otherwise static",0.53
+CCTV00102,CAM016,2026-03-20 11:50:05,"two individuals appear together near the gate, standing close, one gesturing with hands",0.7
+CCTV00103,CAM016,2025-12-04 10:50:47,"individual approaches the gate, tries the handle, then steps back and waits",0.66
+CCTV00104,CAM016,2026-03-14 21:41:00,"individual wearing a dark jacket approaches the rear gate from the direction of the perimeter fence, unhurried pace",0.58
+CCTV00105,CAM016,2026-03-14 21:45:00,"person_01 lingers near the gate, partially occluded by a parked container, appears to look toward the main building twice",0.44
+CCTV00106,CAM016,2026-03-14 21:50:00,"person exits frame quickly toward the perimeter fence, does not look back, no bag or object visible in hand",0.61
+CCTV00107,CAM016,2026-03-14 21:46:00,"[recording gap - segment overwritten, approx. 55 seconds lost]",0.0
+CCTV00394,CAM016,2026-03-14 21:41:30,individual approaches rear gate carrying a small shoulder bag; face not visible because of occlusion,0.66
+CCTV00395,CAM016,2026-03-14 21:44:10,vehicle_partial_03 enters the edge of frame; rear registration is partially readable,0.62
+CCTV00396,CAM016,2026-03-14 21:46:20,recording quality drops briefly; rear-gate area partly obscured by parked containers,0.55
+CCTV00397,CAM016,2026-03-14 21:50:05,vehicle_partial_03 leaves frame heading east; plate remains partially unreadable,0.58
+CCTV00398,CAM017,2026-03-14 20:55:14,staff member in station uniform services a customer at pump 2; face not clearly resolved,0.88
+CCTV00399,CAM017,2026-03-14 21:38:42,staff member in station uniform moves between pump island and kiosk,0.90
+CCTV00400,CAM017,2026-03-14 22:03:11,same shift activity continues at kiosk; no unusual interaction visible,0.91

@@ -1,0 +1,43 @@
+person_id,full_name,age,occupation,employer,residential_address,residence_location_id,phone_primary,phone_secondary,email_primary,email_secondary,emergency_contact_name,vehicle_owned,notes,work_location_id,routine_type
+P001,Nikhil Swain,49,Journalist,Nandipur Herald,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 9029837164,,nikhil.swain65@gmail.com,,,False,,L004,irregular
+P002,Radha Rout,48,Software Engineer,Kalinga Softtech Pvt Ltd,"94, Old Bypass, Old Town, Nandipur",L014,+91 9924029930,,radha.rout@nandipurmail.com,,,True,,L011,remote
+P003,Amit Naik,34,Journalist,Nandipur Herald,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 9812035599,+91 8076269228,amit.naik@gmail.com,,,True,,L002,irregular
+P004,Shalini Rao,62,Software Engineer,Kalinga Softtech Pvt Ltd,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 9817447787,+91 9057171377,shalini.rao@nandipurmail.com,,,False,,L023,day_shift
+P005,Anita Gupta,63,Landlord,Self-employed,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 8041629537,+91 9091181953,anita.gupta76@gmail.com,,Prakash Nair,True,,L004,day_shift
+P006,Karan Dash,57,Fuel Station Attendant,Green Park Fuel Station,"94, Old Bypass, Old Town, Nandipur",L014,+91 7037149286,,karan.dash@nandipurmail.com,,Ravi Gupta,True,Works rotating shifts at a 24-hour fuel station near Green Park Warehouse.,L028,shift_work
+P007,Nikhil Das,35,Taxi Driver,Self-employed,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 9834840362,,nikhil.das@nandipurmail.com,,,False,,L011,day_shift
+P008,Gaurav Rout,43,Mechanic,Highway Auto Works,"175, MG Road, Old Town, Nandipur",L018,+91 9949882535,,gaurav.rout78@nandipurmail.com,,Usha Singh,False,,L016,day_shift
+P009,Aditi Mallick,32,Property Manager,Riverbank Realty,"175, MG Road, Old Town, Nandipur",L018,+91 9899066376,,aditi.mallick@gmail.com,,,False,,L027,day_shift
+P010,Kavita Bal,42,Software Engineer,Kalinga Softtech Pvt Ltd,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 9891274271,,kavita.bal@gmail.com,,Mahesh Singh,False,,L010,day_shift
+P011,Usha Verma,58,Nurse,Nandipur City Hospital,"175, MG Road, Old Town, Nandipur",L018,+91 9854026519,+91 9089181574,usha.verma@gmail.com,,Lakshmi Pati,True,,L027,night_shift
+P012,Ritu Iyer,37,Nurse,Nandipur City Hospital,"94, Old Bypass, Old Town, Nandipur",L014,+91 7017878352,,ritu.iyer@nandipurmail.com,,Komal Pati,True,,L022,day_shift
+P013,Rajesh Swain,62,Accountant,Sethi & Associates,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 9025419329,,rajesh.swain@gmail.com,,,True,,L022,day_shift
+P014,Prakash Nair,47,Property Manager,Riverbank Realty,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 8048728842,,prakash.nair12@gmail.com,,Anita Gupta,False,,L024,day_shift
+P015,Kiran Dash,42,Delivery Worker,QuickDrop Logistics,"94, Old Bypass, Old Town, Nandipur",L014,+91 9972065052,,kiran.dash51@gmail.com,,,True,,L004,day_shift
+P016,Usha Singh,37,Shop Owner,Self-employed,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 9858538223,,usha.singh23@nandipurmail.com,,Gaurav Rout,True,,L022,day_shift
+P017,Siddharth Mallick,48,Bank Employee,"Union Trust Bank, Nandipur Branch","94, Old Bypass, Old Town, Nandipur",L014,+91 9945836599,+91 8042148044,siddharth.mallick84@gmail.com,,,False,,L003,day_shift
+P018,Prakash Tripathy,40,Retired Person,,"175, MG Road, Old Town, Nandipur",L018,+91 9025135342,,prakash.tripathy@nandipurmail.com,,Rohit Mallick,False,,,retired
+P019,Lakshmi Pati,61,Domestic Worker,Private household,"175, MG Road, Old Town, Nandipur",L018,+91 9961366134,,lakshmi.pati@nandipurmail.com,lakshmipati@yahoo.com,Usha Verma,True,,L007,day_shift
+P020,Vivek Mishra,43,Unemployed,,"175, MG Road, Old Town, Nandipur",L018,+91 9978957272,,vivek.mishra@nandipurmail.com,,,False,,L023,day_shift
+P021,Nikhil Singh,45,Property Manager,Riverbank Realty,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 7092466518,,nikhil.singh@nandipurmail.com,,Amit Das,True,,L024,day_shift
+P022,Ashok Swain,49,Delivery Worker,QuickDrop Logistics,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 8011745854,+91 8021581338,ashok.swain21@nandipurmail.com,,,False,,L022,day_shift
+P023,Nisha Patel,42,Accountant,Sethi & Associates,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 7050152218,,nisha.patel@gmail.com,,,False,,L004,day_shift
+P024,Shalini Pati,29,Landlord,Self-employed,"175, MG Road, Old Town, Nandipur",L018,+91 9894670613,,shalini.pati@gmail.com,,,True,,L016,day_shift
+P025,Manisha Nair,64,Real Estate Agent,Riverbank Realty,"94, Old Bypass, Old Town, Nandipur",L014,+91 9058248303,+91 8039730964,manisha.nair@nandipurmail.com,,,True,,L003,irregular
+P026,Ravi Gupta,23,Unemployed,,"94, Old Bypass, Old Town, Nandipur",L014,+91 7087393203,,ravi.gupta46@gmail.com,,Karan Dash,False,,L019,day_shift
+P027,Komal Pati,31,Domestic Worker,Private household,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 9884645824,,komal.pati@nandipurmail.com,,Ritu Iyer,False,,L004,day_shift
+P028,Neha Bal,19,University Professor,Nandipur State University,"94, Old Bypass, Old Town, Nandipur",L014,+91 8082176114,+91 8013713325,neha.bal@gmail.com,,,False,,L027,day_shift
+P029,Arvind Dash,68,Mechanic,Highway Auto Works,"192, Market Road, Housing Board Colony, Nandipur",L021,,,arvind.dash@gmail.com,arvinddash@yahoo.com,Naveen Mishra,True,,L007,day_shift
+P030,Mahesh Singh,44,Journalist,Nandipur Herald,"94, Old Bypass, Old Town, Nandipur",L014,,+91 9836826201,mahesh.singh@gmail.com,,Kavita Bal,False,,L003,irregular
+P031,Manisha Bal,52,Mechanic,Highway Auto Works,"192, Market Road, Housing Board Colony, Nandipur",L021,,+91 8094812967,manisha.bal26@gmail.com,,,False,,L016,day_shift
+P032,Rohit Mallick,41,Bank Employee,"Union Trust Bank, Nandipur Branch","94, Old Bypass, Old Town, Nandipur",L014,+91 9012057074,,rohit.mallick@gmail.com,rohitmallick@yahoo.com,Prakash Tripathy,False,,L004,day_shift
+P033,Nikhil Choudhury,46,Property Manager,Riverbank Realty,"94, Old Bypass, Old Town, Nandipur",L014,+91 7027909944,+91 9026822349,nikhil.choudhury73@nandipurmail.com,,,False,,L007,day_shift
+P034,Amit Das,65,Real Estate Agent,Riverbank Realty,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 9021933488,+91 7041282917,amit.das@gmail.com,,Nikhil Singh,True,,L010,irregular
+P035,Rohit Mishra,24,Software Engineer,Kalinga Softtech Pvt Ltd,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 7011946866,,rohit.mishra@gmail.com,,,True,,L022,day_shift
+P036,Aditi Choudhury,26,Taxi Driver,Self-employed,"175, MG Road, Old Town, Nandipur",L018,+91 9821597187,,aditi.choudhury82@gmail.com,,,False,,L003,day_shift
+P037,Vinod Mishra,44,Shop Owner,Self-employed,"192, Market Road, Housing Board Colony, Nandipur",L021,+91 7067154811,,vinod.mishra@gmail.com,vinodmishra@yahoo.com,Prakash Nair,False,,L024,day_shift
+P038,Mahesh Acharya,41,Journalist,Nandipur Herald,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 8063442307,,mahesh.acharya@nandipurmail.com,,,True,,L003,irregular
+P039,Pooja Mallick,23,University Professor,Nandipur State University,"175, MG Road, Old Town, Nandipur",L018,,+91 7012012689,pooja.mallick@gmail.com,poojamallick@yahoo.com,,True,,L010,day_shift
+P040,Kiran Reddy,34,Doctor,Nandipur City Hospital,"175, MG Road, Old Town, Nandipur",L018,+91 8079814367,,kiran.reddy79@gmail.com,,,False,,L024,day_shift
+P041,Preeti Sahu,49,Taxi Driver,Self-employed,"94, Old Bypass, Old Town, Nandipur",L014,+91 9076168413,,preeti.sahu@gmail.com,,,False,,L019,day_shift
+P042,Naveen Mishra,53,Lawyer,Dash & Partners Law Office,"132, Gandhi Nagar Road, Civil Lines, Nandipur",L001,+91 9855823679,,naveen.mishra@gmail.com,,Arvind Dash,True,,L022,day_shift

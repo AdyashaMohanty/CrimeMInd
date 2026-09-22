@@ -1,0 +1,7 @@
+Audio ID: AUD011
+Source: CCTV Audio (CAM016)
+Timestamp: 2026-03-14 21:45:00
+
+Transcript:
+[wind noise] ...don't, just [inaudible] ...leave it...[footsteps]...
+Analyst note: Speaker identity could not be confirmed from audio alone.

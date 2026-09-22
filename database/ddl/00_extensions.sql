@@ -1,0 +1,3 @@
+-- CrimeMind Oracle XE 11g.
+-- legacy database extensions extensions are not used. Location coordinates are stored
+-- as latitude/longitude NUMBER values and an optional SDO_GEOMETRY column.

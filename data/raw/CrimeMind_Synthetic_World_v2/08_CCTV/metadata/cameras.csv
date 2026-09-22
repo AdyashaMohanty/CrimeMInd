@@ -1,0 +1,18 @@
+camera_id,location_id,direction,coverage_description,operating_hours,retention_days,owner,timestamp_offset_seconds,recording_quality
+CAM001,L018,S,Entrance view,24/7,15,Nandipur City Police,-300,Low (night mode)
+CAM002,L026,NE,Parking area view,18:00-06:00,45,Building Management,120,Low (night mode)
+CAM003,L009,NE,Interior corridor view,24/7,30,Private Owner,0,Low (night mode)
+CAM004,L017,SW,Street-facing view,24/7,60,Nandipur City Police,120,Low (night mode)
+CAM005,L014,NE,Parking area view,24/7,45,Building Management,0,Medium
+CAM006,L017,E,Street-facing view,24/7,60,Private Owner,0,Low (night mode)
+CAM007,L011,NE,Parking area view,24/7,30,Private Owner,0,Medium
+CAM008,L008,N,Parking area view,24/7,15,Nandipur City Police,0,High
+CAM009,L015,S,Street-facing view,24/7,30,Building Management,0,Medium
+CAM010,L023,W,Interior corridor view,18:00-06:00,45,Nandipur City Police,0,Medium
+CAM011,L011,SW,Parking area view,18:00-06:00,30,Private Owner,0,Medium
+CAM012,L027,E,Parking area view,24/7,30,Private Owner,-300,Medium
+CAM013,L021,W,Interior corridor view,24/7,15,Nandipur City Police,0,Medium
+CAM014,L012,E,Parking area view,24/7,60,Building Management,-45,High
+CAM015,L017,W,Parking area view,24/7,15,Building Management,120,High
+CAM016,L011,NE,Rear gate view (partial occlusion by parked containers),24/7,30,Building Management,90,Low (night mode)
+CAM017,L028,NW,Fuel pump forecourt and driveway view,24/7,30,Green Park Fuel Station,0,Medium

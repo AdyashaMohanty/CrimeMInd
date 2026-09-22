@@ -1,0 +1,13 @@
+PRELIMINARY NOTES — Case CM-2026-0314-NDP
+Analyst: Inspector Mallick
+Date: 2026-03-16
+
+Reviewing access logs for Green Park Warehouse (L011).
+Aditi Mallick (P009) badge-in recorded 2026-03-14 20:37:00,
+consistent with end-of-shift. A denied access attempt at the rear gate
+was logged shortly before the estimated incident time — need to verify
+reason for this attempt with the subject directly.
+
+CAM016 footage has a gap in the minute before the estimated incident time
+(recording overwritten per device log) — need to request raw storage
+device for further recovery attempt.

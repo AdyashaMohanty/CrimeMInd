@@ -1,0 +1,12 @@
+audio_id,source,timestamp,speaker_person_id,speaker_confidence,language,transcript_confidence
+AUD001,Phone Recording,2026-03-28 10:10:13,P003,confirmed,Hindi,0.84
+AUD002,CCTV Audio,2026-03-04 21:25:41,P041,confirmed,English,0.76
+AUD003,CCTV Audio,2026-02-17 22:45:09,UNKNOWN,unidentified,English,0.77
+AUD004,CCTV Audio,2025-12-03 13:55:04,UNKNOWN,unidentified,Hinglish,0.8
+AUD005,Voicemail,2026-03-13 06:35:22,UNKNOWN,unidentified,Hindi,0.46
+AUD006,CCTV Audio,2026-03-15 07:30:06,P010,confirmed,Hindi,0.61
+AUD007,Phone Recording,2026-03-22 18:15:05,P042,confirmed,English,0.47
+AUD008,Voicemail,2026-01-21 16:15:27,UNKNOWN,unidentified,Hindi,0.54
+AUD009,Security Recording,2025-09-25 17:55:43,P003,confirmed,English,0.5
+AUD010,Phone Recording,2025-10-05 19:10:40,UNKNOWN,unidentified,Hinglish,0.5
+AUD011,CCTV Audio,2026-03-14 21:45:00,UNKNOWN,unidentified,English,0.38

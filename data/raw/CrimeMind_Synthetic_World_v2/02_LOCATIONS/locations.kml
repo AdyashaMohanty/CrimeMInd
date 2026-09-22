@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark><name>L001 - Highway 42 Service Road Residence 0</name><Point><coordinates>85.830597,20.233495,0</coordinates></Point></Placemark>
+<Placemark><name>L002 - Nandipur Herald Office</name><Point><coordinates>85.771517,20.262223,0</coordinates></Point></Placemark>
+<Placemark><name>L003 - Spice Route Restaurant</name><Point><coordinates>85.77124,20.336179,0</coordinates></Point></Placemark>
+<Placemark><name>L004 - Union Trust Bank, Nandipur Branch</name><Point><coordinates>85.793575,20.308051,0</coordinates></Point></Placemark>
+<Placemark><name>L005 - Union Trust Bank ATM #4</name><Point><coordinates>85.840259,20.378651,0</coordinates></Point></Placemark>
+<Placemark><name>L006 - Hotel Kalinga Residency</name><Point><coordinates>85.752599,20.303554,0</coordinates></Point></Placemark>
+<Placemark><name>L007 - Nandipur City Hospital</name><Point><coordinates>85.797024,20.348106,0</coordinates></Point></Placemark>
+<Placemark><name>L008 - Nandipur Railway Station</name><Point><coordinates>85.815391,20.268515,0</coordinates></Point></Placemark>
+<Placemark><name>L009 - Nandipur Central Bus Terminal</name><Point><coordinates>85.791708,20.253628,0</coordinates></Point></Placemark>
+<Placemark><name>L010 - Nandipur State University</name><Point><coordinates>85.763866,20.293781,0</coordinates></Point></Placemark>
+<Placemark><name>L011 - Green Park Warehouse</name><Point><coordinates>85.856096,20.288056,0</coordinates></Point></Placemark>
+<Placemark><name>L012 - Ashok Nagar Public Parking</name><Point><coordinates>85.759098,20.238194,0</coordinates></Point></Placemark>
+<Placemark><name>L013 - HP Fuel Station, Riverbank Road</name><Point><coordinates>85.812854,20.342679,0</coordinates></Point></Placemark>
+<Placemark><name>L014 - Palm Court Apartments</name><Point><coordinates>85.82863,20.369721,0</coordinates></Point></Placemark>
+<Placemark><name>L015 - Nandipur City Police Station</name><Point><coordinates>85.813613,20.247948,0</coordinates></Point></Placemark>
+<Placemark><name>L016 - Nandipur City Mall</name><Point><coordinates>85.758451,20.344506,0</coordinates></Point></Placemark>
+<Placemark><name>L017 - Bean There Cafe</name><Point><coordinates>85.855475,20.307345,0</coordinates></Point></Placemark>
+<Placemark><name>L018 - Royal Enclave Gated Community</name><Point><coordinates>85.900378,20.223251,0</coordinates></Point></Placemark>
+<Placemark><name>L019 - Industrial Unit #18, Phase 2</name><Point><coordinates>85.784765,20.263392,0</coordinates></Point></Placemark>
+<Placemark><name>L020 - Station Road / Industrial Estate Road Junction</name><Point><coordinates>85.857457,20.310753,0</coordinates></Point></Placemark>
+<Placemark><name>L021 - Market Road Residence 20</name><Point><coordinates>85.77728,20.366136,0</coordinates></Point></Placemark>
+<Placemark><name>L022 - Dash & Partners Office</name><Point><coordinates>85.735894,20.38314,0</coordinates></Point></Placemark>
+<Placemark><name>L023 - Coastal Curry Restaurant</name><Point><coordinates>85.912015,20.221918,0</coordinates></Point></Placemark>
+<Placemark><name>L024 - Union Trust Bank, Nandipur Branch</name><Point><coordinates>85.873187,20.305906,0</coordinates></Point></Placemark>
+<Placemark><name>L025 - Union Trust Bank ATM #24</name><Point><coordinates>85.898941,20.324001,0</coordinates></Point></Placemark>
+<Placemark><name>L026 - Nandipur Grand Hotel</name><Point><coordinates>85.801484,20.288326,0</coordinates></Point></Placemark>
+<Placemark><name>L027 - Nandipur City Hospital</name><Point><coordinates>85.807814,20.281161,0</coordinates></Point></Placemark>
+<Placemark><name>L028 - Green Park Fuel Station</name><Point><coordinates>85.858210,20.289420,0</coordinates></Point></Placemark>
+</Document></kml>

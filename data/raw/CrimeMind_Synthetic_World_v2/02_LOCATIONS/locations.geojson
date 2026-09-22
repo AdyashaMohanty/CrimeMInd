@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L001",
+        "name": "Highway 42 Service Road Residence 0",
+        "type": "residence",
+        "address": "132, Gandhi Nagar Road, Civil Lines, Nandipur",
+        "neighborhood": "Ring Road East",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.830597,
+          20.233495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L002",
+        "name": "Nandipur Herald Office",
+        "type": "office",
+        "address": "30, Ring Road, Rajpath Enclave, Nandipur",
+        "neighborhood": "Sundarpada",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.771517,
+          20.262223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L003",
+        "name": "Spice Route Restaurant",
+        "type": "restaurant",
+        "address": "37, Canal Road, Industrial Area Phase 2, Nandipur",
+        "neighborhood": "Kalinga Nagar",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.77124,
+          20.336179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L004",
+        "name": "Union Trust Bank, Nandipur Branch",
+        "type": "bank",
+        "address": "55, Gandhi Nagar Road, Ring Road East, Nandipur",
+        "neighborhood": "Green Park",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.793575,
+          20.308051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L005",
+        "name": "Union Trust Bank ATM #4",
+        "type": "atm",
+        "address": "27, Station Road, Industrial Area Phase 2, Nandipur",
+        "neighborhood": "Green Park",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.840259,
+          20.378651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L006",
+        "name": "Hotel Kalinga Residency",
+        "type": "hotel",
+        "address": "10, Fort Road, Lakeview Colony, Nandipur",
+        "neighborhood": "Ganga Vihar",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.752599,
+          20.303554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L007",
+        "name": "Nandipur City Hospital",
+        "type": "hospital",
+        "address": "163, Ring Road, University Campus Area, Nandipur",
+        "neighborhood": "University Campus Area",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.797024,
+          20.348106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L008",
+        "name": "Nandipur Railway Station",
+        "type": "railway_station",
+        "address": "74, New Colony Road, Kalinga Nagar, Nandipur",
+        "neighborhood": "Green Park",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.815391,
+          20.268515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L009",
+        "name": "Nandipur Central Bus Terminal",
+        "type": "bus_terminal",
+        "address": "130, MG Road, Rajpath Enclave, Nandipur",
+        "neighborhood": "Sundarpada",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.791708,
+          20.253628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L010",
+        "name": "Nandipur State University",
+        "type": "university",
+        "address": "177, Hill View Lane, Sector 5, Nandipur",
+        "neighborhood": "Sector 5",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.763866,
+          20.293781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L011",
+        "name": "Green Park Warehouse",
+        "type": "warehouse",
+        "address": "160, Fort Road, Lakeview Colony, Nandipur",
+        "neighborhood": "Industrial Area Phase 2",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.856096,
+          20.288056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L012",
+        "name": "Ashok Nagar Public Parking",
+        "type": "parking_lot",
+        "address": "139, Riverbank Road, Ganga Vihar, Nandipur",
+        "neighborhood": "Green Park",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.759098,
+          20.238194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L013",
+        "name": "HP Fuel Station, Riverbank Road",
+        "type": "fuel_station",
+        "address": "67, Sector 7 Main Road, Sundarpada, Nandipur",
+        "neighborhood": "Ring Road East",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.812854,
+          20.342679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L014",
+        "name": "Palm Court Apartments",
+        "type": "apartment_complex",
+        "address": "94, Old Bypass, Old Town, Nandipur",
+        "neighborhood": "Housing Board Colony",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.82863,
+          20.369721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L015",
+        "name": "Nandipur City Police Station",
+        "type": "police_station",
+        "address": "54, Industrial Estate Road, University Campus Area, Nandipur",
+        "neighborhood": "Civil Lines",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.813613,
+          20.247948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L016",
+        "name": "Nandipur City Mall",
+        "type": "shopping_mall",
+        "address": "175, Gandhi Nagar Road, Industrial Area Phase 2, Nandipur",
+        "neighborhood": "Civil Lines",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.758451,
+          20.344506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L017",
+        "name": "Bean There Cafe",
+        "type": "cafe",
+        "address": "96, Junction Road, Ring Road East, Nandipur",
+        "neighborhood": "University Campus Area",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.855475,
+          20.307345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L018",
+        "name": "Royal Enclave Gated Community",
+        "type": "gated_community",
+        "address": "175, MG Road, Old Town, Nandipur",
+        "neighborhood": "Sundarpada",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.900378,
+          20.223251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L019",
+        "name": "Industrial Unit #18, Phase 2",
+        "type": "industrial_unit",
+        "address": "109, Lake View Road, Ring Road East, Nandipur",
+        "neighborhood": "Civil Lines",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.784765,
+          20.263392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L020",
+        "name": "Station Road / Industrial Estate Road Junction",
+        "type": "intersection",
+        "address": "71, Highway 42 Service Road, Ganga Vihar, Nandipur",
+        "neighborhood": "Industrial Area Phase 2",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.857457,
+          20.310753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L021",
+        "name": "Market Road Residence 20",
+        "type": "residence",
+        "address": "192, Market Road, Housing Board Colony, Nandipur",
+        "neighborhood": "Sector 5",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.77728,
+          20.366136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L022",
+        "name": "Dash & Partners Office",
+        "type": "office",
+        "address": "140, Sector 7 Main Road, Housing Board Colony, Nandipur",
+        "neighborhood": "Ashok Nagar",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.735894,
+          20.38314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L023",
+        "name": "Coastal Curry Restaurant",
+        "type": "restaurant",
+        "address": "27, Junction Road, Ring Road East, Nandipur",
+        "neighborhood": "Old Town",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.912015,
+          20.221918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L024",
+        "name": "Union Trust Bank, Nandipur Branch",
+        "type": "bank",
+        "address": "194, Court Road, Civil Lines, Nandipur",
+        "neighborhood": "Green Park",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.873187,
+          20.305906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L025",
+        "name": "Union Trust Bank ATM #24",
+        "type": "atm",
+        "address": "179, Sector 7 Main Road, Green Park, Nandipur",
+        "neighborhood": "Industrial Area Phase 2",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.898941,
+          20.324001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L026",
+        "name": "Nandipur Grand Hotel",
+        "type": "hotel",
+        "address": "87, Temple Street, Housing Board Colony, Nandipur",
+        "neighborhood": "Ring Road East",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.801484,
+          20.288326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L027",
+        "name": "Nandipur City Hospital",
+        "type": "hospital",
+        "address": "18, Industrial Estate Road, Sector 5, Nandipur",
+        "neighborhood": "Station Bazaar",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.807814,
+          20.281161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_id": "L028",
+        "name": "Green Park Fuel Station",
+        "type": "fuel_station",
+        "address": "12, Lakeview Link Road, Industrial Area Phase 2, Nandipur",
+        "neighborhood": "Industrial Area Phase 2",
+        "opening_hours": "24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.85821,
+          20.28942
+        ]
+      }
+    }
+  ]
+}

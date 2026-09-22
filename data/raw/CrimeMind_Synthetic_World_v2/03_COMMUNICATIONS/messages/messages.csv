@@ -1,0 +1,353 @@
+message_id,sender_person_id,receiver_person_id,timestamp,message_type,body,deleted_flag,edited_flag,source_device
+MSG00001,P016,P001,2026-02-07 13:55:51,text,meeting shift ho gayi hai,False,False,DEV-P016
+MSG00002,P042,P005,2026-03-11 13:30:39,text,"Thanks, received the payment.",False,False,DEV-P042
+MSG00003,P007,P017,2026-04-20 23:35:42,text,kal milte hain,False,False,DEV-P007
+MSG00004,P018,P022,2026-01-25 06:40:34,text,Please send the invoice by evening.,False,False,DEV-P018
+MSG00005,P009,P018,2025-11-04 10:15:18,text,See you at the office tomorrow.,False,False,DEV-P009
+MSG00006,P041,P021,2026-03-15 14:20:23,text,"call me when free, nothing urgent",False,False,DEV-P041
+MSG00007,P040,P034,2026-03-15 22:40:05,text,send me the file asap,False,False,DEV-P040
+MSG00008,P007,P036,2026-04-06 09:35:53,text,Reminder: rent due on the 5th.,False,False,DEV-P007
+MSG00009,P042,P006,2025-12-06 14:25:21,text,wo paise abhi tak nahi aaye,False,False,DEV-P042
+MSG00010,P030,P009,2025-10-02 14:35:24,text,Please send the invoice by evening.,False,False,DEV-P030
+MSG00011,P042,P009,2026-02-13 21:50:50,text,meeting shift ho gayi hai,False,False,DEV-P042
+MSG00012,P014,P041,2026-02-13 16:10:30,text,documents leke aana mat bhoolna,False,False,DEV-P014
+MSG00013,P009,P028,2026-01-31 06:00:07,text,Running 10 minutes late.,False,False,DEV-P009
+MSG00014,P003,P023,2025-11-02 06:30:39,text,Running 10 minutes late.,False,False,DEV-P003
+MSG00015,P022,P005,2025-10-18 15:35:53,text,mummy ko bata dena main late aaunga,False,False,DEV-P022
+MSG00016,P034,P006,2025-12-28 23:45:04,text,Happy Birthday!,False,False,DEV-P034
+MSG00017,P007,P034,2025-10-07 09:10:51,text,Reminder: rent due on the 5th.,False,False,DEV-P007
+MSG00018,P018,P007,2026-01-23 12:30:35,text,mummy ko bata dena main late aaunga,False,False,DEV-P018
+MSG00019,P037,P021,2025-10-18 22:55:37,text,See you at the office tomorrow.,False,False,DEV-P037
+MSG00020,P031,P021,2025-12-13 09:00:47,text,mummy ko bata dena main late aaunga,False,False,DEV-P031
+MSG00021,P022,P039,2026-04-06 12:45:07,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P022
+MSG00022,P035,P014,2026-01-16 22:45:32,text,Let's catch up this weekend.,False,False,DEV-P035
+MSG00023,P016,P015,2026-02-19 07:20:17,text,Please review the attached document.,False,False,DEV-P016
+MSG00024,P028,P023,2025-10-31 13:15:59,text,party thoda postpone ho gayi hai,False,False,DEV-P028
+MSG00025,P007,P002,2026-03-21 08:35:39,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P007
+MSG00026,P024,P011,2026-02-28 11:15:36,text,Traffic is bad near the mall today.,False,False,DEV-P024
+MSG00027,P003,P001,2025-11-26 16:05:51,text,aaj thoda late ho jayega,False,False,DEV-P003
+MSG00028,P010,P040,2025-09-29 16:05:18,text,Can we reschedule to 4pm?,False,False,DEV-P010
+MSG00029,P007,P015,2026-03-20 15:25:10,text,send me the file asap,False,False,DEV-P007
+MSG00030,P039,P004,2026-03-24 15:30:10,text,See you at the office tomorrow.,False,False,DEV-P039
+MSG00031,P005,P028,2025-12-22 16:45:48,text,"ok noted, will confirm by evening",False,False,DEV-P005
+MSG00032,P024,P004,2026-03-13 11:45:28,text,let's meet near the old gate,False,False,DEV-P024
+MSG00033,P006,P012,2025-09-30 19:55:03,text,"ok noted, will confirm by evening",False,False,DEV-P006
+MSG00034,P022,P010,2025-12-26 14:35:05,text,Running 10 minutes late.,False,False,DEV-P022
+MSG00035,P035,P026,2025-10-11 14:35:46,text,kal milte hain,False,False,DEV-P035
+MSG00036,P034,P022,2025-09-23 19:00:09,text,Let's catch up this weekend.,False,False,DEV-P034
+MSG00037,P028,P011,2026-03-20 06:35:51,text,"Thanks, received the payment.",False,False,DEV-P028
+MSG00038,P015,P037,2025-10-04 06:10:18,text,wo paise abhi tak nahi aaye,False,False,DEV-P015
+MSG00039,P029,P020,2026-01-25 16:55:47,text,are you still coming tonight?,False,False,DEV-P029
+MSG00040,P039,P030,2025-12-08 23:20:37,text,Traffic is bad near the mall today.,False,False,DEV-P039
+MSG00041,P040,P030,2026-02-03 08:50:13,text,mummy ko bata dena main late aaunga,False,False,DEV-P040
+MSG00042,P008,P039,2026-02-02 18:35:52,text,Happy Birthday!,False,False,DEV-P008
+MSG00043,P021,P008,2025-10-26 19:10:57,text,Happy Birthday!,False,False,DEV-P021
+MSG00044,P013,P041,2026-03-08 08:35:12,text,party thoda postpone ho gayi hai,False,False,DEV-P013
+MSG00045,P017,P042,2025-10-03 08:55:50,text,Can we reschedule to 4pm?,False,False,DEV-P017
+MSG00046,P029,P003,2025-09-14 18:00:31,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P029
+MSG00047,P041,P009,2026-02-01 21:55:29,text,Let's catch up this weekend.,False,False,DEV-P041
+MSG00048,P021,P004,2025-09-30 09:30:28,text,Running 10 minutes late.,False,False,DEV-P021
+MSG00049,P033,P015,2026-03-15 21:20:48,text,Please send the invoice by evening.,False,False,DEV-P033
+MSG00050,P004,P001,2025-09-24 13:05:14,text,Please send the invoice by evening.,False,False,DEV-P004
+MSG00051,P011,P030,2025-10-08 23:30:08,text,Can we reschedule to 4pm?,False,False,DEV-P011
+MSG00052,P018,P022,2025-09-12 21:00:25,text,kal milte hain,False,False,DEV-P018
+MSG00053,P027,P013,2026-04-01 07:40:59,text,send me the file asap,False,False,DEV-P027
+MSG00054,P033,P007,2025-11-30 18:55:39,text,Happy Birthday!,False,False,DEV-P033
+MSG00055,P028,P026,2026-01-07 08:10:48,text,Please send the invoice by evening.,False,False,DEV-P028
+MSG00056,P015,P026,2026-01-26 22:25:05,text,Running 10 minutes late.,False,False,DEV-P015
+MSG00057,P003,P018,2026-03-22 22:45:38,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P003
+MSG00058,P022,P042,2026-02-03 10:30:08,text,Traffic is bad near the mall today.,False,False,DEV-P022
+MSG00059,P030,P019,2026-03-28 16:40:31,text,See you at the office tomorrow.,False,False,DEV-P030
+MSG00060,P038,P022,2026-03-01 06:50:19,text,"gaadi service mein hai, thoda time lagega",False,False,DEV-P038
+MSG00061,P019,P038,2026-01-05 14:20:45,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P019
+MSG00062,P021,P025,2025-09-30 17:20:54,text,let's meet near the old gate,False,False,DEV-P021
+MSG00063,P012,P024,2025-09-23 19:30:58,text,"don't call me right now, will explain later",False,False,DEV-P012
+MSG00064,P009,P026,2026-04-24 14:30:56,text,Traffic is bad near the mall today.,False,False,DEV-P009
+MSG00065,P037,P012,2025-12-02 07:55:05,text,"call me when free, nothing urgent",False,False,DEV-P037
+MSG00066,P004,P008,2025-12-28 10:55:40,text,"Thanks, received the payment.",False,False,DEV-P004
+MSG00067,P031,P030,2026-04-05 16:25:53,text,kal 8 bje east gate aa jana,False,False,DEV-P031
+MSG00068,P038,P031,2026-03-13 19:10:03,text,"call me when free, nothing urgent",False,False,DEV-P038
+MSG00069,P029,P013,2025-09-11 13:45:27,text,meeting shift ho gayi hai,False,False,DEV-P029
+MSG00070,P025,P014,2026-01-10 15:05:33,text,wo paise abhi tak nahi aaye,False,False,DEV-P025
+MSG00071,P034,P007,2025-12-16 10:15:33,text,kal 8 bje east gate aa jana,False,False,DEV-P034
+MSG00072,P018,P042,2026-04-24 15:10:11,text,Let's catch up this weekend.,False,False,DEV-P018
+MSG00073,P037,P008,2025-12-10 21:25:31,text,"ok noted, will confirm by evening",False,False,DEV-P037
+MSG00074,P025,P018,2025-09-13 20:00:41,text,Happy Birthday!,False,False,DEV-P025
+MSG00075,P025,P015,2025-09-19 17:25:01,text,party thoda postpone ho gayi hai,False,False,DEV-P025
+MSG00076,P019,P023,2026-04-06 07:45:37,text,Please review the attached document.,False,False,DEV-P019
+MSG00077,P026,P035,2025-09-12 20:55:05,text,"gaadi service mein hai, thoda time lagega",False,False,DEV-P026
+MSG00078,P038,P019,2025-10-23 14:20:11,text,"ok noted, will confirm by evening",False,False,DEV-P038
+MSG00079,P024,P034,2025-09-23 16:10:30,text,bhai call kar jaldi,False,False,DEV-P024
+MSG00080,P026,P010,2025-12-14 15:25:17,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P026
+MSG00081,P028,P040,2025-11-07 11:00:07,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P028
+MSG00082,P024,P032,2026-02-04 23:40:59,text,Reminder: rent due on the 5th.,False,False,DEV-P024
+MSG00083,P012,P017,2025-11-23 16:25:46,text,Please send the invoice by evening.,False,False,DEV-P012
+MSG00084,P019,P041,2026-02-13 07:00:54,text,Let's catch up this weekend.,False,False,DEV-P019
+MSG00085,P021,P035,2025-12-17 19:15:43,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P021
+MSG00086,P008,P021,2025-11-03 19:55:53,text,mummy ko bata dena main late aaunga,False,False,DEV-P008
+MSG00087,P021,P009,2026-01-10 19:50:04,text,party thoda postpone ho gayi hai,False,False,DEV-P021
+MSG00088,P023,P022,2025-12-19 13:50:40,text,invoice bhej diya hai check kar lena,False,False,DEV-P023
+MSG00089,P021,P006,2026-01-02 11:25:02,text,"gaadi service mein hai, thoda time lagega",False,False,DEV-P021
+MSG00090,P038,P020,2026-01-16 20:00:16,text,Reminder: rent due on the 5th.,False,False,DEV-P038
+MSG00091,P034,P006,2026-01-30 12:15:50,text,Reminder: rent due on the 5th.,False,False,DEV-P034
+MSG00092,P012,P003,2026-03-21 22:40:45,text,invoice bhej diya hai check kar lena,False,False,DEV-P012
+MSG00093,P028,P040,2026-04-02 07:00:26,text,Can we reschedule to 4pm?,False,False,DEV-P028
+MSG00094,P027,P024,2025-12-23 08:10:35,text,Running 10 minutes late.,False,False,DEV-P027
+MSG00095,P028,P003,2025-11-12 09:15:56,text,send me the file asap,False,False,DEV-P028
+MSG00096,P024,P027,2026-02-17 21:15:42,text,Traffic is bad near the mall today.,False,False,DEV-P024
+MSG00097,P024,P035,2025-12-20 08:45:58,text,documents leke aana mat bhoolna,False,False,DEV-P024
+MSG00098,P014,P019,2025-10-25 19:55:46,text,let's meet near the old gate,False,False,DEV-P014
+MSG00099,P024,P037,2025-12-18 14:50:29,text,Reminder: rent due on the 5th.,False,False,DEV-P024
+MSG00100,P021,P004,2025-12-08 10:25:25,text,invoice bhej diya hai check kar lena,False,False,DEV-P021
+MSG00101,P023,P039,2026-01-28 09:50:03,text,See you at the office tomorrow.,False,False,DEV-P023
+MSG00102,P005,P033,2025-11-12 14:20:12,text,Can we reschedule to 4pm?,False,False,DEV-P005
+MSG00103,P035,P005,2026-02-12 07:50:56,text,are you still coming tonight?,False,False,DEV-P035
+MSG00104,P004,P010,2025-10-02 19:55:16,text,Reminder: rent due on the 5th.,False,False,DEV-P004
+MSG00105,P026,P038,2025-11-11 08:30:03,text,party thoda postpone ho gayi hai,False,False,DEV-P026
+MSG00106,P018,P017,2025-12-31 14:30:57,text,Reminder: rent due on the 5th.,False,False,DEV-P018
+MSG00107,P018,P013,2026-02-03 10:50:30,text,Can we reschedule to 4pm?,False,False,DEV-P018
+MSG00108,P026,P008,2025-11-04 15:00:51,text,send me the file asap,False,False,DEV-P026
+MSG00109,P002,P025,2026-04-05 10:55:19,text,meeting shift ho gayi hai,False,False,DEV-P002
+MSG00110,P028,P020,2025-09-12 23:20:39,text,location pin bhej raha hu,False,False,DEV-P028
+MSG00111,P018,P032,2025-09-22 23:30:04,text,See you at the office tomorrow.,False,False,DEV-P018
+MSG00112,P021,P016,2026-01-28 13:35:26,text,let's meet near the old gate,False,False,DEV-P021
+MSG00113,P017,P038,2025-11-11 08:15:50,text,meeting shift ho gayi hai,False,False,DEV-P017
+MSG00114,P010,P008,2026-02-24 06:50:05,text,aaj thoda late ho jayega,False,False,DEV-P010
+MSG00115,P016,P019,2026-04-25 19:05:52,text,Happy Birthday!,False,False,DEV-P016
+MSG00116,P016,P009,2025-12-21 19:20:40,text,Please review the attached document.,False,False,DEV-P016
+MSG00117,P022,P026,2025-10-10 09:35:34,text,bhai call kar jaldi,False,False,DEV-P022
+MSG00118,P004,P037,2025-09-27 11:30:29,text,Happy Birthday!,False,False,DEV-P004
+MSG00119,P041,P008,2026-02-03 11:15:53,text,documents leke aana mat bhoolna,False,False,DEV-P041
+MSG00120,P042,P028,2025-09-20 16:55:59,text,Happy Birthday!,False,False,DEV-P042
+MSG00121,P029,P006,2026-02-24 16:55:09,text,Happy Birthday!,False,False,DEV-P029
+MSG00122,P025,P036,2025-12-24 15:25:12,text,Can we reschedule to 4pm?,False,False,DEV-P025
+MSG00123,P002,P040,2025-12-16 12:55:31,text,Please send the invoice by evening.,False,False,DEV-P002
+MSG00124,P029,P023,2025-09-24 12:25:31,text,Reminder: rent due on the 5th.,False,False,DEV-P029
+MSG00125,P029,P023,2025-10-23 23:00:49,text,Can we reschedule to 4pm?,False,False,DEV-P029
+MSG00126,P016,P022,2025-09-13 06:00:46,text,Please send the invoice by evening.,False,False,DEV-P016
+MSG00127,P022,P042,2025-09-16 09:15:14,text,See you at the office tomorrow.,False,False,DEV-P022
+MSG00128,P042,P004,2026-01-10 20:20:14,text,aaj thoda late ho jayega,False,False,DEV-P042
+MSG00129,P002,P007,2026-03-21 15:50:37,text,Can we reschedule to 4pm?,False,False,DEV-P002
+MSG00130,P022,P009,2026-04-17 14:10:36,text,Running 10 minutes late.,False,False,DEV-P022
+MSG00131,P031,P022,2026-02-27 21:00:16,text,See you at the office tomorrow.,False,False,DEV-P031
+MSG00132,P007,P019,2026-02-01 19:05:19,text,Reminder: rent due on the 5th.,False,False,DEV-P007
+MSG00133,P015,P032,2026-02-18 08:20:58,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P015
+MSG00134,P040,P039,2026-01-26 09:25:29,text,party thoda postpone ho gayi hai,False,False,DEV-P040
+MSG00135,P032,P005,2025-12-26 10:30:12,text,Reminder: rent due on the 5th.,False,False,DEV-P032
+MSG00136,P037,P019,2025-12-24 11:50:11,text,mummy ko bata dena main late aaunga,False,False,DEV-P037
+MSG00137,P031,P008,2026-04-04 20:25:17,text,See you at the office tomorrow.,False,False,DEV-P031
+MSG00138,P017,P006,2025-09-11 15:00:33,text,Traffic is bad near the mall today.,False,False,DEV-P017
+MSG00139,P035,P017,2025-11-08 21:15:54,text,Traffic is bad near the mall today.,False,False,DEV-P035
+MSG00140,P004,P013,2025-12-05 08:00:48,text,Traffic is bad near the mall today.,False,False,DEV-P004
+MSG00141,P013,P033,2026-03-25 06:55:01,text,let's meet near the old gate,False,False,DEV-P013
+MSG00142,P032,P011,2025-10-31 22:50:07,text,Please send the invoice by evening.,False,False,DEV-P032
+MSG00143,P026,P009,2026-04-19 08:15:31,text,Reminder: rent due on the 5th.,False,False,DEV-P026
+MSG00144,P020,P026,2026-04-15 23:15:12,text,Reminder: rent due on the 5th.,False,False,DEV-P020
+MSG00145,P011,P035,2026-04-03 10:35:29,text,Running 10 minutes late.,False,False,DEV-P011
+MSG00146,P030,P018,2026-02-06 18:15:10,text,bhai call kar jaldi,False,False,DEV-P030
+MSG00147,P011,P003,2025-09-12 10:15:01,text,"Thanks, received the payment.",False,False,DEV-P011
+MSG00148,P014,P041,2025-12-17 12:35:51,text,"ok noted, will confirm by evening",False,False,DEV-P014
+MSG00149,P022,P018,2026-02-16 21:25:51,text,"gaadi service mein hai, thoda time lagega",False,False,DEV-P022
+MSG00150,P024,P036,2025-10-11 14:25:40,text,Happy Birthday!,False,False,DEV-P024
+MSG00151,P018,P028,2025-10-09 13:10:13,text,are you still coming tonight?,False,False,DEV-P018
+MSG00152,P002,P009,2025-12-16 17:30:38,text,"don't call me right now, will explain later",False,False,DEV-P002
+MSG00153,P001,P027,2026-04-06 16:05:20,text,"don't call me right now, will explain later",False,False,DEV-P001
+MSG00154,P015,P027,2025-09-22 20:40:45,text,Please review the attached document.,False,False,DEV-P015
+MSG00155,P023,P001,2025-11-14 10:00:22,text,Let's catch up this weekend.,False,False,DEV-P023
+MSG00156,P003,P039,2025-10-19 14:35:39,text,bhai call kar jaldi,False,False,DEV-P003
+MSG00157,P003,P035,2026-02-19 13:35:13,text,Traffic is bad near the mall today.,False,False,DEV-P003
+MSG00158,P009,P038,2025-10-13 15:35:27,text,Reminder: rent due on the 5th.,False,False,DEV-P009
+MSG00159,P033,P022,2025-10-09 22:55:40,text,Please review the attached document.,False,False,DEV-P033
+MSG00160,P041,P034,2025-12-16 07:55:16,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P041
+MSG00161,P025,P039,2026-02-28 11:50:35,text,Traffic is bad near the mall today.,False,False,DEV-P025
+MSG00162,P015,P011,2026-03-26 14:15:16,text,are you still coming tonight?,False,False,DEV-P015
+MSG00163,P010,P007,2026-01-18 07:05:56,text,Happy Birthday!,False,False,DEV-P010
+MSG00164,P007,P011,2025-10-26 18:05:12,text,kal 8 bje east gate aa jana,False,False,DEV-P007
+MSG00165,P013,P021,2026-03-24 22:35:55,text,See you at the office tomorrow.,False,False,DEV-P013
+MSG00166,P002,P016,2026-01-18 23:50:06,text,"Thanks, received the payment.",False,False,DEV-P002
+MSG00167,P036,P020,2025-10-21 23:15:14,text,Traffic is bad near the mall today.,False,False,DEV-P036
+MSG00168,P014,P037,2025-11-30 19:15:51,text,are you still coming tonight?,False,False,DEV-P014
+MSG00169,P038,P039,2025-09-30 23:00:48,text,invoice bhej diya hai check kar lena,False,False,DEV-P038
+MSG00170,P012,P022,2025-09-24 19:30:17,text,Happy Birthday!,False,False,DEV-P012
+MSG00171,P026,P005,2025-12-08 22:20:01,text,Please review the attached document.,False,False,DEV-P026
+MSG00172,P041,P011,2025-09-15 09:40:16,text,Happy Birthday!,False,False,DEV-P041
+MSG00173,P029,P010,2026-04-11 23:45:03,text,send me the file asap,False,False,DEV-P029
+MSG00174,P039,P001,2026-03-12 16:00:31,text,Happy Birthday!,False,False,DEV-P039
+MSG00175,P004,P017,2026-04-14 20:35:33,text,wo paise abhi tak nahi aaye,False,False,DEV-P004
+MSG00176,P039,P002,2026-01-26 13:10:40,text,aaj thoda late ho jayega,False,False,DEV-P039
+MSG00177,P001,P018,2025-10-10 17:00:18,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P001
+MSG00178,P019,P012,2026-01-21 11:35:15,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P019
+MSG00179,P036,P014,2025-12-22 20:40:36,text,"don't call me right now, will explain later",False,False,DEV-P036
+MSG00180,P032,P008,2026-04-22 20:35:05,text,Running 10 minutes late.,False,False,DEV-P032
+MSG00181,P033,P035,2025-12-11 18:40:35,text,kal 8 bje east gate aa jana,False,False,DEV-P033
+MSG00182,P037,P024,2025-12-10 20:15:40,text,"gaadi service mein hai, thoda time lagega",False,False,DEV-P037
+MSG00183,P016,P023,2025-10-09 11:25:48,text,party thoda postpone ho gayi hai,False,False,DEV-P016
+MSG00184,P033,P024,2026-03-19 16:00:21,text,Reminder: rent due on the 5th.,False,False,DEV-P033
+MSG00185,P019,P033,2026-01-30 11:25:03,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P019
+MSG00186,P035,P013,2026-02-16 06:45:22,text,party thoda postpone ho gayi hai,False,False,DEV-P035
+MSG00187,P031,P019,2026-02-07 09:40:12,text,Please send the invoice by evening.,False,False,DEV-P031
+MSG00188,P001,P008,2026-04-22 23:00:08,text,Reminder: rent due on the 5th.,False,False,DEV-P001
+MSG00189,P031,P033,2025-11-16 22:20:55,text,"Thanks, received the payment.",False,False,DEV-P031
+MSG00190,P038,P003,2025-12-05 14:40:16,text,Traffic is bad near the mall today.,False,False,DEV-P038
+MSG00191,P029,P002,2025-09-11 06:00:36,text,See you at the office tomorrow.,False,False,DEV-P029
+MSG00192,P037,P031,2025-12-12 12:10:04,text,Happy Birthday!,False,False,DEV-P037
+MSG00193,P001,P005,2026-01-04 10:40:51,text,bhai call kar jaldi,False,False,DEV-P001
+MSG00194,P041,P016,2026-01-27 21:35:13,text,"Thanks, received the payment.",False,False,DEV-P041
+MSG00195,P041,P010,2026-01-19 11:45:07,text,documents leke aana mat bhoolna,False,False,DEV-P041
+MSG00196,P014,P029,2026-01-23 07:40:20,text,Traffic is bad near the mall today.,False,False,DEV-P014
+MSG00197,P015,P027,2026-03-25 16:45:23,text,Running 10 minutes late.,False,False,DEV-P015
+MSG00198,P015,P018,2025-09-18 07:05:32,text,location pin bhej raha hu,False,False,DEV-P015
+MSG00199,P002,P014,2025-09-14 17:35:51,text,Happy Birthday!,False,False,DEV-P002
+MSG00200,P005,P036,2025-12-02 09:45:43,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P005
+MSG00201,P007,P001,2026-03-24 17:20:17,text,send me the file asap,False,False,DEV-P007
+MSG00202,P005,P031,2026-03-27 08:15:20,text,"ok noted, will confirm by evening",False,False,DEV-P005
+MSG00203,P012,P038,2025-12-22 11:35:21,text,See you at the office tomorrow.,False,False,DEV-P012
+MSG00204,P040,P019,2025-10-23 23:55:37,text,Please send the invoice by evening.,False,False,DEV-P040
+MSG00205,P030,P009,2026-04-17 23:55:03,text,invoice bhej diya hai check kar lena,False,False,DEV-P030
+MSG00206,P016,P012,2025-10-27 07:00:19,text,kal 8 bje east gate aa jana,False,False,DEV-P016
+MSG00207,P038,P023,2026-01-23 22:05:34,text,Traffic is bad near the mall today.,False,False,DEV-P038
+MSG00208,P038,P011,2025-10-19 22:20:26,text,mummy ko bata dena main late aaunga,False,False,DEV-P038
+MSG00209,P026,P014,2026-03-22 22:15:11,text,Please send the invoice by evening.,False,False,DEV-P026
+MSG00210,P011,P035,2025-12-20 16:55:44,text,Reminder: rent due on the 5th.,False,False,DEV-P011
+MSG00211,P025,P021,2026-02-17 18:35:57,text,let's meet near the old gate,False,False,DEV-P025
+MSG00212,P027,P009,2026-04-16 17:50:25,text,mummy ko bata dena main late aaunga,False,False,DEV-P027
+MSG00213,P035,P036,2025-11-11 16:45:14,text,Running 10 minutes late.,False,False,DEV-P035
+MSG00214,P003,P030,2025-11-21 10:55:35,text,Running 10 minutes late.,False,False,DEV-P003
+MSG00215,P028,P011,2025-11-04 09:10:50,text,wo paise abhi tak nahi aaye,False,False,DEV-P028
+MSG00216,P029,P020,2026-01-06 16:55:56,text,Please send the invoice by evening.,False,False,DEV-P029
+MSG00217,P035,P018,2025-10-11 16:00:41,text,Happy Birthday!,False,False,DEV-P035
+MSG00218,P020,P025,2025-09-17 15:00:29,text,Reminder: rent due on the 5th.,False,False,DEV-P020
+MSG00219,P007,P021,2026-02-23 23:05:46,text,Reminder: rent due on the 5th.,False,False,DEV-P007
+MSG00220,P032,P040,2026-01-01 22:40:23,text,Let's catch up this weekend.,False,False,DEV-P032
+MSG00221,P028,P032,2026-02-14 22:55:54,text,party thoda postpone ho gayi hai,False,False,DEV-P028
+MSG00222,P014,P013,2025-11-18 21:10:02,text,See you at the office tomorrow.,False,False,DEV-P014
+MSG00223,P024,P019,2025-11-27 22:55:24,text,Happy Birthday!,False,False,DEV-P024
+MSG00224,P025,P041,2026-03-15 08:35:41,text,"call me when free, nothing urgent",False,False,DEV-P025
+MSG00225,P025,P038,2025-11-18 08:00:17,text,Happy Birthday!,False,False,DEV-P025
+MSG00226,P025,P033,2025-12-22 15:00:36,text,are you still coming tonight?,False,False,DEV-P025
+MSG00227,P025,P001,2025-10-04 16:15:26,text,location pin bhej raha hu,False,False,DEV-P025
+MSG00228,P025,P039,2026-02-08 09:35:22,text,Traffic is bad near the mall today.,False,False,DEV-P025
+MSG00229,P007,P034,2025-09-10 06:25:52,text,Traffic is bad near the mall today.,False,False,DEV-P007
+MSG00230,P034,P029,2025-10-25 21:45:11,text,"Thanks, received the payment.",False,False,DEV-P034
+MSG00231,P026,P027,2025-11-22 06:15:59,text,party thoda postpone ho gayi hai,False,False,DEV-P026
+MSG00232,P018,P034,2026-03-03 07:25:08,text,Happy Birthday!,False,False,DEV-P018
+MSG00233,P005,P016,2025-10-17 18:55:54,text,Happy Birthday!,False,False,DEV-P005
+MSG00234,P013,P007,2025-11-14 15:15:31,text,let's meet near the old gate,False,False,DEV-P013
+MSG00235,P013,P041,2026-02-11 22:20:49,text,Please review the attached document.,False,False,DEV-P013
+MSG00236,P013,P030,2026-03-15 22:20:52,text,mummy ko bata dena main late aaunga,False,False,DEV-P013
+MSG00237,P024,P014,2025-09-27 15:00:15,text,Let's catch up this weekend.,False,False,DEV-P024
+MSG00238,P037,P002,2026-04-04 20:25:06,text,send me the file asap,False,False,DEV-P037
+MSG00239,P031,P035,2026-01-19 11:05:39,text,Let's catch up this weekend.,False,False,DEV-P031
+MSG00240,P017,P041,2025-11-14 07:55:36,text,invoice bhej diya hai check kar lena,False,False,DEV-P017
+MSG00241,P032,P023,2025-11-08 08:45:22,text,See you at the office tomorrow.,False,False,DEV-P032
+MSG00242,P024,P009,2025-10-26 10:05:33,text,kal milte hain,False,False,DEV-P024
+MSG00243,P015,P031,2026-02-01 22:15:22,text,send me the file asap,False,False,DEV-P015
+MSG00244,P033,P015,2026-01-01 14:50:29,text,kal 8 bje east gate aa jana,False,False,DEV-P033
+MSG00245,P016,P023,2025-11-17 21:55:23,text,location pin bhej raha hu,False,False,DEV-P016
+MSG00246,P026,P010,2026-01-31 08:00:59,text,"Thanks, received the payment.",False,False,DEV-P026
+MSG00247,P021,P029,2026-03-01 15:55:26,text,are you still coming tonight?,False,False,DEV-P021
+MSG00248,P004,P007,2025-10-13 16:55:25,text,"Thanks, received the payment.",False,False,DEV-P004
+MSG00249,P033,P022,2025-11-06 07:20:06,text,Traffic is bad near the mall today.,False,False,DEV-P033
+MSG00250,P005,P019,2026-01-28 09:40:39,text,invoice bhej diya hai check kar lena,False,False,DEV-P005
+MSG00251,P006,P019,2026-03-31 11:00:23,text,kal 8 bje east gate aa jana,False,False,DEV-P006
+MSG00252,P004,P019,2025-10-13 07:50:06,text,Happy Birthday!,False,False,DEV-P004
+MSG00253,P020,P017,2026-02-18 15:45:21,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P020
+MSG00254,P002,P025,2025-11-01 13:50:46,text,"ok noted, will confirm by evening",False,False,DEV-P002
+MSG00255,P031,P022,2025-11-09 23:20:01,text,Can we reschedule to 4pm?,False,False,DEV-P031
+MSG00256,P009,P016,2026-02-23 12:55:19,text,Can we reschedule to 4pm?,False,False,DEV-P009
+MSG00257,P002,P036,2025-10-01 19:50:04,text,"Thanks, received the payment.",False,False,DEV-P002
+MSG00258,P009,P038,2026-01-01 12:25:55,text,Traffic is bad near the mall today.,False,False,DEV-P009
+MSG00259,P024,P037,2026-03-31 20:10:07,text,meeting shift ho gayi hai,False,False,DEV-P024
+MSG00260,P007,P018,2025-11-25 23:25:27,text,party thoda postpone ho gayi hai,False,False,DEV-P007
+MSG00261,P042,P025,2026-03-05 17:55:33,text,Running 10 minutes late.,False,False,DEV-P042
+MSG00262,P029,P010,2025-10-30 10:50:15,text,See you at the office tomorrow.,False,False,DEV-P029
+MSG00263,P007,P019,2026-01-16 16:55:17,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P007
+MSG00264,P036,P038,2026-02-08 22:25:26,text,kal milte hain,False,False,DEV-P036
+MSG00265,P018,P021,2026-01-10 06:45:40,text,are you still coming tonight?,False,False,DEV-P018
+MSG00266,P027,P028,2025-11-26 09:30:12,text,Please review the attached document.,False,False,DEV-P027
+MSG00267,P024,P001,2025-12-31 19:10:22,text,See you at the office tomorrow.,False,False,DEV-P024
+MSG00268,P005,P012,2026-03-09 07:00:41,text,"don't call me right now, will explain later",False,False,DEV-P005
+MSG00269,P016,P002,2025-11-14 19:30:35,text,Reminder: rent due on the 5th.,False,False,DEV-P016
+MSG00270,P040,P026,2026-02-06 10:40:32,text,party thoda postpone ho gayi hai,False,False,DEV-P040
+MSG00271,P021,P013,2026-02-23 11:30:05,text,Happy Birthday!,False,False,DEV-P021
+MSG00272,P027,P017,2026-01-19 21:30:41,text,Traffic is bad near the mall today.,False,False,DEV-P027
+MSG00273,P016,P009,2026-03-26 18:15:46,text,location pin bhej raha hu,False,False,DEV-P016
+MSG00274,P010,P032,2026-02-27 18:30:58,text,Can we reschedule to 4pm?,False,False,DEV-P010
+MSG00275,P020,P001,2025-11-20 23:30:33,text,"Thanks, received the payment.",False,False,DEV-P020
+MSG00276,P001,P016,2026-04-05 19:05:56,text,See you at the office tomorrow.,False,False,DEV-P001
+MSG00277,P028,P026,2026-03-07 12:55:36,text,wo paise abhi tak nahi aaye,False,False,DEV-P028
+MSG00278,P038,P035,2025-09-19 17:05:19,text,let's meet near the old gate,False,False,DEV-P038
+MSG00279,P007,P019,2025-12-21 06:25:02,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P007
+MSG00280,P032,P038,2026-03-12 15:35:23,text,Reminder: rent due on the 5th.,False,False,DEV-P032
+MSG00281,P011,P007,2025-10-04 18:35:49,text,"ok noted, will confirm by evening",False,False,DEV-P011
+MSG00282,P029,P003,2026-04-07 20:25:01,text,Let's catch up this weekend.,False,False,DEV-P029
+MSG00283,P021,P020,2025-10-04 13:30:47,text,meeting shift ho gayi hai,False,False,DEV-P021
+MSG00284,P037,P028,2026-01-01 18:10:55,text,Can we reschedule to 4pm?,False,False,DEV-P037
+MSG00285,P037,P008,2026-02-09 18:15:04,text,Traffic is bad near the mall today.,False,False,DEV-P037
+MSG00286,P015,P027,2026-01-08 09:25:04,text,wo paise abhi tak nahi aaye,False,False,DEV-P015
+MSG00287,P030,P021,2025-09-19 17:20:22,text,Please send the invoice by evening.,False,False,DEV-P030
+MSG00288,P032,P011,2025-11-18 17:00:50,text,invoice bhej diya hai check kar lena,False,False,DEV-P032
+MSG00289,P026,P030,2025-09-12 14:45:57,text,are you still coming tonight?,False,False,DEV-P026
+MSG00290,P021,P002,2025-11-24 06:30:59,text,documents leke aana mat bhoolna,False,False,DEV-P021
+MSG00291,P031,P009,2026-02-20 06:40:17,text,"ok noted, will confirm by evening",False,False,DEV-P031
+MSG00292,P001,P032,2025-11-13 19:00:35,text,aaj thoda late ho jayega,False,False,DEV-P001
+MSG00293,P013,P032,2026-01-14 23:05:25,text,Running 10 minutes late.,False,False,DEV-P013
+MSG00294,P005,P020,2025-11-27 06:40:22,text,Traffic is bad near the mall today.,False,False,DEV-P005
+MSG00295,P014,P004,2025-09-24 08:25:22,text,kal 8 bje east gate aa jana,False,False,DEV-P014
+MSG00296,P035,P016,2025-11-02 06:05:31,text,Reminder: rent due on the 5th.,False,False,DEV-P035
+MSG00297,P017,P031,2026-03-10 17:55:47,text,Please send the invoice by evening.,False,False,DEV-P017
+MSG00298,P004,P012,2025-10-22 18:45:56,text,Running 10 minutes late.,False,False,DEV-P004
+MSG00299,P020,P031,2025-10-22 15:45:02,text,Running 10 minutes late.,False,False,DEV-P020
+MSG00300,P012,P028,2025-12-01 08:35:38,text,wo paise abhi tak nahi aaye,False,False,DEV-P012
+MSG00301,P033,P006,2026-02-03 20:10:07,text,Can we reschedule to 4pm?,False,False,DEV-P033
+MSG00302,P004,P005,2026-01-19 15:05:40,text,"don't call me right now, will explain later",False,False,DEV-P004
+MSG00303,P007,P037,2026-04-25 17:25:23,text,Please review the attached document.,False,False,DEV-P007
+MSG00304,P017,P012,2025-10-20 23:45:45,text,See you at the office tomorrow.,False,False,DEV-P017
+MSG00305,P036,P041,2025-10-04 20:00:33,text,location pin bhej raha hu,False,False,DEV-P036
+MSG00306,P027,P010,2025-11-13 20:50:06,text,Can we reschedule to 4pm?,False,False,DEV-P027
+MSG00307,P030,P012,2026-01-27 09:30:22,text,Let's catch up this weekend.,False,False,DEV-P030
+MSG00308,P042,P017,2026-04-16 19:20:03,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P042
+MSG00309,P006,P013,2025-11-10 09:30:32,text,"Thanks, received the payment.",False,False,DEV-P006
+MSG00310,P003,P029,2025-10-03 14:45:29,text,Please send the invoice by evening.,False,False,DEV-P003
+MSG00311,P025,P031,2025-10-04 16:55:17,text,"office mein hi hu, baad mein baat karta hu",False,False,DEV-P025
+MSG00312,P012,P014,2026-02-23 10:20:45,text,location pin bhej raha hu,False,False,DEV-P012
+MSG00313,P003,P030,2025-09-24 07:55:55,text,Traffic is bad near the mall today.,False,False,DEV-P003
+MSG00314,P003,P019,2026-02-04 14:40:30,text,Please review the attached document.,False,False,DEV-P003
+MSG00315,P002,P007,2025-12-12 22:15:56,text,location pin bhej raha hu,False,False,DEV-P002
+MSG00316,P037,P019,2025-10-13 19:30:36,text,mummy ko bata dena main late aaunga,False,False,DEV-P037
+MSG00317,P019,P035,2025-11-18 18:25:13,text,See you at the office tomorrow.,False,False,DEV-P019
+MSG00318,P025,P012,2026-01-16 20:05:50,text,"kal ka plan cancel, kuch kaam aa gaya",False,False,DEV-P025
+MSG00319,P018,P011,2026-02-20 16:30:34,text,location pin bhej raha hu,False,False,DEV-P018
+MSG00320,P004,P020,2025-12-09 11:50:27,text,Let's catch up this weekend.,False,False,DEV-P004
+MSG00321,P009,P042,2026-03-14 17:03:00,text,let's meet near the old gate,False,False,DEV-P009
+MSG00322,P042,P009,2026-03-14 17:09:00,text,are you still coming tonight?,False,False,DEV-P042
+MSG00323,P009,P042,2026-03-14 19:40:00,text,"don't call me right now, will explain later",True,False,DEV-P009
+MSG00324,P037,P042,2026-03-12 00:00:00,text,documents leke aana mat bhoolna,False,False,DEV-P037
+MSG00325,P026,P042,2026-02-23 00:00:00,text,"that money you owe me, I'm not letting this go",False,False,DEV-P026
+MSG10000,P037,P042,2026-03-10 18:22:14,text,Need to go over the warehouse documents before the meeting.,False,False,DEV-P037
+MSG10001,P042,P037,2026-03-10 18:23:02,text,Okay. Monday morning is difficult. Can we do Sunday?,False,False,DEV-P042
+MSG10002,P037,P042,2026-03-10 18:24:11,text,Sunday after 6 works for me.,False,False,DEV-P037
+MSG10003,P037,P042,2026-03-13 19:12:20,text,Are you still bringing the revised file tomorrow?,False,False,DEV-P037
+MSG10004,P042,P037,2026-03-13 19:15:01,text,"Yes, I have the printed copy.",False,False,DEV-P042
+MSG10005,P009,P042,2026-03-13 22:31:07,text,Did you leave the rear gate key with security?,False,False,DEV-P009
+MSG10006,P042,P009,2026-03-13 22:33:18,text,"No, I still have it.",False,False,DEV-P042
+MSG10007,P009,P042,2026-03-13 22:34:02,text,Okay. I will check in the morning.,False,False,DEV-P009
+MSG10008,P009,P042,2026-03-14 20:58:44,text,Are you still at the warehouse?,False,False,DEV-P009
+MSG10009,P042,P009,2026-03-14 21:01:10,text,For a little while. Why?,False,False,DEV-P042
+MSG10010,P009,P042,2026-03-14 21:02:05,text,Nothing urgent. Call me when you leave.,False,False,DEV-P009
+MSG10011,P009,P042,2026-02-27 09:05:13,text,I can return the remaining amount tomorrow.,False,False,DEV-P009
+MSG10012,P042,P009,2026-02-27 09:06:22,text,No rush. Just send it after your salary clears.,False,False,DEV-P042
+MSG10013,P009,P042,2026-02-28 10:18:31,text,Sent it now. Check your account.,False,False,DEV-P009
+MSG10014,P042,P009,2026-02-28 10:20:04,text,"Got it, thanks.",False,False,DEV-P042
+MSG10015,P026,P042,2026-03-12 14:10:08,text,You still owe me an answer about the money.,False,False,DEV-P026
+MSG10016,P042,P026,2026-03-12 14:12:33,text,I told you I am checking the records.,False,False,DEV-P042
+MSG10017,P026,P042,2026-03-12 14:14:01,text,Fine. Let me know when you have it.,False,False,DEV-P026
+MSG10018,P042,P026,2026-03-13 11:03:10,text,I will call you next week.,False,False,DEV-P042
+MSG10019,P006,P042,2026-03-14 18:05:12,text,I am on the evening shift today.,False,False,DEV-P006
+MSG10020,P042,P006,2026-03-14 18:06:09,text,Okay. I may stop by later for fuel.,False,False,DEV-P042
+MSG10021,P006,P042,2026-03-14 21:22:44,text,Station is busy tonight.,False,False,DEV-P006
+MSG10022,P042,P006,2026-03-14 21:25:01,text,No problem. I will not come by.,False,False,DEV-P042
+MSG10023,P025,P042,2026-03-11 08:41:17,text,Can you confirm the property inspection time?,False,False,DEV-P025
+MSG10024,P042,P025,2026-03-11 08:42:29,text,Thursday afternoon should work.,False,False,DEV-P042
+MSG10025,P025,P042,2026-03-12 15:18:06,text,I passed the area earlier. Traffic was heavy.,False,False,DEV-P025
+MSG10026,P042,P025,2026-03-12 15:19:32,text,Thanks for letting me know.,False,False,DEV-P042

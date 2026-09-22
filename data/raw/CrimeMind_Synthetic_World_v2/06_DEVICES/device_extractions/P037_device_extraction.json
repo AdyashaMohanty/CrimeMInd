@@ -1,0 +1,20 @@
+{
+  "device_owner": "P037",
+  "device_type": "Smartphone",
+  "extraction_timestamp": "2026-03-16 00:00:00",
+  "call_history_summary": "See calls.csv filtered by caller_person_id/receiver_person_id = P037",
+  "contacts_count": 41,
+  "browser_history_sample": [
+    {
+      "url": "maps.example.com/search?q=green+park+warehouse",
+      "timestamp": "2026-03-12 00:00:00"
+    },
+    {
+      "url": "news.nandipurherald.example.com",
+      "timestamp": "2026-03-02 00:00:00"
+    }
+  ],
+  "deleted_messages_recovered": 0,
+  "device_clock_offset_seconds": -120,
+  "notes": "Extraction performed with standard forensic tool; some artifacts unrecoverable due to app-level encryption."
+}

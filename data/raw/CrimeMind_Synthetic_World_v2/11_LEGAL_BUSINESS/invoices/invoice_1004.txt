@@ -1,0 +1,6 @@
+INVOICE #1004
+From: Kiran Reddy (Nandipur City Hospital)
+To: Arvind Dash
+Date: 2025-12-14
+Amount: Rs. 14602
+Description: Professional services rendered

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20260309T000000
+SUMMARY:Business meeting - documents review
+ORGANIZER:vinod.mishra@gmail.com
+ATTENDEE:naveen.mishra@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250930T000000
+SUMMARY:Team sync
+ORGANIZER:nikhil.swain65@gmail.com
+ATTENDEE:prakash.tripathy@nandipurmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T000000
+SUMMARY:Client lunch
+ORGANIZER:nisha.patel@gmail.com
+ATTENDEE:siddharth.mallick84@gmail.com
+END:VEVENT
+END:VCALENDAR

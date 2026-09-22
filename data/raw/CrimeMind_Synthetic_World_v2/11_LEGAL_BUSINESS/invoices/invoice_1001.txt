@@ -1,0 +1,6 @@
+INVOICE #1001
+From: Karan Dash (Private household)
+To: Rohit Mishra
+Date: 2025-11-23
+Amount: Rs. 11086
+Description: Professional services rendered

@@ -1,0 +1,709 @@
+{
+  "metadata": {
+    "source": "data\\extracted_evidence.json",
+    "record_count": 69,
+    "evaluation_material_excluded": true
+  },
+  "records": [
+    {
+      "case": {
+        "case_reference": "MH-2026-0818",
+        "title": "The Meridian House Incident",
+        "incident_time": null,
+        "incident_location": "East Office, Level 1",
+        "status": "OPEN",
+        "metadata": {
+          "primary_site": "Meridian House, Nandipur",
+          "incident_window": "20:45–22:00",
+          "victim": "Arvind Malhotra",
+          "initial_report": "Meridian House security desk"
+        }
+      },
+      "source_file": "00_CASE_CONTEXT\\case_context.txt"
+    },
+    {
+      "entity": {
+        "external_reference": "P001",
+        "display_name": "Arvind Malhotra",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "property owner",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P001_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P002",
+        "display_name": "Leena Malhotra",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "office administrator",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P002_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P003",
+        "display_name": "Rohan Mehta",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "accountant",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P003_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P004",
+        "display_name": "Nisha Verma",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "legal consultant",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P004_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P005",
+        "display_name": "Kabir Sethi",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "security supervisor",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P005_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P006",
+        "display_name": "Meera Joshi",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "event coordinator",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P006_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P007",
+        "display_name": "Vikram Rao",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "former business partner",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P007_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P008",
+        "display_name": "Ananya Sen",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "tenant representative",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P008_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P009",
+        "display_name": "Dev Kapoor",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "delivery driver",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P009_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P010",
+        "display_name": "Samar Das",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "maintenance technician",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P010_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P011",
+        "display_name": "Priya Nair",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "neighbour",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P011_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P012",
+        "display_name": "Amit Roy",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "restaurant manager",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P012_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P013",
+        "display_name": "Tara Bose",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "guest",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P013_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P014",
+        "display_name": "Rahul Iyer",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "IT support technician",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P014_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P015",
+        "display_name": "Sonal Gupta",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "bank relationship manager",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P015_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P016",
+        "display_name": "Manav Khanna",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "tenant",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P016_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P017",
+        "display_name": "Ishita Sen",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "guest",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P017_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P018",
+        "display_name": "Farhan Ali",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "ride-hailing driver",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P018_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P019",
+        "display_name": "Karan Dutta",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "security guard",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P019_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P020",
+        "display_name": "Ritu Sharma",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "accounting assistant",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P020_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P021",
+        "display_name": "Neel Bhatia",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "courier desk clerk",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P021_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P022",
+        "display_name": "Asha Kulkarni",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "building cleaner",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P022_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P023",
+        "display_name": "Varun Shah",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "supplier representative",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P023_profile.docx"
+    },
+    {
+      "entity": {
+        "external_reference": "P024",
+        "display_name": "Maya Thomas",
+        "entity_type": "PERSON",
+        "attributes": {
+          "role": "journalist",
+          "context": "fictional investigation world."
+        }
+      },
+      "source_file": "01_PEOPLE\\person_profiles\\P024_profile.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "1\n00:00:01,000 --> 00:00:05,000\nI remember the hallway was noisy.\n\n2\n00:00:05,500 --> 00:00:10,000\nDo you know the exact time?\n\n3\n00:00:10,500 --> 00:00:15,000\nNo. Maybe around nine fifteen, but that is only an estimate.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\audio_transcripts\\interview_003.srt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "Speaker 1: I remember the hallway was noisy.\nSpeaker 2: Do you know the exact time?\nSpeaker 1: No. Maybe around nine fifteen, but that is only an estimate.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\audio_transcripts\\interview_003.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P002_interview.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "INTERVIEW RECORD\nWitness: P002\nI was in reception until shortly after 21:05. I heard a door close toward the east corridor. Around 21:12 I saw someone in a pale shirt near the staircase, but the lighting was poor and I did not see a face clearly.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P002_interview.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P005_interview.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "INTERVIEW RECORD\nWitness: P005\nThe access desk showed an east-corridor event around 21:16. One reader had been intermittently failing. I remember a dark vehicle near the service side, but cannot identify the model confidently.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P005_interview.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P008_interview.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "INTERVIEW RECORD\nWitness: P008\nI left the tenant lounge around 21:00 and returned near 21:25. I noticed two people near the courtyard gate. I did not check my phone, so my time estimate is approximate.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P008_interview.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P009_interview.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "INTERVIEW RECORD\nWitness: P009\nI delivered a package to the service entrance. My route app records the stop. I waited in the vehicle because the loading area was occupied and saw another vehicle leave.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P009_interview.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P011_interview.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "INTERVIEW RECORD\nWitness: P011\nFrom my window I could see part of the service road. Around the emergency activity I noticed headlights moving away from the property, but could not see the driver.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P011_interview.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P013_interview.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "INTERVIEW RECORD\nWitness: P013\nI arrived for dinner and later saw the owner speaking with a man near the office corridor. I was not watching continuously and may be wrong about the exact location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P013_interview.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P017_interview.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "INTERVIEW RECORD\nWitness: P017\nI remember a disagreement being discussed earlier. Later I was outside making a phone call. I cannot reliably place other people by minute.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "02_WITNESS_MATERIAL\\interview_notes\\P017_interview.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL001\nMeridian House\nType: mixed-use heritage property\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L001_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL002\nEast Office\nType: restricted office\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L002_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL003\nEast Corridor\nType: Level 1 corridor\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L003_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL004\nService Entrance\nType: loading/service access\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L004_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL005\nCourtyard Gate\nType: pedestrian gate\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L005_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL006\nNorth Parking\nType: parking area\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L006_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL007\nCedar Table\nType: restaurant\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L007_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL008\nNorthstar Bank Branch\nType: bank\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L008_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL009\nQuickRoute Depot\nType: logistics depot\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L009_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "LOCATION\nL010\nShieldGate Office\nType: security contractor office\nSynthetic location.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "03_LOCATIONS\\site_plans\\L010_location.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "04_COMMUNICATIONS\\messages\\P003_contact.vcf"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "05_FINANCIAL\\bank_statements\\P001_bank_statement.xlsx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "07_DEVICES\\P003_device_extraction.json"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "2026-08-18 20:54:11 ACCESS L001 EAST_DOOR P005 GRANTED\n2026-08-18 21:03:09 ACCESS L004 SERVICE_DOOR P009 GRANTED\n2026-08-18 21:08:22 ACCESS L003 EAST_CORRIDOR P005 GRANTED\n2026-08-18 21:12:58 ACCESS L003 EAST_CORRIDOR CARD_READER_TIMEOUT\n2026-08-18 21:13:02 ACCESS L003 EAST_CORRIDOR UNKNOWN DENIED\n2026-08-18 21:16:11 ACCESS L003 EAST_CORRIDOR P003 GRANTED\n2026-08-18 21:18:27 ALARM L002 EAST_OFFICE MOTION_ALERT\n2026-08-18 21:20:04 SECURITY L001 DESK EMERGENCY_CALL_PLACED",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "09_ACCESS_SECURITY\\logs\\access_control.log"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "10_FORENSICS\\E014_door_handle_report.docx"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "FORENSIC EXAMINATION — SYNTHETIC\nItem: E-014, East Office door-handle swab\nFinding: Mixed low-level contact traces. Partial profile quality; not suitable for\nsingle-source attribution without comparison and corroboration.\nConfidence: moderate.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "10_FORENSICS\\E014_door_handle_report.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "11_DIGITAL_MEDIA\\audio\\interview_003.wav"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "Synthetic audio placeholder; replace with authorized recording if required.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "11_DIGITAL_MEDIA\\audio\\README.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "CCTV INPUT — INTENTIONALLY EMPTY\nPlace generated/licensed MP4 files here.\nPreserve camera ID, source location, local start time, frame rate and duration.\nIngestion must extract frames and timestamps. Do not pre-label crimes or people.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "11_DIGITAL_MEDIA\\cctv\\README.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "11_DIGITAL_MEDIA\\photos\\E014_corridor.jpg"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "11_DIGITAL_MEDIA\\photos\\site_plan.png"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "MERIDIAN HOUSE TENANCY AGREEMENT EXTRACT\nTenant contact: P008\nTerm: 2026-01-01 to 2026-12-31\nPurpose: office tenancy.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "12_LEGAL_BUSINESS\\tenant_agreement.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "13_INVESTIGATION_MATERIAL\\contradiction_register.csv"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "PRELIMINARY INVESTIGATION NOTES\nObserved: incomplete access records; multiple legitimate visitors; conflicting witness times;\nvehicle sightings incomplete; multiple communications and financial records require correlation.\nOpen questions: presence, shared locations, direct/indirect relationships, timeline gaps,\nmulti-source corroboration.\nNo conclusion is stated.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "13_INVESTIGATION_MATERIAL\\preliminary_notes.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "Cedar Table Archive\nReservation Archive\n18 Aug 2026 evening reservation CT-818-44.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "13_INVESTIGATION_MATERIAL\\public_web_capture.html"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "null",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "MANIFEST.json"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "CRIMEMIND — FINAL SYNTHETIC INVESTIGATION WORLD\n================================================\nFictional case: The Meridian House Incident\nFictional city: Nandipur, India\nIncident date: 18 August 2026\n\nSTORY\n-----\nMeridian House is a fictional mixed-use heritage property with offices, a guest\nwing, courtyard, service entrance, parking and nearby commercial premises.\n\nOn the evening of 18 August 2026, the owner, Arvind Malhotra, hosted a private\nbusiness meeting and dinner. Several employees, contractors, guests, a former\nbusiness associate, tenants and service personnel were present or had legitimate\nreasons to interact with the property.\n\nAt approximately 21:18, an east-office motion alert was recorded. A staff member\nsubsequently discovered the owner unconscious in the restricted office. Emergency\nservices were called and the victim was pronounced dead.\n\nThere is no single clean account of what happened. Witnesses disagree about\ntimes and descriptions. One access reader intermittently failed. Vehicle records\nare incomplete. Phone activity, financial records, location traces and access\nrecords overlap in ways that require investigation.\n\nCrimeMind must determine which facts are connected, which people are relevant,\nwhich timelines contain meaningful gaps, and which evidence sources corroborate\none another.\n\nCRITICAL RESEARCH DESIGN\n------------------------\nThe ingestible world DOES NOT identify candidate classifications, offender classifications, offenders or conclusions.\nAll people are ordinary entities with legitimate roles and relationships.\nCrimeMind must discover candidates itself.\n\nThe evidence is deliberately heterogeneous and imperfect. The structured database\nis not supplied as the conclusion; the ingestion layer must extract and normalize the\nraw evidence first.\n\nFormats included:\nPDF/DOCX/TXT/CSV/XLSX/JSON/XML/HTML/EML/VCF/ICS/LOG/JPG/PNG/WAV/SRT/KML/\nGeoJSON/SQL plus an intentionally empty MP4 CCTV input folder.\n\nThe 40 predefined investigation questions remain the fixed analytical question\nset. This world introduces no replacement question set.\n\nPIPELINE\n--------\nRaw evidence -> ingestion/extraction -> normalization -> PostgreSQL/PostGIS\n-> reusable SQL modules -> correlation engine -> evidence packets\n-> AI synthesis -> traceable investigator report.\n\nThe LLM explains evidence-supported conclusions; it does not invent facts.\n\nCCTV\n----\n11_DIGITAL_MEDIA/cctv is intentionally blank. Add licensed/generated MP4 files.\nThe system must extract frames and preserve camera/timestamp metadata.\n\nEVALUATION\n----------\n14_EVALUATION_ONLY contains hidden evaluation labels. It is NOT part of normal\ningestion and must be excluded before testing the investigation pipeline.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "README.txt"
+    },
+    {
+      "evidence": {
+        "type": "DOCUMENT",
+        "description": "FINAL DATASET VALIDATION\n========================\nIngestible forbidden-label scan: PASS\nMatches outside evaluation folder: 0\n\nCCTV input folder: intentionally empty.\nEvaluation reference: isolated under 14_EVALUATION_ONLY and excluded from ingestion.\nThe 40 predefined investigation questions remain the fixed analytical specification.\nThe world contains heterogeneous raw evidence and deliberately imperfect/contradictory records.",
+        "base_confidence": 0.6,
+        "attributes": {}
+      },
+      "source_file": "VALIDATION_REPORT.txt"
+    }
+  ]
+}

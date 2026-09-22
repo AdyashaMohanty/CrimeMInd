@@ -1,0 +1,1 @@
+The `modules/` directory contains the canonical Q1-Q13 SQL files available in the supplied project context. The backend can also load the full 18-module set from `SQL_MODULE_DIR` (normally `../database/sql_modules`). Q14-Q40 should use the corresponding 08_*.sql through 18_*.sql files from the CrimeMind database module directory.

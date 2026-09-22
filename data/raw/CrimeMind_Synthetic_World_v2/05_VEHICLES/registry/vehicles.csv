@@ -1,0 +1,18 @@
+vehicle_id,registration_number,owner_person_id,vehicle_type,make,model,color,registration_date,insurance_status
+V001,OD20HH2819,P034,four_wheeler,Maruti,Alto,Blue,2019-07-08,Active
+V002,OD14GF5791,P016,four_wheeler,Maruti,Swift,Black,2023-12-24,Active
+V003,OD13BH2283,P021,four_wheeler,Mahindra,XUV300,Blue,2024-05-04,Active
+V004,OD14CD9045,P006,four_wheeler,Maruti,Alto,Blue,2023-08-03,Active
+V005,OD13CA1159,P015,four_wheeler,Tata,Nexon,Black,2019-02-13,Expired
+V006,OD17EH7052,P025,four_wheeler,Maruti,Alto,Grey,2022-06-29,Active
+V007,OD05CC1933,P019,four_wheeler,Honda,City,Grey,2020-12-07,Active
+V008,OD14AB4957,P029,two_wheeler,Bajaj,Pulsar,Black,2023-06-05,Expired
+V009,OD02DG7178,P038,four_wheeler,Maruti,Alto,Blue,2021-02-24,Active
+V010,OD09HG3065,P042,four_wheeler,Mahindra,XUV300,White,2021-07-01,Active
+V011,OD02GD3552,P002,four_wheeler,Maruti,Alto,Silver,2022-09-25,Active
+V012,OD11EH6308,P013,four_wheeler,Mahindra,XUV300,Black,2021-08-08,Expired
+V013,OD11HA3752,P035,four_wheeler,Toyota,Innova,Black,2021-07-05,Active
+V014,OD05EA1927,P011,four_wheeler,Toyota,Innova,Grey,2019-04-10,Active
+V015,OD19FG1725,P024,four_wheeler,Maruti,Alto,Silver,2018-12-02,Active
+V016,OD05CF1005,P005,four_wheeler,Maruti,Alto,Blue,2021-06-16,Active
+V017,OD02KM7416,P009,four_wheeler,Maruti,Baleno,Dark Blue,2023-05-18,Active

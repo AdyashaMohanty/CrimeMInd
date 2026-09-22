@@ -1,0 +1,1177 @@
+transaction_id,person_id,account_ref,timestamp,amount,debit_credit,counterparty,merchant,location_id,channel,reference_number,description,source_system
+TXN00001,P001,ACC-P001,2025-09-12 09:15:03,42000,credit,Nandipur Herald,Nandipur Herald,L004,NEFT,REF538205,Salary credit,Bank Core System
+TXN00002,P001,ACC-P001,2025-09-14 11:10:26,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF849898,Monthly rent,Bank Core System
+TXN00003,P001,ACC-P001,2025-09-16 09:00:05,950,debit,Electricity Board,Electricity Board,,UPI,REF276430,Utility bill,Bank Core System
+TXN00004,P001,ACC-P001,2025-10-11 10:45:50,28000,credit,Nandipur Herald,Nandipur Herald,L004,NEFT,REF382933,Salary credit,Bank Core System
+TXN00005,P001,ACC-P001,2025-10-13 10:55:56,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF642619,Monthly rent,Bank Core System
+TXN00006,P001,ACC-P001,2025-10-15 16:15:09,1500,debit,Electricity Board,Electricity Board,,UPI,REF376567,Utility bill,Bank Core System
+TXN00007,P001,ACC-P001,2025-11-11 11:05:59,32000,credit,Nandipur Herald,Nandipur Herald,L004,NEFT,REF664195,Salary credit,Bank Core System
+TXN00008,P001,ACC-P001,2025-11-13 16:25:39,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF864123,Monthly rent,Bank Core System
+TXN00009,P001,ACC-P001,2025-11-15 17:05:31,1200,debit,Electricity Board,Electricity Board,,UPI,REF290153,Utility bill,Bank Core System
+TXN00010,P001,ACC-P001,2025-12-12 09:05:15,32000,credit,Nandipur Herald,Nandipur Herald,L004,NEFT,REF857030,Salary credit,Bank Core System
+TXN00011,P001,ACC-P001,2025-12-14 13:30:11,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF479757,Monthly rent,Bank Core System
+TXN00012,P001,ACC-P001,2025-12-16 17:20:41,950,debit,Electricity Board,Electricity Board,,UPI,REF121246,Utility bill,Bank Core System
+TXN00013,P001,ACC-P001,2026-01-08 10:55:27,35000,credit,Nandipur Herald,Nandipur Herald,L004,NEFT,REF665465,Salary credit,Bank Core System
+TXN00014,P001,ACC-P001,2026-01-10 17:15:46,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF718133,Monthly rent,Bank Core System
+TXN00015,P001,ACC-P001,2026-01-12 16:30:03,1200,debit,Electricity Board,Electricity Board,,UPI,REF375765,Utility bill,Bank Core System
+TXN00016,P001,ACC-P001,2026-02-08 09:35:07,75000,credit,Nandipur Herald,Nandipur Herald,L004,NEFT,REF711118,Salary credit,Bank Core System
+TXN00017,P001,ACC-P001,2026-02-10 18:00:52,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF782420,Monthly rent,Bank Core System
+TXN00018,P001,ACC-P001,2026-02-12 18:25:23,1500,debit,Electricity Board,Electricity Board,,UPI,REF321865,Utility bill,Bank Core System
+TXN00019,P001,ACC-P001,2026-02-21 08:50:11,2728,debit,Nandipur City Mall,Flipkart,L023,NEFT,REF956159,Grocery,Bank Core System
+TXN00020,P001,ACC-P001,2025-09-19 22:25:42,3048,debit,Spice Route Restaurant,Flipkart,L023,IMPS,REF359218,Online purchase,Bank Core System
+TXN00021,P001,ACC-P001,2026-01-30 18:40:33,3301,debit,Water Board,HP Fuel Station,L006,IMPS,REF940375,Miscellaneous,Bank Core System
+TXN00022,P001,ACC-P001,2026-03-12 16:40:09,3203,debit,Local Kirana Store,Amazon,L023,ATM Withdrawal,REF604335,Grocery,Bank Core System
+TXN00023,P001,ACC-P001,2025-09-12 17:40:09,4106,debit,Cafe Coffee Junction,Cafe Coffee Junction,L009,Debit Card,REF818626,Online purchase,Bank Core System
+TXN00024,P001,ACC-P001,2025-11-01 10:45:37,2512,debit,Water Board,Water Board,L014,IMPS,REF939819,Restaurant payment,Bank Core System
+TXN00025,P002,ACC-P002,2025-09-11 10:35:06,28000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L011,NEFT,REF192771,Salary credit,Bank Core System
+TXN00026,P002,ACC-P002,2025-09-13 13:40:01,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF722004,Monthly rent,Bank Core System
+TXN00027,P002,ACC-P002,2025-09-15 20:05:48,800,debit,Electricity Board,Electricity Board,,UPI,REF517041,Utility bill,Bank Core System
+TXN00028,P002,ACC-P002,2025-10-13 09:30:05,55000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L011,NEFT,REF222079,Salary credit,Bank Core System
+TXN00029,P002,ACC-P002,2025-10-15 17:00:32,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF103752,Monthly rent,Bank Core System
+TXN00030,P002,ACC-P002,2025-10-17 19:55:42,1200,debit,Electricity Board,Electricity Board,,UPI,REF764348,Utility bill,Bank Core System
+TXN00031,P002,ACC-P002,2025-11-09 11:35:36,28000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L011,NEFT,REF795602,Salary credit,Bank Core System
+TXN00032,P002,ACC-P002,2025-11-11 18:00:21,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF193252,Monthly rent,Bank Core System
+TXN00033,P002,ACC-P002,2025-11-13 09:00:56,1200,debit,Electricity Board,Electricity Board,,UPI,REF446474,Utility bill,Bank Core System
+TXN00034,P002,ACC-P002,2025-12-09 10:20:52,32000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L011,NEFT,REF954397,Salary credit,Bank Core System
+TXN00035,P002,ACC-P002,2025-12-11 10:40:34,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF738076,Monthly rent,Bank Core System
+TXN00036,P002,ACC-P002,2025-12-13 18:25:43,1200,debit,Electricity Board,Electricity Board,,UPI,REF975876,Utility bill,Bank Core System
+TXN00037,P002,ACC-P002,2026-01-08 10:30:18,68000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L011,NEFT,REF447291,Salary credit,Bank Core System
+TXN00038,P002,ACC-P002,2026-01-10 14:25:14,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF313962,Monthly rent,Bank Core System
+TXN00039,P002,ACC-P002,2026-01-12 10:45:21,800,debit,Electricity Board,Electricity Board,,UPI,REF294063,Utility bill,Bank Core System
+TXN00040,P002,ACC-P002,2026-02-08 10:20:55,32000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L011,NEFT,REF688120,Salary credit,Bank Core System
+TXN00041,P002,ACC-P002,2026-02-10 16:40:56,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF338255,Monthly rent,Bank Core System
+TXN00042,P002,ACC-P002,2026-02-12 09:55:27,950,debit,Electricity Board,Electricity Board,,UPI,REF992496,Utility bill,Bank Core System
+TXN00043,P002,ACC-P002,2026-02-10 19:20:59,2494,debit,Cafe Coffee Junction,Union Trust Bank,L015,NEFT,REF264448,Restaurant payment,Bank Core System
+TXN00044,P002,ACC-P002,2026-03-17 21:30:09,1722,debit,Cafe Coffee Junction,BSNL Broadband,L002,Cash Deposit,REF679261,Miscellaneous,Bank Core System
+TXN00045,P002,ACC-P002,2025-12-19 10:30:12,1320,debit,Electricity Board,Local Kirana Store,L006,Cash Deposit,REF477960,Restaurant payment,Bank Core System
+TXN00046,P002,ACC-P002,2026-03-24 12:40:50,1661,debit,Nandipur City Mall,Nandipur City Mall,L007,ATM Withdrawal,REF334268,Fuel purchase,Bank Core System
+TXN00047,P002,ACC-P002,2025-10-01 11:50:46,2378,debit,BSNL Broadband,BSNL Broadband,L015,ATM Withdrawal,REF678170,Grocery,Bank Core System
+TXN00048,P002,ACC-P002,2026-04-03 19:50:22,1726,debit,Amazon,HP Fuel Station,L018,Credit Card,REF538773,Grocery,Bank Core System
+TXN00049,P002,ACC-P002,2026-04-06 20:55:45,597,debit,Cafe Coffee Junction,Spice Route Restaurant,L024,Cash Deposit,REF108151,Fuel purchase,Bank Core System
+TXN00050,P002,ACC-P002,2026-01-30 14:15:03,1668,debit,Amazon,Water Board,L009,ATM Withdrawal,REF807604,Online purchase,Bank Core System
+TXN00051,P002,ACC-P002,2025-09-14 15:20:23,1572,debit,Nandipur City Mall,Water Board,L001,UPI,REF221081,Fuel purchase,Bank Core System
+TXN00052,P002,ACC-P002,2026-03-05 11:15:48,1383,debit,Local Kirana Store,Nandipur City Mall,L023,IMPS,REF494316,Restaurant payment,Bank Core System
+TXN00053,P002,ACC-P002,2025-12-21 19:55:37,1451,debit,Spice Route Restaurant,Spice Route Restaurant,L007,Cash Deposit,REF546777,Fuel purchase,Bank Core System
+TXN00054,P002,ACC-P002,2026-02-12 15:30:44,2972,debit,Cafe Coffee Junction,Water Board,L007,UPI,REF629324,Fuel purchase,Bank Core System
+TXN00055,P003,ACC-P003,2025-09-12 10:40:15,28000,credit,Nandipur Herald,Nandipur Herald,L002,NEFT,REF375243,Salary credit,Bank Core System
+TXN00056,P003,ACC-P003,2025-09-14 10:05:29,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF437777,Monthly rent,Bank Core System
+TXN00057,P003,ACC-P003,2025-09-16 10:40:01,1500,debit,Electricity Board,Electricity Board,,UPI,REF487486,Utility bill,Bank Core System
+TXN00058,P003,ACC-P003,2025-10-12 09:20:23,75000,credit,Nandipur Herald,Nandipur Herald,L002,NEFT,REF714156,Salary credit,Bank Core System
+TXN00059,P003,ACC-P003,2025-10-14 12:15:05,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF194965,Monthly rent,Bank Core System
+TXN00060,P003,ACC-P003,2025-10-16 16:35:35,800,debit,Electricity Board,Electricity Board,,UPI,REF356911,Utility bill,Bank Core System
+TXN00061,P003,ACC-P003,2025-11-09 11:45:30,55000,credit,Nandipur Herald,Nandipur Herald,L002,NEFT,REF785230,Salary credit,Bank Core System
+TXN00062,P003,ACC-P003,2025-11-11 15:05:33,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF449541,Monthly rent,Bank Core System
+TXN00063,P003,ACC-P003,2025-11-13 15:55:42,1200,debit,Electricity Board,Electricity Board,,UPI,REF413988,Utility bill,Bank Core System
+TXN00064,P003,ACC-P003,2025-12-11 09:40:24,68000,credit,Nandipur Herald,Nandipur Herald,L002,NEFT,REF242330,Salary credit,Bank Core System
+TXN00065,P003,ACC-P003,2025-12-13 15:45:48,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF800171,Monthly rent,Bank Core System
+TXN00066,P003,ACC-P003,2025-12-15 10:25:29,1500,debit,Electricity Board,Electricity Board,,UPI,REF902036,Utility bill,Bank Core System
+TXN00067,P003,ACC-P003,2026-01-09 09:25:42,32000,credit,Nandipur Herald,Nandipur Herald,L002,NEFT,REF678027,Salary credit,Bank Core System
+TXN00068,P003,ACC-P003,2026-01-11 18:05:35,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF297649,Monthly rent,Bank Core System
+TXN00069,P003,ACC-P003,2026-01-13 18:45:34,1200,debit,Electricity Board,Electricity Board,,UPI,REF357723,Utility bill,Bank Core System
+TXN00070,P003,ACC-P003,2026-02-10 11:55:16,55000,credit,Nandipur Herald,Nandipur Herald,L002,NEFT,REF443711,Salary credit,Bank Core System
+TXN00071,P003,ACC-P003,2026-02-12 18:40:16,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF605437,Monthly rent,Bank Core System
+TXN00072,P003,ACC-P003,2026-02-14 15:40:34,950,debit,Electricity Board,Electricity Board,,UPI,REF850469,Utility bill,Bank Core System
+TXN00073,P003,ACC-P003,2026-01-06 16:25:33,2138,debit,Highway Auto Works,Water Board,L024,Credit Card,REF948603,Grocery,Bank Core System
+TXN00074,P003,ACC-P003,2026-01-14 15:10:00,178,debit,Local Kirana Store,Cafe Coffee Junction,L023,ATM Withdrawal,REF868010,Online purchase,Bank Core System
+TXN00075,P003,ACC-P003,2026-02-03 08:15:49,1190,debit,Local Kirana Store,Nandipur City Mall,L019,IMPS,REF331525,Restaurant payment,Bank Core System
+TXN00076,P003,ACC-P003,2026-01-24 08:50:05,1576,debit,HP Fuel Station,Water Board,L012,NEFT,REF726504,Fuel purchase,Bank Core System
+TXN00077,P003,ACC-P003,2026-04-21 16:55:44,2421,debit,Highway Auto Works,Highway Auto Works,L007,Cash Deposit,REF859588,Miscellaneous,Bank Core System
+TXN00078,P003,ACC-P003,2026-03-16 10:55:28,3723,debit,Cafe Coffee Junction,Cafe Coffee Junction,L026,NEFT,REF863554,Restaurant payment,Bank Core System
+TXN00079,P003,ACC-P003,2026-03-16 19:55:08,699,debit,HP Fuel Station,Highway Auto Works,L015,NEFT,REF685086,Grocery,Bank Core System
+TXN00080,P003,ACC-P003,2026-02-23 18:15:51,922,debit,Spice Route Restaurant,Nandipur City Mall,L007,ATM Withdrawal,REF498387,Online purchase,Bank Core System
+TXN00081,P003,ACC-P003,2026-01-06 19:35:50,2966,debit,BSNL Broadband,Highway Auto Works,L020,Debit Card,REF334196,Miscellaneous,Bank Core System
+TXN00082,P003,ACC-P003,2026-04-25 09:35:08,1045,debit,Cafe Coffee Junction,Highway Auto Works,L008,ATM Withdrawal,REF785206,Fuel purchase,Bank Core System
+TXN00083,P003,ACC-P003,2025-12-11 16:40:32,1980,debit,Electricity Board,Nandipur City Mall,L018,Credit Card,REF425341,Online purchase,Bank Core System
+TXN00084,P004,ACC-P004,2025-09-13 10:20:48,55000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L023,NEFT,REF456962,Salary credit,Bank Core System
+TXN00085,P004,ACC-P004,2025-09-15 16:15:55,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF449340,Monthly rent,Bank Core System
+TXN00086,P004,ACC-P004,2025-09-17 17:50:27,1200,debit,Electricity Board,Electricity Board,,UPI,REF285576,Utility bill,Bank Core System
+TXN00087,P004,ACC-P004,2025-10-11 09:55:40,68000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L023,NEFT,REF208611,Salary credit,Bank Core System
+TXN00088,P004,ACC-P004,2025-10-13 14:35:14,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF158176,Monthly rent,Bank Core System
+TXN00089,P004,ACC-P004,2025-10-15 10:35:48,1200,debit,Electricity Board,Electricity Board,,UPI,REF942362,Utility bill,Bank Core System
+TXN00090,P004,ACC-P004,2025-11-09 10:15:33,35000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L023,NEFT,REF735962,Salary credit,Bank Core System
+TXN00091,P004,ACC-P004,2025-11-11 16:10:04,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF759751,Monthly rent,Bank Core System
+TXN00092,P004,ACC-P004,2025-11-13 19:40:30,950,debit,Electricity Board,Electricity Board,,UPI,REF114182,Utility bill,Bank Core System
+TXN00093,P004,ACC-P004,2025-12-11 11:50:47,32000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L023,NEFT,REF703534,Salary credit,Bank Core System
+TXN00094,P004,ACC-P004,2025-12-13 18:50:16,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF876165,Monthly rent,Bank Core System
+TXN00095,P004,ACC-P004,2025-12-15 14:15:12,950,debit,Electricity Board,Electricity Board,,UPI,REF768976,Utility bill,Bank Core System
+TXN00096,P004,ACC-P004,2026-01-10 11:35:28,35000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L023,NEFT,REF583709,Salary credit,Bank Core System
+TXN00097,P004,ACC-P004,2026-01-12 11:45:08,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF291049,Monthly rent,Bank Core System
+TXN00098,P004,ACC-P004,2026-01-14 11:40:49,1500,debit,Electricity Board,Electricity Board,,UPI,REF239189,Utility bill,Bank Core System
+TXN00099,P004,ACC-P004,2026-02-10 09:00:46,32000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L023,NEFT,REF545457,Salary credit,Bank Core System
+TXN00100,P004,ACC-P004,2026-02-12 18:30:38,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF759475,Monthly rent,Bank Core System
+TXN00101,P004,ACC-P004,2026-02-14 18:45:47,1500,debit,Electricity Board,Electricity Board,,UPI,REF244360,Utility bill,Bank Core System
+TXN00102,P004,ACC-P004,2025-11-16 11:55:25,3326,debit,Nandipur City Mall,Spice Route Restaurant,L002,IMPS,REF472971,Restaurant payment,Bank Core System
+TXN00103,P004,ACC-P004,2026-04-02 13:20:07,4248,debit,Electricity Board,Flipkart,L010,ATM Withdrawal,REF739487,Online purchase,Bank Core System
+TXN00104,P004,ACC-P004,2025-11-13 17:40:24,869,debit,Flipkart,Amazon,L005,NEFT,REF370710,Miscellaneous,Bank Core System
+TXN00105,P004,ACC-P004,2026-03-03 21:15:51,549,debit,Nandipur City Mall,Spice Route Restaurant,L014,ATM Withdrawal,REF789419,Restaurant payment,Bank Core System
+TXN00106,P004,ACC-P004,2025-11-27 11:50:22,1655,debit,Water Board,BSNL Broadband,L001,UPI,REF718969,Fuel purchase,Bank Core System
+TXN00107,P004,ACC-P004,2026-01-21 08:45:25,2194,debit,Cafe Coffee Junction,HP Fuel Station,L004,UPI,REF395581,Online purchase,Bank Core System
+TXN00108,P005,ACC-P005,2025-09-12 11:15:03,35000,credit,Self-employed,Self-employed,L004,NEFT,REF956163,Salary credit,Bank Core System
+TXN00109,P005,ACC-P005,2025-09-14 12:15:59,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF696170,Monthly rent,Bank Core System
+TXN00110,P005,ACC-P005,2025-09-16 19:40:24,1500,debit,Electricity Board,Electricity Board,,UPI,REF957671,Utility bill,Bank Core System
+TXN00111,P005,ACC-P005,2025-10-11 10:30:49,75000,credit,Self-employed,Self-employed,L004,NEFT,REF621561,Salary credit,Bank Core System
+TXN00112,P005,ACC-P005,2025-10-13 18:50:02,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF214738,Monthly rent,Bank Core System
+TXN00113,P005,ACC-P005,2025-10-15 20:15:09,1200,debit,Electricity Board,Electricity Board,,UPI,REF348405,Utility bill,Bank Core System
+TXN00114,P005,ACC-P005,2025-11-11 10:45:10,28000,credit,Self-employed,Self-employed,L004,NEFT,REF849600,Salary credit,Bank Core System
+TXN00115,P005,ACC-P005,2025-11-13 14:50:37,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF509305,Monthly rent,Bank Core System
+TXN00116,P005,ACC-P005,2025-11-15 18:10:33,1200,debit,Electricity Board,Electricity Board,,UPI,REF822103,Utility bill,Bank Core System
+TXN00117,P005,ACC-P005,2025-12-11 11:50:53,32000,credit,Self-employed,Self-employed,L004,NEFT,REF810692,Salary credit,Bank Core System
+TXN00118,P005,ACC-P005,2025-12-13 17:55:27,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF482527,Monthly rent,Bank Core System
+TXN00119,P005,ACC-P005,2025-12-15 10:20:46,950,debit,Electricity Board,Electricity Board,,UPI,REF650616,Utility bill,Bank Core System
+TXN00120,P005,ACC-P005,2026-01-09 11:20:23,55000,credit,Self-employed,Self-employed,L004,NEFT,REF666621,Salary credit,Bank Core System
+TXN00121,P005,ACC-P005,2026-01-11 13:50:28,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF951862,Monthly rent,Bank Core System
+TXN00122,P005,ACC-P005,2026-01-13 16:40:56,1500,debit,Electricity Board,Electricity Board,,UPI,REF701360,Utility bill,Bank Core System
+TXN00123,P005,ACC-P005,2026-02-08 09:20:17,28000,credit,Self-employed,Self-employed,L004,NEFT,REF289817,Salary credit,Bank Core System
+TXN00124,P005,ACC-P005,2026-02-10 18:55:36,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF407760,Monthly rent,Bank Core System
+TXN00125,P005,ACC-P005,2026-02-12 10:15:12,950,debit,Electricity Board,Electricity Board,,UPI,REF374132,Utility bill,Bank Core System
+TXN00126,P005,ACC-P005,2026-04-17 20:05:59,1389,debit,BSNL Broadband,Union Trust Bank,L001,IMPS,REF448263,Fuel purchase,Bank Core System
+TXN00127,P005,ACC-P005,2026-03-01 11:00:13,2169,debit,Electricity Board,Union Trust Bank,L009,UPI,REF228975,Restaurant payment,Bank Core System
+TXN00128,P005,ACC-P005,2026-01-14 19:10:39,449,debit,Nandipur City Mall,HP Fuel Station,L009,Debit Card,REF237701,Restaurant payment,Bank Core System
+TXN00129,P005,ACC-P005,2026-04-25 12:05:12,3840,debit,Cafe Coffee Junction,Highway Auto Works,L023,NEFT,REF894300,Online purchase,Bank Core System
+TXN00130,P005,ACC-P005,2025-09-12 16:05:18,3983,debit,Amazon,Local Kirana Store,L011,NEFT,REF543360,Restaurant payment,Bank Core System
+TXN00131,P005,ACC-P005,2026-02-23 18:15:48,468,debit,Amazon,Spice Route Restaurant,L010,Debit Card,REF103604,Miscellaneous,Bank Core System
+TXN00132,P005,ACC-P005,2025-10-28 13:50:33,2189,debit,Flipkart,Nandipur City Mall,L008,Credit Card,REF346049,Restaurant payment,Bank Core System
+TXN00133,P005,ACC-P005,2025-09-19 12:05:49,2495,debit,Highway Auto Works,Nandipur City Mall,L012,IMPS,REF842585,Restaurant payment,Bank Core System
+TXN00134,P005,ACC-P005,2026-01-09 15:35:08,2138,debit,Local Kirana Store,HP Fuel Station,L005,Debit Card,REF752752,Grocery,Bank Core System
+TXN00135,P005,ACC-P005,2026-04-05 19:20:07,1633,debit,Water Board,HP Fuel Station,L012,UPI,REF372670,Restaurant payment,Bank Core System
+TXN00136,P005,ACC-P005,2025-10-23 20:20:43,2805,debit,Spice Route Restaurant,Flipkart,L012,Cash Deposit,REF691250,Grocery,Bank Core System
+TXN00137,P005,ACC-P005,2026-03-16 12:00:47,2789,debit,Water Board,Union Trust Bank,L021,IMPS,REF192872,Online purchase,Bank Core System
+TXN00138,P005,ACC-P005,2026-04-05 13:00:25,1187,debit,BSNL Broadband,Union Trust Bank,L011,Credit Card,REF983158,Online purchase,Bank Core System
+TXN00139,P006,ACC-P006,2025-09-11 10:40:33,42000,credit,Private household,Private household,L011,NEFT,REF631806,Salary credit,Bank Core System
+TXN00140,P006,ACC-P006,2025-09-13 10:00:44,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF652600,Monthly rent,Bank Core System
+TXN00141,P006,ACC-P006,2025-09-15 15:25:37,1200,debit,Electricity Board,Electricity Board,,UPI,REF286928,Utility bill,Bank Core System
+TXN00142,P006,ACC-P006,2025-10-10 10:40:04,68000,credit,Private household,Private household,L011,NEFT,REF487564,Salary credit,Bank Core System
+TXN00143,P006,ACC-P006,2025-10-12 14:55:22,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF684134,Monthly rent,Bank Core System
+TXN00144,P006,ACC-P006,2025-10-14 10:30:39,1500,debit,Electricity Board,Electricity Board,,UPI,REF985959,Utility bill,Bank Core System
+TXN00145,P006,ACC-P006,2025-11-09 09:45:39,28000,credit,Private household,Private household,L011,NEFT,REF317081,Salary credit,Bank Core System
+TXN00146,P006,ACC-P006,2025-11-11 13:00:30,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF490322,Monthly rent,Bank Core System
+TXN00147,P006,ACC-P006,2025-11-13 19:00:40,1200,debit,Electricity Board,Electricity Board,,UPI,REF497933,Utility bill,Bank Core System
+TXN00148,P006,ACC-P006,2025-12-10 11:30:19,42000,credit,Private household,Private household,L011,NEFT,REF786562,Salary credit,Bank Core System
+TXN00149,P006,ACC-P006,2025-12-12 16:40:04,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF604386,Monthly rent,Bank Core System
+TXN00150,P006,ACC-P006,2025-12-14 15:10:50,950,debit,Electricity Board,Electricity Board,,UPI,REF396782,Utility bill,Bank Core System
+TXN00151,P006,ACC-P006,2026-01-09 10:05:25,32000,credit,Private household,Private household,L011,NEFT,REF418345,Salary credit,Bank Core System
+TXN00152,P006,ACC-P006,2026-01-11 17:05:55,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF913328,Monthly rent,Bank Core System
+TXN00153,P006,ACC-P006,2026-01-13 18:55:18,1200,debit,Electricity Board,Electricity Board,,UPI,REF843485,Utility bill,Bank Core System
+TXN00154,P006,ACC-P006,2026-02-07 09:30:43,68000,credit,Private household,Private household,L011,NEFT,REF940164,Salary credit,Bank Core System
+TXN00155,P006,ACC-P006,2026-02-09 16:05:01,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF136275,Monthly rent,Bank Core System
+TXN00156,P006,ACC-P006,2026-02-11 16:15:24,1500,debit,Electricity Board,Electricity Board,,UPI,REF972668,Utility bill,Bank Core System
+TXN00157,P006,ACC-P006,2026-03-22 11:40:18,2409,debit,Water Board,HP Fuel Station,L015,Credit Card,REF188613,Fuel purchase,Bank Core System
+TXN00158,P006,ACC-P006,2025-10-18 09:55:38,1329,debit,Water Board,Local Kirana Store,L001,Credit Card,REF188804,Restaurant payment,Bank Core System
+TXN00159,P006,ACC-P006,2026-01-05 09:40:35,1245,debit,Spice Route Restaurant,HP Fuel Station,L012,UPI,REF404785,Restaurant payment,Bank Core System
+TXN00160,P006,ACC-P006,2025-10-04 19:45:22,4258,debit,Cafe Coffee Junction,Water Board,L017,UPI,REF414796,Miscellaneous,Bank Core System
+TXN00161,P006,ACC-P006,2026-03-17 15:45:07,2091,debit,Electricity Board,Spice Route Restaurant,L004,IMPS,REF342211,Online purchase,Bank Core System
+TXN00162,P006,ACC-P006,2026-02-23 15:35:29,3173,debit,Electricity Board,Highway Auto Works,L010,Debit Card,REF715221,Restaurant payment,Bank Core System
+TXN00163,P006,ACC-P006,2025-11-26 19:05:34,3043,debit,Water Board,Cafe Coffee Junction,L014,Cash Deposit,REF742546,Online purchase,Bank Core System
+TXN00164,P006,ACC-P006,2025-11-15 14:30:43,2971,debit,BSNL Broadband,Amazon,L001,NEFT,REF100002,Restaurant payment,Bank Core System
+TXN00165,P006,ACC-P006,2025-12-19 16:45:46,1706,debit,HP Fuel Station,Highway Auto Works,L004,IMPS,REF268485,Miscellaneous,Bank Core System
+TXN00166,P006,ACC-P006,2026-03-19 16:10:57,1848,debit,BSNL Broadband,BSNL Broadband,L027,Debit Card,REF410858,Restaurant payment,Bank Core System
+TXN00167,P006,ACC-P006,2025-11-24 12:00:40,508,debit,Highway Auto Works,Water Board,L012,IMPS,REF840063,Restaurant payment,Bank Core System
+TXN00168,P006,ACC-P006,2025-11-03 15:10:28,3864,debit,Highway Auto Works,Highway Auto Works,L024,NEFT,REF621918,Grocery,Bank Core System
+TXN00169,P006,ACC-P006,2025-10-13 20:35:58,2720,debit,Water Board,Local Kirana Store,L016,Cash Deposit,REF207808,Fuel purchase,Bank Core System
+TXN00170,P006,ACC-P006,2025-09-30 14:05:41,1452,debit,Nandipur City Mall,Union Trust Bank,L025,ATM Withdrawal,REF150820,Online purchase,Bank Core System
+TXN00171,P007,ACC-P007,2025-09-13 10:10:37,75000,credit,Self-employed,Self-employed,L011,NEFT,REF800972,Salary credit,Bank Core System
+TXN00172,P007,ACC-P007,2025-09-15 10:05:15,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF437887,Monthly rent,Bank Core System
+TXN00173,P007,ACC-P007,2025-09-17 17:40:51,1500,debit,Electricity Board,Electricity Board,,UPI,REF383905,Utility bill,Bank Core System
+TXN00174,P007,ACC-P007,2025-10-11 10:40:12,55000,credit,Self-employed,Self-employed,L011,NEFT,REF312802,Salary credit,Bank Core System
+TXN00175,P007,ACC-P007,2025-10-13 12:35:32,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF288665,Monthly rent,Bank Core System
+TXN00176,P007,ACC-P007,2025-10-15 10:30:05,1200,debit,Electricity Board,Electricity Board,,UPI,REF500275,Utility bill,Bank Core System
+TXN00177,P007,ACC-P007,2025-11-09 10:35:56,68000,credit,Self-employed,Self-employed,L011,NEFT,REF400677,Salary credit,Bank Core System
+TXN00178,P007,ACC-P007,2025-11-11 16:30:00,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF194673,Monthly rent,Bank Core System
+TXN00179,P007,ACC-P007,2025-11-13 11:00:07,1200,debit,Electricity Board,Electricity Board,,UPI,REF799849,Utility bill,Bank Core System
+TXN00180,P007,ACC-P007,2025-12-10 10:25:49,42000,credit,Self-employed,Self-employed,L011,NEFT,REF124192,Salary credit,Bank Core System
+TXN00181,P007,ACC-P007,2025-12-12 18:00:36,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF466485,Monthly rent,Bank Core System
+TXN00182,P007,ACC-P007,2025-12-14 10:25:17,1200,debit,Electricity Board,Electricity Board,,UPI,REF752498,Utility bill,Bank Core System
+TXN00183,P007,ACC-P007,2026-01-11 11:15:46,75000,credit,Self-employed,Self-employed,L011,NEFT,REF820112,Salary credit,Bank Core System
+TXN00184,P007,ACC-P007,2026-01-13 15:45:43,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF650278,Monthly rent,Bank Core System
+TXN00185,P007,ACC-P007,2026-01-15 17:35:29,950,debit,Electricity Board,Electricity Board,,UPI,REF496126,Utility bill,Bank Core System
+TXN00186,P007,ACC-P007,2026-02-07 10:25:35,55000,credit,Self-employed,Self-employed,L011,NEFT,REF840278,Salary credit,Bank Core System
+TXN00187,P007,ACC-P007,2026-02-09 15:35:28,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF183629,Monthly rent,Bank Core System
+TXN00188,P007,ACC-P007,2026-02-11 15:25:55,1200,debit,Electricity Board,Electricity Board,,UPI,REF371279,Utility bill,Bank Core System
+TXN00189,P007,ACC-P007,2025-10-24 18:45:14,1414,debit,Water Board,Nandipur City Mall,L001,IMPS,REF356193,Miscellaneous,Bank Core System
+TXN00190,P007,ACC-P007,2025-09-18 12:55:56,4268,debit,Highway Auto Works,Cafe Coffee Junction,L002,Debit Card,REF648130,Online purchase,Bank Core System
+TXN00191,P007,ACC-P007,2025-10-07 08:25:48,4204,debit,Local Kirana Store,Electricity Board,L003,IMPS,REF217762,Grocery,Bank Core System
+TXN00192,P007,ACC-P007,2025-10-14 14:15:53,239,debit,Union Trust Bank,Local Kirana Store,L014,Cash Deposit,REF690838,Miscellaneous,Bank Core System
+TXN00193,P007,ACC-P007,2025-11-06 20:10:21,3946,debit,Highway Auto Works,Amazon,L016,UPI,REF799180,Restaurant payment,Bank Core System
+TXN00194,P007,ACC-P007,2026-02-18 08:00:28,3030,debit,Highway Auto Works,Union Trust Bank,L021,Debit Card,REF246488,Miscellaneous,Bank Core System
+TXN00195,P008,ACC-P008,2025-09-12 10:45:30,68000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF848304,Salary credit,Bank Core System
+TXN00196,P008,ACC-P008,2025-09-14 17:15:59,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF210109,Monthly rent,Bank Core System
+TXN00197,P008,ACC-P008,2025-09-16 09:50:28,950,debit,Electricity Board,Electricity Board,,UPI,REF460480,Utility bill,Bank Core System
+TXN00198,P008,ACC-P008,2025-10-10 09:30:50,32000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF824363,Salary credit,Bank Core System
+TXN00199,P008,ACC-P008,2025-10-12 13:00:18,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF933701,Monthly rent,Bank Core System
+TXN00200,P008,ACC-P008,2025-10-14 09:05:37,1200,debit,Electricity Board,Electricity Board,,UPI,REF954541,Utility bill,Bank Core System
+TXN00201,P008,ACC-P008,2025-11-12 11:15:59,68000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF303805,Salary credit,Bank Core System
+TXN00202,P008,ACC-P008,2025-11-14 18:55:54,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF896024,Monthly rent,Bank Core System
+TXN00203,P008,ACC-P008,2025-11-16 19:25:06,1500,debit,Electricity Board,Electricity Board,,UPI,REF227387,Utility bill,Bank Core System
+TXN00204,P008,ACC-P008,2025-12-09 09:35:41,28000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF614473,Salary credit,Bank Core System
+TXN00205,P008,ACC-P008,2025-12-11 16:40:36,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF764365,Monthly rent,Bank Core System
+TXN00206,P008,ACC-P008,2025-12-13 20:25:58,1200,debit,Electricity Board,Electricity Board,,UPI,REF711374,Utility bill,Bank Core System
+TXN00207,P008,ACC-P008,2026-01-08 11:45:33,75000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF758920,Salary credit,Bank Core System
+TXN00208,P008,ACC-P008,2026-01-10 15:45:30,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF324169,Monthly rent,Bank Core System
+TXN00209,P008,ACC-P008,2026-01-12 17:45:08,1200,debit,Electricity Board,Electricity Board,,UPI,REF706279,Utility bill,Bank Core System
+TXN00210,P008,ACC-P008,2026-02-08 09:45:21,28000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF322008,Salary credit,Bank Core System
+TXN00211,P008,ACC-P008,2026-02-10 18:35:30,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF185059,Monthly rent,Bank Core System
+TXN00212,P008,ACC-P008,2026-02-12 11:25:51,800,debit,Electricity Board,Electricity Board,,UPI,REF958878,Utility bill,Bank Core System
+TXN00213,P008,ACC-P008,2025-12-29 11:45:49,423,debit,Amazon,BSNL Broadband,L003,Cash Deposit,REF571820,Fuel purchase,Bank Core System
+TXN00214,P008,ACC-P008,2026-04-13 18:05:56,970,debit,Spice Route Restaurant,Union Trust Bank,L023,NEFT,REF339503,Online purchase,Bank Core System
+TXN00215,P008,ACC-P008,2026-01-27 21:00:23,4441,debit,Amazon,Spice Route Restaurant,L017,IMPS,REF698582,Online purchase,Bank Core System
+TXN00216,P008,ACC-P008,2025-10-09 15:15:26,501,debit,Water Board,Amazon,L012,Cash Deposit,REF134290,Online purchase,Bank Core System
+TXN00217,P008,ACC-P008,2026-01-29 10:55:04,1343,debit,Flipkart,Flipkart,L006,Cash Deposit,REF571043,Miscellaneous,Bank Core System
+TXN00218,P008,ACC-P008,2025-09-19 16:30:21,3965,debit,Cafe Coffee Junction,Nandipur City Mall,L026,Debit Card,REF701523,Restaurant payment,Bank Core System
+TXN00219,P008,ACC-P008,2026-02-23 08:55:14,533,debit,BSNL Broadband,Amazon,L021,IMPS,REF904437,Online purchase,Bank Core System
+TXN00220,P008,ACC-P008,2025-09-18 18:40:15,3708,debit,HP Fuel Station,Amazon,L004,UPI,REF901177,Online purchase,Bank Core System
+TXN00221,P008,ACC-P008,2026-03-25 15:45:43,3881,debit,Nandipur City Mall,Water Board,L026,ATM Withdrawal,REF571602,Fuel purchase,Bank Core System
+TXN00222,P008,ACC-P008,2025-09-26 19:50:16,2544,debit,Electricity Board,Water Board,L001,Cash Deposit,REF527492,Miscellaneous,Bank Core System
+TXN00223,P008,ACC-P008,2025-09-19 20:45:19,3270,debit,HP Fuel Station,Nandipur City Mall,L014,UPI,REF968339,Grocery,Bank Core System
+TXN00224,P008,ACC-P008,2026-02-23 18:05:22,4378,debit,Cafe Coffee Junction,Cafe Coffee Junction,L005,IMPS,REF410974,Online purchase,Bank Core System
+TXN00225,P009,ACC-P009,2025-09-12 11:55:07,75000,credit,Riverbank Realty,Riverbank Realty,L027,NEFT,REF960894,Salary credit,Bank Core System
+TXN00226,P009,ACC-P009,2025-09-14 14:05:51,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF576116,Monthly rent,Bank Core System
+TXN00227,P009,ACC-P009,2025-09-16 20:20:04,800,debit,Electricity Board,Electricity Board,,UPI,REF468290,Utility bill,Bank Core System
+TXN00228,P009,ACC-P009,2025-10-10 09:00:05,55000,credit,Riverbank Realty,Riverbank Realty,L027,NEFT,REF144506,Salary credit,Bank Core System
+TXN00229,P009,ACC-P009,2025-10-12 16:25:07,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF108931,Monthly rent,Bank Core System
+TXN00230,P009,ACC-P009,2025-10-14 09:20:24,950,debit,Electricity Board,Electricity Board,,UPI,REF165027,Utility bill,Bank Core System
+TXN00231,P009,ACC-P009,2025-11-11 11:30:15,35000,credit,Riverbank Realty,Riverbank Realty,L027,NEFT,REF757177,Salary credit,Bank Core System
+TXN00232,P009,ACC-P009,2025-11-13 17:25:12,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF667311,Monthly rent,Bank Core System
+TXN00233,P009,ACC-P009,2025-11-15 20:55:36,950,debit,Electricity Board,Electricity Board,,UPI,REF356986,Utility bill,Bank Core System
+TXN00234,P009,ACC-P009,2025-12-10 11:20:38,68000,credit,Riverbank Realty,Riverbank Realty,L027,NEFT,REF571686,Salary credit,Bank Core System
+TXN00235,P009,ACC-P009,2025-12-12 11:15:27,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF447675,Monthly rent,Bank Core System
+TXN00236,P009,ACC-P009,2025-12-14 20:25:35,800,debit,Electricity Board,Electricity Board,,UPI,REF377217,Utility bill,Bank Core System
+TXN00237,P009,ACC-P009,2026-01-08 10:45:19,42000,credit,Riverbank Realty,Riverbank Realty,L027,NEFT,REF694683,Salary credit,Bank Core System
+TXN00238,P009,ACC-P009,2026-01-10 12:15:33,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF908126,Monthly rent,Bank Core System
+TXN00239,P009,ACC-P009,2026-01-12 19:20:18,1500,debit,Electricity Board,Electricity Board,,UPI,REF129611,Utility bill,Bank Core System
+TXN00240,P009,ACC-P009,2026-02-10 10:40:24,28000,credit,Riverbank Realty,Riverbank Realty,L027,NEFT,REF122960,Salary credit,Bank Core System
+TXN00241,P009,ACC-P009,2026-02-12 17:05:09,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF941657,Monthly rent,Bank Core System
+TXN00242,P009,ACC-P009,2026-02-14 11:05:39,1500,debit,Electricity Board,Electricity Board,,UPI,REF645655,Utility bill,Bank Core System
+TXN00243,P009,ACC-P009,2025-11-04 12:35:04,615,debit,Spice Route Restaurant,Highway Auto Works,L027,Debit Card,REF262859,Fuel purchase,Bank Core System
+TXN00244,P009,ACC-P009,2026-02-25 11:35:30,3318,debit,Flipkart,Flipkart,L005,UPI,REF923283,Restaurant payment,Bank Core System
+TXN00245,P009,ACC-P009,2026-01-23 15:00:50,448,debit,Union Trust Bank,Amazon,L011,ATM Withdrawal,REF534709,Restaurant payment,Bank Core System
+TXN00246,P009,ACC-P009,2025-10-08 09:45:46,606,debit,Water Board,Flipkart,L021,Debit Card,REF930650,Miscellaneous,Bank Core System
+TXN00247,P009,ACC-P009,2025-12-06 14:05:03,1930,debit,Flipkart,Highway Auto Works,L011,NEFT,REF907726,Grocery,Bank Core System
+TXN00248,P009,ACC-P009,2025-12-09 11:00:46,2092,debit,Union Trust Bank,Spice Route Restaurant,L021,Debit Card,REF710426,Miscellaneous,Bank Core System
+TXN00249,P009,ACC-P009,2026-02-28 17:55:39,3451,debit,Flipkart,Amazon,L012,ATM Withdrawal,REF131446,Grocery,Bank Core System
+TXN00250,P009,ACC-P009,2025-12-09 16:25:24,357,debit,Spice Route Restaurant,Amazon,L015,Cash Deposit,REF955074,Miscellaneous,Bank Core System
+TXN00251,P009,ACC-P009,2025-09-24 13:35:32,807,debit,HP Fuel Station,Union Trust Bank,L009,Credit Card,REF331511,Online purchase,Bank Core System
+TXN00252,P009,ACC-P009,2025-11-08 16:20:38,1473,debit,Flipkart,HP Fuel Station,L024,UPI,REF904400,Grocery,Bank Core System
+TXN00253,P010,ACC-P010,2025-09-12 11:55:11,42000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L010,NEFT,REF652247,Salary credit,Bank Core System
+TXN00254,P010,ACC-P010,2025-09-14 12:10:42,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF893234,Monthly rent,Bank Core System
+TXN00255,P010,ACC-P010,2025-09-16 12:20:11,1500,debit,Electricity Board,Electricity Board,,UPI,REF482171,Utility bill,Bank Core System
+TXN00256,P010,ACC-P010,2025-10-11 11:50:21,28000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L010,NEFT,REF903981,Salary credit,Bank Core System
+TXN00257,P010,ACC-P010,2025-10-13 12:50:18,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF375938,Monthly rent,Bank Core System
+TXN00258,P010,ACC-P010,2025-10-15 17:15:38,1200,debit,Electricity Board,Electricity Board,,UPI,REF768140,Utility bill,Bank Core System
+TXN00259,P010,ACC-P010,2025-11-10 09:30:14,68000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L010,NEFT,REF253327,Salary credit,Bank Core System
+TXN00260,P010,ACC-P010,2025-11-12 17:45:45,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF160600,Monthly rent,Bank Core System
+TXN00261,P010,ACC-P010,2025-11-14 16:00:56,1500,debit,Electricity Board,Electricity Board,,UPI,REF450497,Utility bill,Bank Core System
+TXN00262,P010,ACC-P010,2025-12-09 09:10:09,28000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L010,NEFT,REF889002,Salary credit,Bank Core System
+TXN00263,P010,ACC-P010,2025-12-11 14:30:15,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF897143,Monthly rent,Bank Core System
+TXN00264,P010,ACC-P010,2025-12-13 17:55:28,1200,debit,Electricity Board,Electricity Board,,UPI,REF864355,Utility bill,Bank Core System
+TXN00265,P010,ACC-P010,2026-01-08 10:15:17,32000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L010,NEFT,REF289377,Salary credit,Bank Core System
+TXN00266,P010,ACC-P010,2026-01-10 18:45:23,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF780734,Monthly rent,Bank Core System
+TXN00267,P010,ACC-P010,2026-01-12 14:00:01,950,debit,Electricity Board,Electricity Board,,UPI,REF278752,Utility bill,Bank Core System
+TXN00268,P010,ACC-P010,2026-02-09 10:25:51,35000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L010,NEFT,REF204507,Salary credit,Bank Core System
+TXN00269,P010,ACC-P010,2026-02-11 15:10:36,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF570123,Monthly rent,Bank Core System
+TXN00270,P010,ACC-P010,2026-02-13 18:35:25,1500,debit,Electricity Board,Electricity Board,,UPI,REF399536,Utility bill,Bank Core System
+TXN00271,P010,ACC-P010,2026-01-13 11:10:03,571,debit,Local Kirana Store,Amazon,L016,Credit Card,REF191368,Miscellaneous,Bank Core System
+TXN00272,P010,ACC-P010,2025-10-26 09:10:37,702,debit,BSNL Broadband,Flipkart,L010,IMPS,REF574428,Fuel purchase,Bank Core System
+TXN00273,P010,ACC-P010,2026-03-17 11:35:35,3743,debit,Electricity Board,Flipkart,L020,Cash Deposit,REF119670,Grocery,Bank Core System
+TXN00274,P010,ACC-P010,2026-02-08 20:05:50,707,debit,Flipkart,Spice Route Restaurant,L013,UPI,REF843194,Online purchase,Bank Core System
+TXN00275,P010,ACC-P010,2026-04-23 14:00:52,3811,debit,Nandipur City Mall,Nandipur City Mall,L021,ATM Withdrawal,REF850637,Grocery,Bank Core System
+TXN00276,P010,ACC-P010,2025-11-28 17:10:22,782,debit,Highway Auto Works,BSNL Broadband,L024,IMPS,REF782752,Online purchase,Bank Core System
+TXN00277,P010,ACC-P010,2026-02-18 18:25:43,2619,debit,Amazon,Nandipur City Mall,L010,UPI,REF745978,Online purchase,Bank Core System
+TXN00278,P011,ACC-P011,2025-09-13 11:20:11,28000,credit,Nandipur City Hospital,Nandipur City Hospital,L027,NEFT,REF474409,Salary credit,Bank Core System
+TXN00279,P011,ACC-P011,2025-09-15 16:00:41,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF911270,Monthly rent,Bank Core System
+TXN00280,P011,ACC-P011,2025-09-17 17:45:34,800,debit,Electricity Board,Electricity Board,,UPI,REF283192,Utility bill,Bank Core System
+TXN00281,P011,ACC-P011,2025-10-12 11:45:19,32000,credit,Nandipur City Hospital,Nandipur City Hospital,L027,NEFT,REF699387,Salary credit,Bank Core System
+TXN00282,P011,ACC-P011,2025-10-14 16:25:06,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF958008,Monthly rent,Bank Core System
+TXN00283,P011,ACC-P011,2025-10-16 16:25:46,1500,debit,Electricity Board,Electricity Board,,UPI,REF500635,Utility bill,Bank Core System
+TXN00284,P011,ACC-P011,2025-11-09 10:35:50,35000,credit,Nandipur City Hospital,Nandipur City Hospital,L027,NEFT,REF903741,Salary credit,Bank Core System
+TXN00285,P011,ACC-P011,2025-11-11 12:20:02,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF149167,Monthly rent,Bank Core System
+TXN00286,P011,ACC-P011,2025-11-13 15:05:15,1500,debit,Electricity Board,Electricity Board,,UPI,REF851585,Utility bill,Bank Core System
+TXN00287,P011,ACC-P011,2025-12-09 09:00:17,35000,credit,Nandipur City Hospital,Nandipur City Hospital,L027,NEFT,REF712978,Salary credit,Bank Core System
+TXN00288,P011,ACC-P011,2025-12-11 12:15:52,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF333225,Monthly rent,Bank Core System
+TXN00289,P011,ACC-P011,2025-12-13 20:50:57,800,debit,Electricity Board,Electricity Board,,UPI,REF476592,Utility bill,Bank Core System
+TXN00290,P011,ACC-P011,2026-01-11 11:20:25,75000,credit,Nandipur City Hospital,Nandipur City Hospital,L027,NEFT,REF802874,Salary credit,Bank Core System
+TXN00291,P011,ACC-P011,2026-01-13 11:20:35,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF323114,Monthly rent,Bank Core System
+TXN00292,P011,ACC-P011,2026-01-15 13:40:17,800,debit,Electricity Board,Electricity Board,,UPI,REF252431,Utility bill,Bank Core System
+TXN00293,P011,ACC-P011,2026-02-09 09:25:56,55000,credit,Nandipur City Hospital,Nandipur City Hospital,L027,NEFT,REF920771,Salary credit,Bank Core System
+TXN00294,P011,ACC-P011,2026-02-11 16:55:14,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF580225,Monthly rent,Bank Core System
+TXN00295,P011,ACC-P011,2026-02-13 20:10:22,1200,debit,Electricity Board,Electricity Board,,UPI,REF304002,Utility bill,Bank Core System
+TXN00296,P011,ACC-P011,2025-12-31 22:50:21,2811,debit,Water Board,Local Kirana Store,L005,UPI,REF338153,Restaurant payment,Bank Core System
+TXN00297,P011,ACC-P011,2025-09-27 19:05:20,3019,debit,BSNL Broadband,Spice Route Restaurant,L009,ATM Withdrawal,REF628521,Online purchase,Bank Core System
+TXN00298,P011,ACC-P011,2025-10-29 09:55:58,2764,debit,Local Kirana Store,Union Trust Bank,L025,Debit Card,REF841830,Fuel purchase,Bank Core System
+TXN00299,P011,ACC-P011,2026-02-14 19:55:12,4248,debit,Electricity Board,Spice Route Restaurant,L027,NEFT,REF726836,Online purchase,Bank Core System
+TXN00300,P011,ACC-P011,2025-10-29 11:15:56,3206,debit,Highway Auto Works,Flipkart,L006,Credit Card,REF695240,Miscellaneous,Bank Core System
+TXN00301,P011,ACC-P011,2026-01-07 11:10:47,1027,debit,Highway Auto Works,Amazon,L008,NEFT,REF658240,Miscellaneous,Bank Core System
+TXN00302,P011,ACC-P011,2025-09-28 19:05:00,2554,debit,Water Board,Cafe Coffee Junction,L024,Cash Deposit,REF224722,Fuel purchase,Bank Core System
+TXN00303,P011,ACC-P011,2026-03-31 16:25:57,4332,debit,Spice Route Restaurant,Nandipur City Mall,L024,NEFT,REF536616,Grocery,Bank Core System
+TXN00304,P011,ACC-P011,2025-12-07 13:20:12,615,debit,Local Kirana Store,Highway Auto Works,L011,Cash Deposit,REF638654,Online purchase,Bank Core System
+TXN00305,P011,ACC-P011,2026-01-06 16:05:11,3928,debit,Cafe Coffee Junction,Union Trust Bank,L011,IMPS,REF654899,Grocery,Bank Core System
+TXN00306,P011,ACC-P011,2026-02-03 21:35:59,3748,debit,Nandipur City Mall,Spice Route Restaurant,L006,Cash Deposit,REF597401,Miscellaneous,Bank Core System
+TXN00307,P011,ACC-P011,2026-04-19 19:35:36,1383,debit,Local Kirana Store,HP Fuel Station,L021,NEFT,REF587218,Grocery,Bank Core System
+TXN00308,P012,ACC-P012,2025-09-13 09:05:05,68000,credit,Nandipur City Hospital,Nandipur City Hospital,L022,NEFT,REF211326,Salary credit,Bank Core System
+TXN00309,P012,ACC-P012,2025-09-15 12:10:28,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF798906,Monthly rent,Bank Core System
+TXN00310,P012,ACC-P012,2025-09-17 17:35:14,950,debit,Electricity Board,Electricity Board,,UPI,REF323565,Utility bill,Bank Core System
+TXN00311,P012,ACC-P012,2025-10-11 10:35:11,35000,credit,Nandipur City Hospital,Nandipur City Hospital,L022,NEFT,REF523723,Salary credit,Bank Core System
+TXN00312,P012,ACC-P012,2025-10-13 11:55:37,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF495408,Monthly rent,Bank Core System
+TXN00313,P012,ACC-P012,2025-10-15 18:40:46,950,debit,Electricity Board,Electricity Board,,UPI,REF235716,Utility bill,Bank Core System
+TXN00314,P012,ACC-P012,2025-11-12 11:35:52,75000,credit,Nandipur City Hospital,Nandipur City Hospital,L022,NEFT,REF372340,Salary credit,Bank Core System
+TXN00315,P012,ACC-P012,2025-11-14 18:10:19,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF144344,Monthly rent,Bank Core System
+TXN00316,P012,ACC-P012,2025-11-16 10:40:32,950,debit,Electricity Board,Electricity Board,,UPI,REF351540,Utility bill,Bank Core System
+TXN00317,P012,ACC-P012,2025-12-11 10:15:29,42000,credit,Nandipur City Hospital,Nandipur City Hospital,L022,NEFT,REF943856,Salary credit,Bank Core System
+TXN00318,P012,ACC-P012,2025-12-13 11:35:01,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF110460,Monthly rent,Bank Core System
+TXN00319,P012,ACC-P012,2025-12-15 14:00:45,1200,debit,Electricity Board,Electricity Board,,UPI,REF115600,Utility bill,Bank Core System
+TXN00320,P012,ACC-P012,2026-01-09 11:25:24,35000,credit,Nandipur City Hospital,Nandipur City Hospital,L022,NEFT,REF801186,Salary credit,Bank Core System
+TXN00321,P012,ACC-P012,2026-01-11 13:55:26,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF134985,Monthly rent,Bank Core System
+TXN00322,P012,ACC-P012,2026-01-13 13:20:50,1500,debit,Electricity Board,Electricity Board,,UPI,REF966450,Utility bill,Bank Core System
+TXN00323,P012,ACC-P012,2026-02-07 11:55:31,42000,credit,Nandipur City Hospital,Nandipur City Hospital,L022,NEFT,REF810823,Salary credit,Bank Core System
+TXN00324,P012,ACC-P012,2026-02-09 18:10:02,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF831273,Monthly rent,Bank Core System
+TXN00325,P012,ACC-P012,2026-02-11 20:45:46,950,debit,Electricity Board,Electricity Board,,UPI,REF677840,Utility bill,Bank Core System
+TXN00326,P012,ACC-P012,2026-01-17 10:00:33,3667,debit,Flipkart,Local Kirana Store,L011,IMPS,REF245915,Online purchase,Bank Core System
+TXN00327,P012,ACC-P012,2025-09-11 20:45:17,1106,debit,Union Trust Bank,Union Trust Bank,L027,Debit Card,REF207095,Restaurant payment,Bank Core System
+TXN00328,P012,ACC-P012,2025-11-04 11:10:39,1308,debit,Amazon,Flipkart,L007,ATM Withdrawal,REF891446,Fuel purchase,Bank Core System
+TXN00329,P012,ACC-P012,2026-01-01 11:35:06,2678,debit,BSNL Broadband,Water Board,L020,Debit Card,REF128588,Miscellaneous,Bank Core System
+TXN00330,P012,ACC-P012,2025-12-16 15:25:47,1110,debit,Water Board,Cafe Coffee Junction,L016,Cash Deposit,REF698821,Online purchase,Bank Core System
+TXN00331,P012,ACC-P012,2025-10-30 08:05:22,1430,debit,Union Trust Bank,Flipkart,L001,ATM Withdrawal,REF852718,Restaurant payment,Bank Core System
+TXN00332,P012,ACC-P012,2025-09-29 20:20:24,273,debit,Union Trust Bank,HP Fuel Station,L023,IMPS,REF183985,Restaurant payment,Bank Core System
+TXN00333,P012,ACC-P012,2025-09-17 12:40:12,1073,debit,Spice Route Restaurant,BSNL Broadband,L004,UPI,REF220659,Online purchase,Bank Core System
+TXN00334,P012,ACC-P012,2026-03-04 10:15:19,735,debit,Flipkart,Amazon,L023,Cash Deposit,REF805609,Miscellaneous,Bank Core System
+TXN00335,P012,ACC-P012,2025-10-18 08:40:01,2495,debit,BSNL Broadband,Water Board,L012,ATM Withdrawal,REF102183,Restaurant payment,Bank Core System
+TXN00336,P013,ACC-P013,2025-09-11 09:45:42,28000,credit,Sethi & Associates,Sethi & Associates,L022,NEFT,REF789935,Salary credit,Bank Core System
+TXN00337,P013,ACC-P013,2025-09-13 10:45:50,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF216228,Monthly rent,Bank Core System
+TXN00338,P013,ACC-P013,2025-09-15 13:55:14,950,debit,Electricity Board,Electricity Board,,UPI,REF684069,Utility bill,Bank Core System
+TXN00339,P013,ACC-P013,2025-10-12 09:15:52,75000,credit,Sethi & Associates,Sethi & Associates,L022,NEFT,REF359910,Salary credit,Bank Core System
+TXN00340,P013,ACC-P013,2025-10-14 14:10:34,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF642587,Monthly rent,Bank Core System
+TXN00341,P013,ACC-P013,2025-10-16 17:20:36,1500,debit,Electricity Board,Electricity Board,,UPI,REF250945,Utility bill,Bank Core System
+TXN00342,P013,ACC-P013,2025-11-12 09:50:03,68000,credit,Sethi & Associates,Sethi & Associates,L022,NEFT,REF223805,Salary credit,Bank Core System
+TXN00343,P013,ACC-P013,2025-11-14 16:45:24,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF159180,Monthly rent,Bank Core System
+TXN00344,P013,ACC-P013,2025-11-16 10:35:05,1200,debit,Electricity Board,Electricity Board,,UPI,REF306147,Utility bill,Bank Core System
+TXN00345,P013,ACC-P013,2025-12-11 11:15:19,32000,credit,Sethi & Associates,Sethi & Associates,L022,NEFT,REF471925,Salary credit,Bank Core System
+TXN00346,P013,ACC-P013,2025-12-13 10:30:41,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF590766,Monthly rent,Bank Core System
+TXN00347,P013,ACC-P013,2025-12-15 15:55:19,800,debit,Electricity Board,Electricity Board,,UPI,REF800372,Utility bill,Bank Core System
+TXN00348,P013,ACC-P013,2026-01-09 10:50:27,35000,credit,Sethi & Associates,Sethi & Associates,L022,NEFT,REF142645,Salary credit,Bank Core System
+TXN00349,P013,ACC-P013,2026-01-11 15:00:59,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF293717,Monthly rent,Bank Core System
+TXN00350,P013,ACC-P013,2026-01-13 17:20:27,1200,debit,Electricity Board,Electricity Board,,UPI,REF404421,Utility bill,Bank Core System
+TXN00351,P013,ACC-P013,2026-02-09 09:00:00,68000,credit,Sethi & Associates,Sethi & Associates,L022,NEFT,REF766427,Salary credit,Bank Core System
+TXN00352,P013,ACC-P013,2026-02-11 12:55:03,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF233630,Monthly rent,Bank Core System
+TXN00353,P013,ACC-P013,2026-02-13 19:55:44,800,debit,Electricity Board,Electricity Board,,UPI,REF482834,Utility bill,Bank Core System
+TXN00354,P013,ACC-P013,2026-04-05 19:10:57,3659,debit,Cafe Coffee Junction,Water Board,L007,NEFT,REF312370,Online purchase,Bank Core System
+TXN00355,P013,ACC-P013,2025-10-24 21:55:43,1883,debit,Union Trust Bank,Union Trust Bank,L026,Cash Deposit,REF177016,Restaurant payment,Bank Core System
+TXN00356,P013,ACC-P013,2025-12-28 12:15:31,4384,debit,Spice Route Restaurant,Flipkart,L008,UPI,REF970651,Online purchase,Bank Core System
+TXN00357,P013,ACC-P013,2025-09-13 17:40:51,4051,debit,Flipkart,Water Board,L021,NEFT,REF528086,Grocery,Bank Core System
+TXN00358,P013,ACC-P013,2025-10-02 17:35:03,2447,debit,Nandipur City Mall,BSNL Broadband,L009,NEFT,REF435143,Grocery,Bank Core System
+TXN00359,P013,ACC-P013,2026-02-05 16:40:05,3737,debit,Cafe Coffee Junction,Flipkart,L011,Cash Deposit,REF340777,Restaurant payment,Bank Core System
+TXN00360,P013,ACC-P013,2026-02-25 22:30:38,1042,debit,Amazon,Highway Auto Works,L006,IMPS,REF617244,Online purchase,Bank Core System
+TXN00361,P013,ACC-P013,2025-11-03 20:25:18,764,debit,Cafe Coffee Junction,Electricity Board,L001,UPI,REF790059,Fuel purchase,Bank Core System
+TXN00362,P013,ACC-P013,2025-11-02 11:30:32,1426,debit,Water Board,HP Fuel Station,L016,Credit Card,REF412210,Fuel purchase,Bank Core System
+TXN00363,P013,ACC-P013,2025-10-21 22:15:17,3185,debit,Local Kirana Store,Flipkart,L026,NEFT,REF921296,Miscellaneous,Bank Core System
+TXN00364,P013,ACC-P013,2025-10-02 18:25:25,3807,debit,Local Kirana Store,Cafe Coffee Junction,L004,IMPS,REF583376,Fuel purchase,Bank Core System
+TXN00365,P013,ACC-P013,2026-01-05 17:25:09,1049,debit,Nandipur City Mall,Electricity Board,L015,Debit Card,REF857387,Miscellaneous,Bank Core System
+TXN00366,P013,ACC-P013,2025-10-30 17:10:52,4200,debit,Amazon,BSNL Broadband,L010,UPI,REF619197,Miscellaneous,Bank Core System
+TXN00367,P014,ACC-P014,2025-09-10 10:25:01,35000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF333576,Salary credit,Bank Core System
+TXN00368,P014,ACC-P014,2025-09-12 16:35:48,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF923723,Monthly rent,Bank Core System
+TXN00369,P014,ACC-P014,2025-09-14 09:10:26,950,debit,Electricity Board,Electricity Board,,UPI,REF203998,Utility bill,Bank Core System
+TXN00370,P014,ACC-P014,2025-10-11 11:30:41,32000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF365303,Salary credit,Bank Core System
+TXN00371,P014,ACC-P014,2025-10-13 12:30:58,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF245029,Monthly rent,Bank Core System
+TXN00372,P014,ACC-P014,2025-10-15 15:30:17,1500,debit,Electricity Board,Electricity Board,,UPI,REF942626,Utility bill,Bank Core System
+TXN00373,P014,ACC-P014,2025-11-12 10:05:58,28000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF910277,Salary credit,Bank Core System
+TXN00374,P014,ACC-P014,2025-11-14 12:35:24,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF495333,Monthly rent,Bank Core System
+TXN00375,P014,ACC-P014,2025-11-16 10:40:58,1500,debit,Electricity Board,Electricity Board,,UPI,REF945981,Utility bill,Bank Core System
+TXN00376,P014,ACC-P014,2025-12-10 11:35:10,55000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF712301,Salary credit,Bank Core System
+TXN00377,P014,ACC-P014,2025-12-12 14:55:46,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF597668,Monthly rent,Bank Core System
+TXN00378,P014,ACC-P014,2025-12-14 14:55:09,800,debit,Electricity Board,Electricity Board,,UPI,REF910443,Utility bill,Bank Core System
+TXN00379,P014,ACC-P014,2026-01-11 09:15:01,32000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF495108,Salary credit,Bank Core System
+TXN00380,P014,ACC-P014,2026-01-13 15:20:46,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF163809,Monthly rent,Bank Core System
+TXN00381,P014,ACC-P014,2026-01-15 10:35:16,800,debit,Electricity Board,Electricity Board,,UPI,REF868339,Utility bill,Bank Core System
+TXN00382,P014,ACC-P014,2026-02-07 11:35:57,68000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF773495,Salary credit,Bank Core System
+TXN00383,P014,ACC-P014,2026-02-09 18:50:38,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF700752,Monthly rent,Bank Core System
+TXN00384,P014,ACC-P014,2026-02-11 16:30:21,1500,debit,Electricity Board,Electricity Board,,UPI,REF830548,Utility bill,Bank Core System
+TXN00385,P014,ACC-P014,2025-10-10 11:10:00,3004,debit,Union Trust Bank,Electricity Board,L019,UPI,REF127435,Grocery,Bank Core System
+TXN00386,P014,ACC-P014,2026-01-24 14:35:32,3474,debit,Nandipur City Mall,Spice Route Restaurant,L004,Credit Card,REF780070,Fuel purchase,Bank Core System
+TXN00387,P014,ACC-P014,2025-09-19 11:30:15,3705,debit,Nandipur City Mall,Electricity Board,L023,Debit Card,REF307925,Restaurant payment,Bank Core System
+TXN00388,P014,ACC-P014,2025-11-16 12:05:01,2382,debit,Electricity Board,Highway Auto Works,L016,Credit Card,REF755027,Restaurant payment,Bank Core System
+TXN00389,P014,ACC-P014,2026-01-14 16:55:27,3036,debit,Highway Auto Works,Spice Route Restaurant,L024,Debit Card,REF267179,Miscellaneous,Bank Core System
+TXN00390,P014,ACC-P014,2026-03-24 13:20:32,629,debit,Union Trust Bank,Electricity Board,L002,UPI,REF320576,Online purchase,Bank Core System
+TXN00391,P015,ACC-P015,2025-09-13 11:55:22,35000,credit,QuickDrop Logistics,QuickDrop Logistics,L004,NEFT,REF263978,Salary credit,Bank Core System
+TXN00392,P015,ACC-P015,2025-09-15 18:55:02,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF822434,Monthly rent,Bank Core System
+TXN00393,P015,ACC-P015,2025-09-17 12:50:26,950,debit,Electricity Board,Electricity Board,,UPI,REF164386,Utility bill,Bank Core System
+TXN00394,P015,ACC-P015,2025-10-13 11:20:33,55000,credit,QuickDrop Logistics,QuickDrop Logistics,L004,NEFT,REF721259,Salary credit,Bank Core System
+TXN00395,P015,ACC-P015,2025-10-15 16:35:43,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF191207,Monthly rent,Bank Core System
+TXN00396,P015,ACC-P015,2025-10-17 20:10:18,1500,debit,Electricity Board,Electricity Board,,UPI,REF965914,Utility bill,Bank Core System
+TXN00397,P015,ACC-P015,2025-11-09 09:55:44,68000,credit,QuickDrop Logistics,QuickDrop Logistics,L004,NEFT,REF970095,Salary credit,Bank Core System
+TXN00398,P015,ACC-P015,2025-11-11 10:35:46,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF893642,Monthly rent,Bank Core System
+TXN00399,P015,ACC-P015,2025-11-13 17:30:13,1500,debit,Electricity Board,Electricity Board,,UPI,REF197141,Utility bill,Bank Core System
+TXN00400,P015,ACC-P015,2025-12-09 10:05:04,75000,credit,QuickDrop Logistics,QuickDrop Logistics,L004,NEFT,REF477682,Salary credit,Bank Core System
+TXN00401,P015,ACC-P015,2025-12-11 16:20:34,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF200126,Monthly rent,Bank Core System
+TXN00402,P015,ACC-P015,2025-12-13 14:35:16,950,debit,Electricity Board,Electricity Board,,UPI,REF163457,Utility bill,Bank Core System
+TXN00403,P015,ACC-P015,2026-01-10 09:25:05,35000,credit,QuickDrop Logistics,QuickDrop Logistics,L004,NEFT,REF863660,Salary credit,Bank Core System
+TXN00404,P015,ACC-P015,2026-01-12 10:25:38,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF789143,Monthly rent,Bank Core System
+TXN00405,P015,ACC-P015,2026-01-14 15:10:26,1500,debit,Electricity Board,Electricity Board,,UPI,REF147273,Utility bill,Bank Core System
+TXN00406,P015,ACC-P015,2026-02-09 11:10:35,75000,credit,QuickDrop Logistics,QuickDrop Logistics,L004,NEFT,REF655458,Salary credit,Bank Core System
+TXN00407,P015,ACC-P015,2026-02-11 12:40:09,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF401057,Monthly rent,Bank Core System
+TXN00408,P015,ACC-P015,2026-02-13 17:20:59,800,debit,Electricity Board,Electricity Board,,UPI,REF379126,Utility bill,Bank Core System
+TXN00409,P015,ACC-P015,2025-12-13 14:45:41,1211,debit,BSNL Broadband,Nandipur City Mall,L009,ATM Withdrawal,REF269453,Fuel purchase,Bank Core System
+TXN00410,P015,ACC-P015,2026-03-08 13:00:07,2538,debit,Electricity Board,Highway Auto Works,L017,Debit Card,REF630161,Grocery,Bank Core System
+TXN00411,P015,ACC-P015,2025-11-18 22:45:11,2644,debit,Electricity Board,Highway Auto Works,L002,NEFT,REF618558,Miscellaneous,Bank Core System
+TXN00412,P015,ACC-P015,2026-03-01 12:35:28,2802,debit,Highway Auto Works,Flipkart,L002,Credit Card,REF301253,Fuel purchase,Bank Core System
+TXN00413,P015,ACC-P015,2025-12-17 18:20:02,4137,debit,Amazon,HP Fuel Station,L004,IMPS,REF965994,Restaurant payment,Bank Core System
+TXN00414,P015,ACC-P015,2026-01-07 14:05:25,930,debit,Flipkart,Amazon,L014,IMPS,REF677309,Fuel purchase,Bank Core System
+TXN00415,P016,ACC-P016,2025-09-10 11:45:22,28000,credit,Self-employed,Self-employed,L022,NEFT,REF722376,Salary credit,Bank Core System
+TXN00416,P016,ACC-P016,2025-09-12 17:35:36,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF976213,Monthly rent,Bank Core System
+TXN00417,P016,ACC-P016,2025-09-14 19:30:47,800,debit,Electricity Board,Electricity Board,,UPI,REF480799,Utility bill,Bank Core System
+TXN00418,P016,ACC-P016,2025-10-11 09:50:45,68000,credit,Self-employed,Self-employed,L022,NEFT,REF460983,Salary credit,Bank Core System
+TXN00419,P016,ACC-P016,2025-10-13 12:55:42,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF167703,Monthly rent,Bank Core System
+TXN00420,P016,ACC-P016,2025-10-15 10:10:35,800,debit,Electricity Board,Electricity Board,,UPI,REF525249,Utility bill,Bank Core System
+TXN00421,P016,ACC-P016,2025-11-10 09:40:30,42000,credit,Self-employed,Self-employed,L022,NEFT,REF955690,Salary credit,Bank Core System
+TXN00422,P016,ACC-P016,2025-11-12 16:30:45,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF870512,Monthly rent,Bank Core System
+TXN00423,P016,ACC-P016,2025-11-14 16:15:45,1500,debit,Electricity Board,Electricity Board,,UPI,REF351586,Utility bill,Bank Core System
+TXN00424,P016,ACC-P016,2025-12-09 09:05:40,28000,credit,Self-employed,Self-employed,L022,NEFT,REF201193,Salary credit,Bank Core System
+TXN00425,P016,ACC-P016,2025-12-11 17:50:00,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF581977,Monthly rent,Bank Core System
+TXN00426,P016,ACC-P016,2025-12-13 11:25:45,800,debit,Electricity Board,Electricity Board,,UPI,REF804979,Utility bill,Bank Core System
+TXN00427,P016,ACC-P016,2026-01-09 10:25:25,32000,credit,Self-employed,Self-employed,L022,NEFT,REF855194,Salary credit,Bank Core System
+TXN00428,P016,ACC-P016,2026-01-11 16:55:37,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF491205,Monthly rent,Bank Core System
+TXN00429,P016,ACC-P016,2026-01-13 11:10:48,800,debit,Electricity Board,Electricity Board,,UPI,REF507470,Utility bill,Bank Core System
+TXN00430,P016,ACC-P016,2026-02-07 09:00:39,35000,credit,Self-employed,Self-employed,L022,NEFT,REF109431,Salary credit,Bank Core System
+TXN00431,P016,ACC-P016,2026-02-09 10:40:21,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF388365,Monthly rent,Bank Core System
+TXN00432,P016,ACC-P016,2026-02-11 10:45:37,800,debit,Electricity Board,Electricity Board,,UPI,REF294733,Utility bill,Bank Core System
+TXN00433,P016,ACC-P016,2026-04-04 16:55:34,2251,debit,Cafe Coffee Junction,Nandipur City Mall,L024,Credit Card,REF951841,Miscellaneous,Bank Core System
+TXN00434,P016,ACC-P016,2025-12-21 19:10:55,802,debit,Water Board,HP Fuel Station,L007,ATM Withdrawal,REF792888,Miscellaneous,Bank Core System
+TXN00435,P016,ACC-P016,2025-09-15 22:50:18,1208,debit,Nandipur City Mall,HP Fuel Station,L008,ATM Withdrawal,REF648300,Online purchase,Bank Core System
+TXN00436,P016,ACC-P016,2025-09-10 16:15:22,1745,debit,Spice Route Restaurant,Union Trust Bank,L019,IMPS,REF763029,Fuel purchase,Bank Core System
+TXN00437,P016,ACC-P016,2025-12-31 18:00:50,1469,debit,Cafe Coffee Junction,Spice Route Restaurant,L024,NEFT,REF746993,Miscellaneous,Bank Core System
+TXN00438,P016,ACC-P016,2025-12-25 16:20:45,1543,debit,HP Fuel Station,Flipkart,L008,UPI,REF512751,Miscellaneous,Bank Core System
+TXN00439,P016,ACC-P016,2026-03-26 17:25:14,2078,debit,Electricity Board,BSNL Broadband,L021,NEFT,REF801974,Miscellaneous,Bank Core System
+TXN00440,P016,ACC-P016,2025-11-15 20:10:33,1242,debit,HP Fuel Station,Nandipur City Mall,L004,NEFT,REF721385,Fuel purchase,Bank Core System
+TXN00441,P016,ACC-P016,2025-11-14 15:00:36,1941,debit,Nandipur City Mall,Electricity Board,L020,NEFT,REF874256,Online purchase,Bank Core System
+TXN00442,P016,ACC-P016,2026-03-29 08:10:35,4364,debit,Cafe Coffee Junction,Highway Auto Works,L021,NEFT,REF316978,Grocery,Bank Core System
+TXN00443,P016,ACC-P016,2026-03-28 12:35:40,968,debit,Local Kirana Store,Spice Route Restaurant,L007,ATM Withdrawal,REF821967,Online purchase,Bank Core System
+TXN00444,P017,ACC-P017,2025-09-11 10:25:09,35000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L003,NEFT,REF846734,Salary credit,Bank Core System
+TXN00445,P017,ACC-P017,2025-09-13 10:05:55,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF253076,Monthly rent,Bank Core System
+TXN00446,P017,ACC-P017,2025-09-15 19:30:44,800,debit,Electricity Board,Electricity Board,,UPI,REF969598,Utility bill,Bank Core System
+TXN00447,P017,ACC-P017,2025-10-12 09:30:08,55000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L003,NEFT,REF121502,Salary credit,Bank Core System
+TXN00448,P017,ACC-P017,2025-10-14 11:20:11,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF149892,Monthly rent,Bank Core System
+TXN00449,P017,ACC-P017,2025-10-16 13:15:20,950,debit,Electricity Board,Electricity Board,,UPI,REF563769,Utility bill,Bank Core System
+TXN00450,P017,ACC-P017,2025-11-10 09:40:14,42000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L003,NEFT,REF780664,Salary credit,Bank Core System
+TXN00451,P017,ACC-P017,2025-11-12 14:30:23,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF710952,Monthly rent,Bank Core System
+TXN00452,P017,ACC-P017,2025-11-14 17:05:36,1200,debit,Electricity Board,Electricity Board,,UPI,REF981435,Utility bill,Bank Core System
+TXN00453,P017,ACC-P017,2025-12-12 09:30:12,35000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L003,NEFT,REF639734,Salary credit,Bank Core System
+TXN00454,P017,ACC-P017,2025-12-14 17:10:47,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF901803,Monthly rent,Bank Core System
+TXN00455,P017,ACC-P017,2025-12-16 15:05:38,1200,debit,Electricity Board,Electricity Board,,UPI,REF910804,Utility bill,Bank Core System
+TXN00456,P017,ACC-P017,2026-01-08 10:20:21,55000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L003,NEFT,REF665964,Salary credit,Bank Core System
+TXN00457,P017,ACC-P017,2026-01-10 11:25:57,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF598131,Monthly rent,Bank Core System
+TXN00458,P017,ACC-P017,2026-01-12 14:05:31,950,debit,Electricity Board,Electricity Board,,UPI,REF366606,Utility bill,Bank Core System
+TXN00459,P017,ACC-P017,2026-02-09 09:15:04,55000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L003,NEFT,REF198255,Salary credit,Bank Core System
+TXN00460,P017,ACC-P017,2026-02-11 13:20:19,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF430702,Monthly rent,Bank Core System
+TXN00461,P017,ACC-P017,2026-02-13 09:35:13,1200,debit,Electricity Board,Electricity Board,,UPI,REF202846,Utility bill,Bank Core System
+TXN00462,P017,ACC-P017,2025-12-28 13:55:51,373,debit,Union Trust Bank,Local Kirana Store,L005,NEFT,REF809848,Online purchase,Bank Core System
+TXN00463,P017,ACC-P017,2026-01-16 14:30:23,2957,debit,Nandipur City Mall,Amazon,L009,NEFT,REF523976,Miscellaneous,Bank Core System
+TXN00464,P017,ACC-P017,2026-01-04 08:00:13,1208,debit,Highway Auto Works,Electricity Board,L005,ATM Withdrawal,REF314837,Miscellaneous,Bank Core System
+TXN00465,P017,ACC-P017,2025-11-05 20:30:09,2254,debit,Local Kirana Store,Electricity Board,L003,ATM Withdrawal,REF879051,Restaurant payment,Bank Core System
+TXN00466,P017,ACC-P017,2026-03-04 11:15:53,4178,debit,Highway Auto Works,Spice Route Restaurant,L013,NEFT,REF448799,Grocery,Bank Core System
+TXN00467,P017,ACC-P017,2025-09-10 13:45:52,2608,debit,Electricity Board,BSNL Broadband,L020,Debit Card,REF203704,Grocery,Bank Core System
+TXN00468,P017,ACC-P017,2026-01-25 09:05:21,1563,debit,Cafe Coffee Junction,Union Trust Bank,L021,ATM Withdrawal,REF358958,Miscellaneous,Bank Core System
+TXN00469,P017,ACC-P017,2025-11-27 11:25:38,1856,debit,Water Board,Highway Auto Works,L010,IMPS,REF547033,Restaurant payment,Bank Core System
+TXN00470,P017,ACC-P017,2025-12-02 18:25:35,509,debit,Union Trust Bank,HP Fuel Station,L009,ATM Withdrawal,REF215246,Fuel purchase,Bank Core System
+TXN00471,P017,ACC-P017,2025-12-07 20:25:53,3654,debit,HP Fuel Station,Amazon,L027,IMPS,REF849492,Restaurant payment,Bank Core System
+TXN00472,P017,ACC-P017,2026-02-24 15:15:19,159,debit,Highway Auto Works,Spice Route Restaurant,L011,Credit Card,REF728252,Online purchase,Bank Core System
+TXN00473,P018,ACC-P018,2025-09-13 10:15:13,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF738207,Monthly rent,Bank Core System
+TXN00474,P018,ACC-P018,2025-09-15 10:20:15,800,debit,Electricity Board,Electricity Board,,UPI,REF210762,Utility bill,Bank Core System
+TXN00475,P018,ACC-P018,2025-10-15 17:10:43,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF319944,Monthly rent,Bank Core System
+TXN00476,P018,ACC-P018,2025-10-17 18:35:12,800,debit,Electricity Board,Electricity Board,,UPI,REF103586,Utility bill,Bank Core System
+TXN00477,P018,ACC-P018,2025-11-11 17:55:08,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF743609,Monthly rent,Bank Core System
+TXN00478,P018,ACC-P018,2025-11-13 10:15:36,950,debit,Electricity Board,Electricity Board,,UPI,REF918305,Utility bill,Bank Core System
+TXN00479,P018,ACC-P018,2025-12-12 12:05:27,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF430114,Monthly rent,Bank Core System
+TXN00480,P018,ACC-P018,2025-12-14 13:00:26,950,debit,Electricity Board,Electricity Board,,UPI,REF727137,Utility bill,Bank Core System
+TXN00481,P018,ACC-P018,2026-01-12 18:30:19,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF477278,Monthly rent,Bank Core System
+TXN00482,P018,ACC-P018,2026-01-14 14:15:00,950,debit,Electricity Board,Electricity Board,,UPI,REF766788,Utility bill,Bank Core System
+TXN00483,P018,ACC-P018,2026-02-09 14:55:07,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF529741,Monthly rent,Bank Core System
+TXN00484,P018,ACC-P018,2026-02-11 15:45:45,800,debit,Electricity Board,Electricity Board,,UPI,REF991320,Utility bill,Bank Core System
+TXN00485,P018,ACC-P018,2026-02-28 15:30:49,884,debit,BSNL Broadband,Nandipur City Mall,L006,Credit Card,REF683265,Fuel purchase,Bank Core System
+TXN00486,P018,ACC-P018,2025-10-04 13:45:36,1162,debit,BSNL Broadband,Water Board,L015,ATM Withdrawal,REF440592,Fuel purchase,Bank Core System
+TXN00487,P018,ACC-P018,2025-11-29 17:00:43,4126,debit,Local Kirana Store,HP Fuel Station,L022,ATM Withdrawal,REF310468,Restaurant payment,Bank Core System
+TXN00488,P018,ACC-P018,2026-04-09 17:50:26,2095,debit,Spice Route Restaurant,BSNL Broadband,L025,Cash Deposit,REF810013,Miscellaneous,Bank Core System
+TXN00489,P018,ACC-P018,2026-02-25 17:10:20,3377,debit,Amazon,Union Trust Bank,L023,UPI,REF633463,Fuel purchase,Bank Core System
+TXN00490,P018,ACC-P018,2026-03-10 17:40:33,2422,debit,HP Fuel Station,Water Board,L019,ATM Withdrawal,REF566400,Fuel purchase,Bank Core System
+TXN00491,P018,ACC-P018,2026-01-16 11:10:26,2732,debit,Nandipur City Mall,Union Trust Bank,L013,Cash Deposit,REF938759,Miscellaneous,Bank Core System
+TXN00492,P018,ACC-P018,2025-10-01 22:35:22,561,debit,Cafe Coffee Junction,Spice Route Restaurant,L004,NEFT,REF201787,Restaurant payment,Bank Core System
+TXN00493,P018,ACC-P018,2025-10-08 14:10:51,4313,debit,Water Board,Amazon,L010,Cash Deposit,REF847594,Restaurant payment,Bank Core System
+TXN00494,P018,ACC-P018,2025-10-03 22:10:22,2329,debit,Electricity Board,Water Board,L014,UPI,REF710320,Fuel purchase,Bank Core System
+TXN00495,P018,ACC-P018,2026-01-02 12:10:48,1722,debit,Local Kirana Store,Electricity Board,L019,IMPS,REF827106,Grocery,Bank Core System
+TXN00496,P018,ACC-P018,2026-03-24 16:45:17,2837,debit,HP Fuel Station,Cafe Coffee Junction,L007,ATM Withdrawal,REF145077,Online purchase,Bank Core System
+TXN00497,P019,ACC-P019,2025-09-13 10:50:36,68000,credit,Private household,Private household,L007,NEFT,REF585785,Salary credit,Bank Core System
+TXN00498,P019,ACC-P019,2025-09-15 12:10:36,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF330166,Monthly rent,Bank Core System
+TXN00499,P019,ACC-P019,2025-09-17 18:20:09,1500,debit,Electricity Board,Electricity Board,,UPI,REF966268,Utility bill,Bank Core System
+TXN00500,P019,ACC-P019,2025-10-10 10:25:23,32000,credit,Private household,Private household,L007,NEFT,REF591464,Salary credit,Bank Core System
+TXN00501,P019,ACC-P019,2025-10-12 18:25:47,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF745335,Monthly rent,Bank Core System
+TXN00502,P019,ACC-P019,2025-10-14 13:40:24,1200,debit,Electricity Board,Electricity Board,,UPI,REF574355,Utility bill,Bank Core System
+TXN00503,P019,ACC-P019,2025-11-09 10:25:11,35000,credit,Private household,Private household,L007,NEFT,REF202047,Salary credit,Bank Core System
+TXN00504,P019,ACC-P019,2025-11-11 14:45:11,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF469287,Monthly rent,Bank Core System
+TXN00505,P019,ACC-P019,2025-11-13 19:00:46,950,debit,Electricity Board,Electricity Board,,UPI,REF558572,Utility bill,Bank Core System
+TXN00506,P019,ACC-P019,2025-12-10 11:35:32,35000,credit,Private household,Private household,L007,NEFT,REF432246,Salary credit,Bank Core System
+TXN00507,P019,ACC-P019,2025-12-12 12:45:13,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF353476,Monthly rent,Bank Core System
+TXN00508,P019,ACC-P019,2025-12-14 11:40:22,1500,debit,Electricity Board,Electricity Board,,UPI,REF265783,Utility bill,Bank Core System
+TXN00509,P019,ACC-P019,2026-01-08 11:50:43,68000,credit,Private household,Private household,L007,NEFT,REF906871,Salary credit,Bank Core System
+TXN00510,P019,ACC-P019,2026-01-10 13:45:49,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF802898,Monthly rent,Bank Core System
+TXN00511,P019,ACC-P019,2026-01-12 12:10:28,1500,debit,Electricity Board,Electricity Board,,UPI,REF453499,Utility bill,Bank Core System
+TXN00512,P019,ACC-P019,2026-02-07 11:30:48,68000,credit,Private household,Private household,L007,NEFT,REF388939,Salary credit,Bank Core System
+TXN00513,P019,ACC-P019,2026-02-09 14:30:01,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF394434,Monthly rent,Bank Core System
+TXN00514,P019,ACC-P019,2026-02-11 17:20:48,1500,debit,Electricity Board,Electricity Board,,UPI,REF372311,Utility bill,Bank Core System
+TXN00515,P019,ACC-P019,2025-11-25 22:50:48,912,debit,Union Trust Bank,Amazon,L020,Cash Deposit,REF748421,Online purchase,Bank Core System
+TXN00516,P019,ACC-P019,2026-03-17 11:15:11,4446,debit,Spice Route Restaurant,Water Board,L019,Debit Card,REF836652,Miscellaneous,Bank Core System
+TXN00517,P019,ACC-P019,2026-01-12 22:10:18,2026,debit,HP Fuel Station,Highway Auto Works,L006,Cash Deposit,REF519628,Grocery,Bank Core System
+TXN00518,P019,ACC-P019,2025-11-26 21:05:52,2438,debit,Flipkart,Nandipur City Mall,L023,ATM Withdrawal,REF821078,Restaurant payment,Bank Core System
+TXN00519,P019,ACC-P019,2025-11-13 19:40:30,4139,debit,Local Kirana Store,Cafe Coffee Junction,L014,UPI,REF531024,Restaurant payment,Bank Core System
+TXN00520,P019,ACC-P019,2026-03-14 10:15:14,3905,debit,Local Kirana Store,Water Board,L004,ATM Withdrawal,REF837053,Fuel purchase,Bank Core System
+TXN00521,P019,ACC-P019,2026-03-15 08:15:15,418,debit,Local Kirana Store,Spice Route Restaurant,L011,ATM Withdrawal,REF864498,Miscellaneous,Bank Core System
+TXN00522,P019,ACC-P019,2025-12-01 20:15:44,2058,debit,Local Kirana Store,Spice Route Restaurant,L027,ATM Withdrawal,REF915784,Restaurant payment,Bank Core System
+TXN00523,P019,ACC-P019,2026-02-11 12:15:57,1346,debit,HP Fuel Station,Flipkart,L022,IMPS,REF385746,Restaurant payment,Bank Core System
+TXN00524,P019,ACC-P019,2026-02-27 18:40:13,3367,debit,Highway Auto Works,Cafe Coffee Junction,L003,NEFT,REF190183,Miscellaneous,Bank Core System
+TXN00525,P019,ACC-P019,2026-04-18 13:00:21,4052,debit,Union Trust Bank,Cafe Coffee Junction,L011,IMPS,REF639326,Fuel purchase,Bank Core System
+TXN00526,P020,ACC-P020,2025-09-13 16:20:16,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF411733,Monthly rent,Bank Core System
+TXN00527,P020,ACC-P020,2025-09-15 16:45:35,1500,debit,Electricity Board,Electricity Board,,UPI,REF525013,Utility bill,Bank Core System
+TXN00528,P020,ACC-P020,2025-10-12 13:25:31,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF317332,Monthly rent,Bank Core System
+TXN00529,P020,ACC-P020,2025-10-14 11:35:00,1500,debit,Electricity Board,Electricity Board,,UPI,REF324045,Utility bill,Bank Core System
+TXN00530,P020,ACC-P020,2025-11-11 15:55:03,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF956685,Monthly rent,Bank Core System
+TXN00531,P020,ACC-P020,2025-11-13 16:25:30,950,debit,Electricity Board,Electricity Board,,UPI,REF833054,Utility bill,Bank Core System
+TXN00532,P020,ACC-P020,2025-12-13 18:35:19,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF800351,Monthly rent,Bank Core System
+TXN00533,P020,ACC-P020,2025-12-15 15:15:16,950,debit,Electricity Board,Electricity Board,,UPI,REF247409,Utility bill,Bank Core System
+TXN00534,P020,ACC-P020,2026-01-10 13:55:29,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF525959,Monthly rent,Bank Core System
+TXN00535,P020,ACC-P020,2026-01-12 11:25:53,1500,debit,Electricity Board,Electricity Board,,UPI,REF975458,Utility bill,Bank Core System
+TXN00536,P020,ACC-P020,2026-02-10 16:15:12,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF797670,Monthly rent,Bank Core System
+TXN00537,P020,ACC-P020,2026-02-12 20:00:01,1500,debit,Electricity Board,Electricity Board,,UPI,REF370320,Utility bill,Bank Core System
+TXN00538,P020,ACC-P020,2026-01-11 19:40:32,808,debit,Spice Route Restaurant,HP Fuel Station,L026,ATM Withdrawal,REF966777,Miscellaneous,Bank Core System
+TXN00539,P020,ACC-P020,2025-11-05 09:00:49,335,debit,Spice Route Restaurant,Spice Route Restaurant,L005,NEFT,REF569305,Fuel purchase,Bank Core System
+TXN00540,P020,ACC-P020,2026-02-01 16:25:34,2047,debit,Amazon,Highway Auto Works,L004,ATM Withdrawal,REF761333,Restaurant payment,Bank Core System
+TXN00541,P020,ACC-P020,2025-12-13 17:10:47,2208,debit,BSNL Broadband,Spice Route Restaurant,L023,NEFT,REF671471,Restaurant payment,Bank Core System
+TXN00542,P020,ACC-P020,2026-03-24 15:10:41,2640,debit,Nandipur City Mall,Water Board,L015,Cash Deposit,REF730021,Grocery,Bank Core System
+TXN00543,P020,ACC-P020,2026-01-02 19:45:09,2896,debit,Local Kirana Store,Cafe Coffee Junction,L004,Cash Deposit,REF364162,Miscellaneous,Bank Core System
+TXN00544,P020,ACC-P020,2025-10-03 12:20:03,2960,debit,Flipkart,Water Board,L027,Credit Card,REF136647,Grocery,Bank Core System
+TXN00545,P020,ACC-P020,2025-11-19 14:15:18,2506,debit,Cafe Coffee Junction,Water Board,L002,Debit Card,REF536748,Fuel purchase,Bank Core System
+TXN00546,P020,ACC-P020,2026-03-30 14:25:27,3491,debit,Local Kirana Store,Spice Route Restaurant,L008,ATM Withdrawal,REF954938,Miscellaneous,Bank Core System
+TXN00547,P021,ACC-P021,2025-09-10 10:40:39,75000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF264374,Salary credit,Bank Core System
+TXN00548,P021,ACC-P021,2025-09-12 18:45:31,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF152015,Monthly rent,Bank Core System
+TXN00549,P021,ACC-P021,2025-09-14 15:15:27,800,debit,Electricity Board,Electricity Board,,UPI,REF443317,Utility bill,Bank Core System
+TXN00550,P021,ACC-P021,2025-10-12 11:15:32,75000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF626144,Salary credit,Bank Core System
+TXN00551,P021,ACC-P021,2025-10-14 11:10:29,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF360845,Monthly rent,Bank Core System
+TXN00552,P021,ACC-P021,2025-10-16 15:35:25,950,debit,Electricity Board,Electricity Board,,UPI,REF719413,Utility bill,Bank Core System
+TXN00553,P021,ACC-P021,2025-11-10 10:15:22,28000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF490770,Salary credit,Bank Core System
+TXN00554,P021,ACC-P021,2025-11-12 11:15:32,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF282325,Monthly rent,Bank Core System
+TXN00555,P021,ACC-P021,2025-11-14 17:45:11,800,debit,Electricity Board,Electricity Board,,UPI,REF102018,Utility bill,Bank Core System
+TXN00556,P021,ACC-P021,2025-12-12 11:15:07,75000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF151798,Salary credit,Bank Core System
+TXN00557,P021,ACC-P021,2025-12-14 14:00:55,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF446413,Monthly rent,Bank Core System
+TXN00558,P021,ACC-P021,2025-12-16 14:15:33,800,debit,Electricity Board,Electricity Board,,UPI,REF543197,Utility bill,Bank Core System
+TXN00559,P021,ACC-P021,2026-01-10 11:30:13,35000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF846399,Salary credit,Bank Core System
+TXN00560,P021,ACC-P021,2026-01-12 15:45:03,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF983658,Monthly rent,Bank Core System
+TXN00561,P021,ACC-P021,2026-01-14 17:05:16,950,debit,Electricity Board,Electricity Board,,UPI,REF810510,Utility bill,Bank Core System
+TXN00562,P021,ACC-P021,2026-02-07 10:45:37,28000,credit,Riverbank Realty,Riverbank Realty,L024,NEFT,REF415703,Salary credit,Bank Core System
+TXN00563,P021,ACC-P021,2026-02-09 16:50:48,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF369373,Monthly rent,Bank Core System
+TXN00564,P021,ACC-P021,2026-02-11 15:05:42,1500,debit,Electricity Board,Electricity Board,,UPI,REF446675,Utility bill,Bank Core System
+TXN00565,P021,ACC-P021,2025-12-27 14:00:12,2822,debit,Cafe Coffee Junction,Water Board,L015,IMPS,REF256873,Restaurant payment,Bank Core System
+TXN00566,P021,ACC-P021,2026-01-30 13:20:48,1626,debit,Amazon,Spice Route Restaurant,L011,NEFT,REF707910,Miscellaneous,Bank Core System
+TXN00567,P021,ACC-P021,2026-03-11 20:35:32,3530,debit,Nandipur City Mall,Union Trust Bank,L016,UPI,REF856683,Fuel purchase,Bank Core System
+TXN00568,P021,ACC-P021,2026-01-28 13:25:47,793,debit,Flipkart,Water Board,L014,Credit Card,REF869526,Grocery,Bank Core System
+TXN00569,P021,ACC-P021,2026-02-12 18:20:31,1444,debit,Water Board,Nandipur City Mall,L009,NEFT,REF476781,Miscellaneous,Bank Core System
+TXN00570,P021,ACC-P021,2026-02-04 13:50:43,858,debit,Local Kirana Store,BSNL Broadband,L022,ATM Withdrawal,REF661958,Miscellaneous,Bank Core System
+TXN00571,P022,ACC-P022,2025-09-13 11:35:57,35000,credit,QuickDrop Logistics,QuickDrop Logistics,L022,NEFT,REF402049,Salary credit,Bank Core System
+TXN00572,P022,ACC-P022,2025-09-15 15:50:13,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF366324,Monthly rent,Bank Core System
+TXN00573,P022,ACC-P022,2025-09-17 17:35:23,950,debit,Electricity Board,Electricity Board,,UPI,REF234659,Utility bill,Bank Core System
+TXN00574,P022,ACC-P022,2025-10-13 09:05:36,35000,credit,QuickDrop Logistics,QuickDrop Logistics,L022,NEFT,REF908600,Salary credit,Bank Core System
+TXN00575,P022,ACC-P022,2025-10-15 13:05:01,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF100792,Monthly rent,Bank Core System
+TXN00576,P022,ACC-P022,2025-10-17 14:40:58,1500,debit,Electricity Board,Electricity Board,,UPI,REF659876,Utility bill,Bank Core System
+TXN00577,P022,ACC-P022,2025-11-09 09:15:25,42000,credit,QuickDrop Logistics,QuickDrop Logistics,L022,NEFT,REF195523,Salary credit,Bank Core System
+TXN00578,P022,ACC-P022,2025-11-11 17:00:40,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF372956,Monthly rent,Bank Core System
+TXN00579,P022,ACC-P022,2025-11-13 20:50:52,1200,debit,Electricity Board,Electricity Board,,UPI,REF393916,Utility bill,Bank Core System
+TXN00580,P022,ACC-P022,2025-12-10 09:25:24,75000,credit,QuickDrop Logistics,QuickDrop Logistics,L022,NEFT,REF549412,Salary credit,Bank Core System
+TXN00581,P022,ACC-P022,2025-12-12 17:10:44,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF603645,Monthly rent,Bank Core System
+TXN00582,P022,ACC-P022,2025-12-14 20:00:52,800,debit,Electricity Board,Electricity Board,,UPI,REF718402,Utility bill,Bank Core System
+TXN00583,P022,ACC-P022,2026-01-10 09:35:19,68000,credit,QuickDrop Logistics,QuickDrop Logistics,L022,NEFT,REF777646,Salary credit,Bank Core System
+TXN00584,P022,ACC-P022,2026-01-12 17:10:24,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF532414,Monthly rent,Bank Core System
+TXN00585,P022,ACC-P022,2026-01-14 17:05:48,1200,debit,Electricity Board,Electricity Board,,UPI,REF355867,Utility bill,Bank Core System
+TXN00586,P022,ACC-P022,2026-02-08 09:05:00,35000,credit,QuickDrop Logistics,QuickDrop Logistics,L022,NEFT,REF985612,Salary credit,Bank Core System
+TXN00587,P022,ACC-P022,2026-02-10 16:55:51,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF460497,Monthly rent,Bank Core System
+TXN00588,P022,ACC-P022,2026-02-12 15:15:58,800,debit,Electricity Board,Electricity Board,,UPI,REF336622,Utility bill,Bank Core System
+TXN00589,P022,ACC-P022,2026-01-05 22:50:36,1700,debit,Water Board,Highway Auto Works,L001,Credit Card,REF252816,Fuel purchase,Bank Core System
+TXN00590,P022,ACC-P022,2025-10-05 13:35:37,3999,debit,Flipkart,Electricity Board,L014,Credit Card,REF712419,Grocery,Bank Core System
+TXN00591,P022,ACC-P022,2025-12-18 08:40:57,2981,debit,HP Fuel Station,Cafe Coffee Junction,L027,ATM Withdrawal,REF549635,Restaurant payment,Bank Core System
+TXN00592,P022,ACC-P022,2025-12-03 17:40:32,2940,debit,BSNL Broadband,Union Trust Bank,L027,Credit Card,REF710385,Online purchase,Bank Core System
+TXN00593,P022,ACC-P022,2026-01-24 20:20:24,2074,debit,Electricity Board,Amazon,L023,NEFT,REF782857,Restaurant payment,Bank Core System
+TXN00594,P022,ACC-P022,2026-04-25 14:20:00,3354,debit,Spice Route Restaurant,Amazon,L005,Credit Card,REF318365,Miscellaneous,Bank Core System
+TXN00595,P022,ACC-P022,2025-10-03 14:20:26,3318,debit,Nandipur City Mall,Electricity Board,L011,Credit Card,REF915056,Grocery,Bank Core System
+TXN00596,P022,ACC-P022,2026-04-19 13:50:29,3408,debit,Electricity Board,Spice Route Restaurant,L004,Credit Card,REF509628,Fuel purchase,Bank Core System
+TXN00597,P023,ACC-P023,2025-09-13 11:10:27,42000,credit,Sethi & Associates,Sethi & Associates,L004,NEFT,REF756653,Salary credit,Bank Core System
+TXN00598,P023,ACC-P023,2025-09-15 12:35:44,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF155392,Monthly rent,Bank Core System
+TXN00599,P023,ACC-P023,2025-09-17 18:35:19,950,debit,Electricity Board,Electricity Board,,UPI,REF564249,Utility bill,Bank Core System
+TXN00600,P023,ACC-P023,2025-10-10 10:15:07,42000,credit,Sethi & Associates,Sethi & Associates,L004,NEFT,REF326627,Salary credit,Bank Core System
+TXN00601,P023,ACC-P023,2025-10-12 15:55:20,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF125862,Monthly rent,Bank Core System
+TXN00602,P023,ACC-P023,2025-10-14 09:20:40,950,debit,Electricity Board,Electricity Board,,UPI,REF427008,Utility bill,Bank Core System
+TXN00603,P023,ACC-P023,2025-11-10 09:15:00,75000,credit,Sethi & Associates,Sethi & Associates,L004,NEFT,REF711943,Salary credit,Bank Core System
+TXN00604,P023,ACC-P023,2025-11-12 16:10:21,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF827098,Monthly rent,Bank Core System
+TXN00605,P023,ACC-P023,2025-11-14 20:25:43,1200,debit,Electricity Board,Electricity Board,,UPI,REF762635,Utility bill,Bank Core System
+TXN00606,P023,ACC-P023,2025-12-09 11:45:19,42000,credit,Sethi & Associates,Sethi & Associates,L004,NEFT,REF800287,Salary credit,Bank Core System
+TXN00607,P023,ACC-P023,2025-12-11 10:30:57,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF853034,Monthly rent,Bank Core System
+TXN00608,P023,ACC-P023,2025-12-13 17:15:42,950,debit,Electricity Board,Electricity Board,,UPI,REF237346,Utility bill,Bank Core System
+TXN00609,P023,ACC-P023,2026-01-09 11:45:30,75000,credit,Sethi & Associates,Sethi & Associates,L004,NEFT,REF757302,Salary credit,Bank Core System
+TXN00610,P023,ACC-P023,2026-01-11 10:25:48,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF756257,Monthly rent,Bank Core System
+TXN00611,P023,ACC-P023,2026-01-13 11:40:51,800,debit,Electricity Board,Electricity Board,,UPI,REF877893,Utility bill,Bank Core System
+TXN00612,P023,ACC-P023,2026-02-09 10:55:55,68000,credit,Sethi & Associates,Sethi & Associates,L004,NEFT,REF565102,Salary credit,Bank Core System
+TXN00613,P023,ACC-P023,2026-02-11 10:05:33,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF501666,Monthly rent,Bank Core System
+TXN00614,P023,ACC-P023,2026-02-13 12:05:28,1200,debit,Electricity Board,Electricity Board,,UPI,REF919012,Utility bill,Bank Core System
+TXN00615,P023,ACC-P023,2026-03-08 19:00:05,1038,debit,Water Board,Amazon,L019,UPI,REF708657,Online purchase,Bank Core System
+TXN00616,P023,ACC-P023,2025-11-10 08:30:20,2910,debit,Union Trust Bank,Electricity Board,L020,UPI,REF193845,Grocery,Bank Core System
+TXN00617,P023,ACC-P023,2025-09-21 21:45:28,4244,debit,Water Board,Cafe Coffee Junction,L006,NEFT,REF120659,Grocery,Bank Core System
+TXN00618,P023,ACC-P023,2026-02-20 16:05:55,199,debit,Local Kirana Store,Amazon,L001,Debit Card,REF746883,Grocery,Bank Core System
+TXN00619,P023,ACC-P023,2026-01-01 08:05:50,4196,debit,Water Board,Union Trust Bank,L003,NEFT,REF355728,Fuel purchase,Bank Core System
+TXN00620,P023,ACC-P023,2026-01-23 13:55:52,656,debit,Spice Route Restaurant,Highway Auto Works,L008,Debit Card,REF973334,Fuel purchase,Bank Core System
+TXN00621,P023,ACC-P023,2025-11-15 15:10:38,393,debit,Flipkart,HP Fuel Station,L020,IMPS,REF285452,Restaurant payment,Bank Core System
+TXN00622,P023,ACC-P023,2026-01-21 13:35:49,1048,debit,Cafe Coffee Junction,Electricity Board,L022,ATM Withdrawal,REF374224,Grocery,Bank Core System
+TXN00623,P023,ACC-P023,2026-02-24 13:05:30,3934,debit,Cafe Coffee Junction,Cafe Coffee Junction,L001,ATM Withdrawal,REF319175,Fuel purchase,Bank Core System
+TXN00624,P023,ACC-P023,2026-03-04 09:40:22,2346,debit,Local Kirana Store,Flipkart,L025,Credit Card,REF926514,Miscellaneous,Bank Core System
+TXN00625,P023,ACC-P023,2026-02-28 17:15:47,1613,debit,Spice Route Restaurant,Water Board,L005,Cash Deposit,REF129469,Restaurant payment,Bank Core System
+TXN00626,P023,ACC-P023,2025-11-15 11:40:16,2583,debit,Electricity Board,Cafe Coffee Junction,L020,NEFT,REF828283,Online purchase,Bank Core System
+TXN00627,P023,ACC-P023,2025-09-11 12:50:46,3978,debit,Water Board,Union Trust Bank,L002,Debit Card,REF235621,Online purchase,Bank Core System
+TXN00628,P024,ACC-P024,2025-09-11 09:55:36,42000,credit,Self-employed,Self-employed,L016,NEFT,REF932680,Salary credit,Bank Core System
+TXN00629,P024,ACC-P024,2025-09-13 16:10:04,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF882464,Monthly rent,Bank Core System
+TXN00630,P024,ACC-P024,2025-09-15 15:30:23,1500,debit,Electricity Board,Electricity Board,,UPI,REF963968,Utility bill,Bank Core System
+TXN00631,P024,ACC-P024,2025-10-10 09:50:39,75000,credit,Self-employed,Self-employed,L016,NEFT,REF430403,Salary credit,Bank Core System
+TXN00632,P024,ACC-P024,2025-10-12 11:15:14,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF784669,Monthly rent,Bank Core System
+TXN00633,P024,ACC-P024,2025-10-14 17:55:45,1500,debit,Electricity Board,Electricity Board,,UPI,REF223533,Utility bill,Bank Core System
+TXN00634,P024,ACC-P024,2025-11-09 11:00:56,68000,credit,Self-employed,Self-employed,L016,NEFT,REF227126,Salary credit,Bank Core System
+TXN00635,P024,ACC-P024,2025-11-11 18:00:30,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF730079,Monthly rent,Bank Core System
+TXN00636,P024,ACC-P024,2025-11-13 13:15:20,950,debit,Electricity Board,Electricity Board,,UPI,REF409745,Utility bill,Bank Core System
+TXN00637,P024,ACC-P024,2025-12-10 10:15:42,75000,credit,Self-employed,Self-employed,L016,NEFT,REF573790,Salary credit,Bank Core System
+TXN00638,P024,ACC-P024,2025-12-12 10:00:58,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF665384,Monthly rent,Bank Core System
+TXN00639,P024,ACC-P024,2025-12-14 10:10:31,1200,debit,Electricity Board,Electricity Board,,UPI,REF128764,Utility bill,Bank Core System
+TXN00640,P024,ACC-P024,2026-01-11 11:50:10,55000,credit,Self-employed,Self-employed,L016,NEFT,REF584512,Salary credit,Bank Core System
+TXN00641,P024,ACC-P024,2026-01-13 17:35:30,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF667764,Monthly rent,Bank Core System
+TXN00642,P024,ACC-P024,2026-01-15 16:00:35,950,debit,Electricity Board,Electricity Board,,UPI,REF428619,Utility bill,Bank Core System
+TXN00643,P024,ACC-P024,2026-02-10 10:35:23,75000,credit,Self-employed,Self-employed,L016,NEFT,REF408389,Salary credit,Bank Core System
+TXN00644,P024,ACC-P024,2026-02-12 15:55:50,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF110340,Monthly rent,Bank Core System
+TXN00645,P024,ACC-P024,2026-02-14 17:25:33,950,debit,Electricity Board,Electricity Board,,UPI,REF642158,Utility bill,Bank Core System
+TXN00646,P024,ACC-P024,2025-10-09 20:50:23,2608,debit,Local Kirana Store,Flipkart,L014,Credit Card,REF584918,Restaurant payment,Bank Core System
+TXN00647,P024,ACC-P024,2025-10-18 16:40:25,1125,debit,Highway Auto Works,HP Fuel Station,L010,ATM Withdrawal,REF390836,Restaurant payment,Bank Core System
+TXN00648,P024,ACC-P024,2025-09-27 10:40:52,4149,debit,Water Board,Union Trust Bank,L026,ATM Withdrawal,REF884123,Online purchase,Bank Core System
+TXN00649,P024,ACC-P024,2026-02-28 08:35:35,1948,debit,Electricity Board,Water Board,L002,UPI,REF443120,Fuel purchase,Bank Core System
+TXN00650,P024,ACC-P024,2026-02-22 18:20:07,2214,debit,Spice Route Restaurant,Amazon,L026,IMPS,REF757656,Online purchase,Bank Core System
+TXN00651,P024,ACC-P024,2026-03-13 16:15:14,3835,debit,Amazon,Highway Auto Works,L026,ATM Withdrawal,REF226259,Restaurant payment,Bank Core System
+TXN00652,P024,ACC-P024,2025-12-29 12:00:03,3178,debit,Union Trust Bank,Highway Auto Works,L001,ATM Withdrawal,REF824301,Restaurant payment,Bank Core System
+TXN00653,P024,ACC-P024,2025-11-08 15:35:30,4350,debit,Highway Auto Works,Flipkart,L006,Credit Card,REF179560,Online purchase,Bank Core System
+TXN00654,P024,ACC-P024,2026-03-15 19:55:28,4258,debit,Flipkart,Union Trust Bank,L007,Cash Deposit,REF681677,Online purchase,Bank Core System
+TXN00655,P024,ACC-P024,2026-01-29 18:25:00,3785,debit,Local Kirana Store,Spice Route Restaurant,L021,NEFT,REF340073,Fuel purchase,Bank Core System
+TXN00656,P024,ACC-P024,2025-12-12 10:00:37,757,debit,Water Board,HP Fuel Station,L010,Debit Card,REF490063,Fuel purchase,Bank Core System
+TXN00657,P024,ACC-P024,2025-10-14 18:30:51,2368,debit,Cafe Coffee Junction,Flipkart,L021,Credit Card,REF106291,Online purchase,Bank Core System
+TXN00658,P024,ACC-P024,2025-10-19 13:40:59,723,debit,Highway Auto Works,Union Trust Bank,L009,UPI,REF131846,Grocery,Bank Core System
+TXN00659,P025,ACC-P025,2025-09-10 10:35:29,32000,credit,Riverbank Realty,Riverbank Realty,L003,NEFT,REF558897,Salary credit,Bank Core System
+TXN00660,P025,ACC-P025,2025-09-12 18:50:32,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF473501,Monthly rent,Bank Core System
+TXN00661,P025,ACC-P025,2025-09-14 16:45:28,1200,debit,Electricity Board,Electricity Board,,UPI,REF537578,Utility bill,Bank Core System
+TXN00662,P025,ACC-P025,2025-10-10 11:50:06,28000,credit,Riverbank Realty,Riverbank Realty,L003,NEFT,REF964522,Salary credit,Bank Core System
+TXN00663,P025,ACC-P025,2025-10-12 11:00:14,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF560330,Monthly rent,Bank Core System
+TXN00664,P025,ACC-P025,2025-10-14 17:45:23,950,debit,Electricity Board,Electricity Board,,UPI,REF589999,Utility bill,Bank Core System
+TXN00665,P025,ACC-P025,2025-11-10 11:25:57,68000,credit,Riverbank Realty,Riverbank Realty,L003,NEFT,REF730099,Salary credit,Bank Core System
+TXN00666,P025,ACC-P025,2025-11-12 12:15:56,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF885214,Monthly rent,Bank Core System
+TXN00667,P025,ACC-P025,2025-11-14 20:40:49,1200,debit,Electricity Board,Electricity Board,,UPI,REF504019,Utility bill,Bank Core System
+TXN00668,P025,ACC-P025,2025-12-10 09:15:01,75000,credit,Riverbank Realty,Riverbank Realty,L003,NEFT,REF614483,Salary credit,Bank Core System
+TXN00669,P025,ACC-P025,2025-12-12 16:25:26,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF564144,Monthly rent,Bank Core System
+TXN00670,P025,ACC-P025,2025-12-14 17:45:20,1500,debit,Electricity Board,Electricity Board,,UPI,REF572540,Utility bill,Bank Core System
+TXN00671,P025,ACC-P025,2026-01-08 10:35:07,28000,credit,Riverbank Realty,Riverbank Realty,L003,NEFT,REF194692,Salary credit,Bank Core System
+TXN00672,P025,ACC-P025,2026-01-10 12:55:47,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF334519,Monthly rent,Bank Core System
+TXN00673,P025,ACC-P025,2026-01-12 20:25:41,1500,debit,Electricity Board,Electricity Board,,UPI,REF953409,Utility bill,Bank Core System
+TXN00674,P025,ACC-P025,2026-02-10 10:00:53,55000,credit,Riverbank Realty,Riverbank Realty,L003,NEFT,REF521923,Salary credit,Bank Core System
+TXN00675,P025,ACC-P025,2026-02-12 12:25:44,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF260781,Monthly rent,Bank Core System
+TXN00676,P025,ACC-P025,2026-02-14 15:20:29,950,debit,Electricity Board,Electricity Board,,UPI,REF787573,Utility bill,Bank Core System
+TXN00677,P025,ACC-P025,2026-04-17 12:40:58,996,debit,Electricity Board,BSNL Broadband,L026,IMPS,REF981729,Online purchase,Bank Core System
+TXN00678,P025,ACC-P025,2026-03-10 10:05:10,3687,debit,BSNL Broadband,Highway Auto Works,L023,NEFT,REF995609,Fuel purchase,Bank Core System
+TXN00679,P025,ACC-P025,2026-03-18 12:10:34,700,debit,Nandipur City Mall,Local Kirana Store,L006,Debit Card,REF600723,Restaurant payment,Bank Core System
+TXN00680,P025,ACC-P025,2025-12-01 22:35:59,2863,debit,BSNL Broadband,Nandipur City Mall,L003,IMPS,REF145241,Grocery,Bank Core System
+TXN00681,P025,ACC-P025,2026-01-04 13:50:36,3655,debit,Union Trust Bank,Water Board,L020,UPI,REF772206,Grocery,Bank Core System
+TXN00682,P025,ACC-P025,2026-01-02 14:35:54,2717,debit,Union Trust Bank,Union Trust Bank,L007,ATM Withdrawal,REF974188,Miscellaneous,Bank Core System
+TXN00683,P025,ACC-P025,2026-01-06 21:20:58,1717,debit,Amazon,HP Fuel Station,L012,Cash Deposit,REF684826,Fuel purchase,Bank Core System
+TXN00684,P025,ACC-P025,2026-04-10 17:25:51,289,debit,Local Kirana Store,Flipkart,L013,Debit Card,REF985896,Online purchase,Bank Core System
+TXN00685,P025,ACC-P025,2025-12-11 13:25:18,2479,debit,Spice Route Restaurant,Cafe Coffee Junction,L016,IMPS,REF778573,Online purchase,Bank Core System
+TXN00686,P025,ACC-P025,2025-12-18 19:35:01,905,debit,BSNL Broadband,BSNL Broadband,L016,IMPS,REF692260,Online purchase,Bank Core System
+TXN00687,P025,ACC-P025,2026-03-24 14:45:42,3083,debit,Highway Auto Works,Spice Route Restaurant,L012,IMPS,REF642032,Fuel purchase,Bank Core System
+TXN00688,P025,ACC-P025,2025-10-13 12:50:54,3407,debit,Amazon,HP Fuel Station,L016,Cash Deposit,REF976165,Grocery,Bank Core System
+TXN00689,P025,ACC-P025,2026-01-16 16:05:56,2762,debit,Amazon,Water Board,L006,ATM Withdrawal,REF279305,Grocery,Bank Core System
+TXN00690,P026,ACC-P026,2025-09-15 17:25:55,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF458437,Monthly rent,Bank Core System
+TXN00691,P026,ACC-P026,2025-09-17 20:40:56,800,debit,Electricity Board,Electricity Board,,UPI,REF358139,Utility bill,Bank Core System
+TXN00692,P026,ACC-P026,2025-10-14 18:25:31,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF605738,Monthly rent,Bank Core System
+TXN00693,P026,ACC-P026,2025-10-16 16:15:31,1500,debit,Electricity Board,Electricity Board,,UPI,REF715578,Utility bill,Bank Core System
+TXN00694,P026,ACC-P026,2025-11-14 17:40:44,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF912562,Monthly rent,Bank Core System
+TXN00695,P026,ACC-P026,2025-11-16 18:15:59,800,debit,Electricity Board,Electricity Board,,UPI,REF405208,Utility bill,Bank Core System
+TXN00696,P026,ACC-P026,2025-12-11 13:55:55,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF957967,Monthly rent,Bank Core System
+TXN00697,P026,ACC-P026,2025-12-13 13:40:33,1500,debit,Electricity Board,Electricity Board,,UPI,REF886998,Utility bill,Bank Core System
+TXN00698,P026,ACC-P026,2026-01-12 15:00:59,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF694951,Monthly rent,Bank Core System
+TXN00699,P026,ACC-P026,2026-01-14 10:25:31,800,debit,Electricity Board,Electricity Board,,UPI,REF274315,Utility bill,Bank Core System
+TXN00700,P026,ACC-P026,2026-02-12 18:10:02,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF144070,Monthly rent,Bank Core System
+TXN00701,P026,ACC-P026,2026-02-14 17:30:10,950,debit,Electricity Board,Electricity Board,,UPI,REF614101,Utility bill,Bank Core System
+TXN00702,P026,ACC-P026,2025-10-17 18:20:39,4024,debit,Electricity Board,HP Fuel Station,L007,UPI,REF588623,Grocery,Bank Core System
+TXN00703,P026,ACC-P026,2025-11-01 20:05:48,993,debit,HP Fuel Station,Local Kirana Store,L019,Credit Card,REF153218,Miscellaneous,Bank Core System
+TXN00704,P026,ACC-P026,2026-02-21 17:10:26,2093,debit,Spice Route Restaurant,Water Board,L004,Debit Card,REF450930,Grocery,Bank Core System
+TXN00705,P026,ACC-P026,2025-10-26 21:20:20,2096,debit,Water Board,Union Trust Bank,L003,Credit Card,REF258821,Online purchase,Bank Core System
+TXN00706,P026,ACC-P026,2025-11-02 20:10:10,2710,debit,Union Trust Bank,Electricity Board,L004,UPI,REF235010,Grocery,Bank Core System
+TXN00707,P026,ACC-P026,2026-03-18 21:35:54,907,debit,HP Fuel Station,Spice Route Restaurant,L006,UPI,REF535674,Fuel purchase,Bank Core System
+TXN00708,P026,ACC-P026,2026-01-25 11:35:45,4373,debit,Amazon,Highway Auto Works,L001,Credit Card,REF672416,Grocery,Bank Core System
+TXN00709,P026,ACC-P026,2026-03-27 16:55:12,514,debit,Electricity Board,Union Trust Bank,L025,UPI,REF797872,Miscellaneous,Bank Core System
+TXN00710,P026,ACC-P026,2025-12-24 17:25:52,270,debit,Local Kirana Store,Flipkart,L026,NEFT,REF217195,Miscellaneous,Bank Core System
+TXN00711,P026,ACC-P026,2026-02-19 21:10:18,1762,debit,Electricity Board,Flipkart,L017,NEFT,REF433572,Online purchase,Bank Core System
+TXN00712,P026,ACC-P026,2026-04-13 08:05:07,1985,debit,BSNL Broadband,Electricity Board,L019,Cash Deposit,REF398493,Grocery,Bank Core System
+TXN00713,P026,ACC-P026,2025-12-07 11:20:02,1343,debit,Cafe Coffee Junction,Amazon,L005,Credit Card,REF200233,Grocery,Bank Core System
+TXN00714,P026,ACC-P026,2025-10-29 10:00:44,942,debit,Electricity Board,Amazon,L005,Debit Card,REF513000,Fuel purchase,Bank Core System
+TXN00715,P026,ACC-P026,2026-03-05 14:45:13,2959,debit,Amazon,Highway Auto Works,L007,Cash Deposit,REF899606,Restaurant payment,Bank Core System
+TXN00716,P027,ACC-P027,2025-09-12 11:20:24,75000,credit,Private household,Private household,L004,NEFT,REF538487,Salary credit,Bank Core System
+TXN00717,P027,ACC-P027,2025-09-14 15:00:41,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF680628,Monthly rent,Bank Core System
+TXN00718,P027,ACC-P027,2025-09-16 12:55:21,950,debit,Electricity Board,Electricity Board,,UPI,REF534309,Utility bill,Bank Core System
+TXN00719,P027,ACC-P027,2025-10-12 11:55:41,32000,credit,Private household,Private household,L004,NEFT,REF659325,Salary credit,Bank Core System
+TXN00720,P027,ACC-P027,2025-10-14 16:30:29,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF469446,Monthly rent,Bank Core System
+TXN00721,P027,ACC-P027,2025-10-16 14:45:22,1500,debit,Electricity Board,Electricity Board,,UPI,REF949915,Utility bill,Bank Core System
+TXN00722,P027,ACC-P027,2025-11-10 11:50:45,32000,credit,Private household,Private household,L004,NEFT,REF382860,Salary credit,Bank Core System
+TXN00723,P027,ACC-P027,2025-11-12 16:00:20,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF507244,Monthly rent,Bank Core System
+TXN00724,P027,ACC-P027,2025-11-14 11:25:38,800,debit,Electricity Board,Electricity Board,,UPI,REF604603,Utility bill,Bank Core System
+TXN00725,P027,ACC-P027,2025-12-10 11:35:50,55000,credit,Private household,Private household,L004,NEFT,REF504643,Salary credit,Bank Core System
+TXN00726,P027,ACC-P027,2025-12-12 17:05:44,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF784024,Monthly rent,Bank Core System
+TXN00727,P027,ACC-P027,2025-12-14 16:00:12,950,debit,Electricity Board,Electricity Board,,UPI,REF805767,Utility bill,Bank Core System
+TXN00728,P027,ACC-P027,2026-01-11 09:55:10,75000,credit,Private household,Private household,L004,NEFT,REF867553,Salary credit,Bank Core System
+TXN00729,P027,ACC-P027,2026-01-13 10:20:51,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF558922,Monthly rent,Bank Core System
+TXN00730,P027,ACC-P027,2026-01-15 19:20:14,1500,debit,Electricity Board,Electricity Board,,UPI,REF526388,Utility bill,Bank Core System
+TXN00731,P027,ACC-P027,2026-02-10 11:30:18,68000,credit,Private household,Private household,L004,NEFT,REF454856,Salary credit,Bank Core System
+TXN00732,P027,ACC-P027,2026-02-12 13:50:11,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF866251,Monthly rent,Bank Core System
+TXN00733,P027,ACC-P027,2026-02-14 20:00:15,1500,debit,Electricity Board,Electricity Board,,UPI,REF537102,Utility bill,Bank Core System
+TXN00734,P027,ACC-P027,2026-03-05 20:05:59,1940,debit,Highway Auto Works,Flipkart,L023,NEFT,REF553355,Grocery,Bank Core System
+TXN00735,P027,ACC-P027,2025-12-15 22:50:18,4289,debit,Highway Auto Works,Amazon,L011,ATM Withdrawal,REF851499,Grocery,Bank Core System
+TXN00736,P027,ACC-P027,2026-02-07 22:00:09,809,debit,Water Board,Cafe Coffee Junction,L023,Cash Deposit,REF328789,Online purchase,Bank Core System
+TXN00737,P027,ACC-P027,2025-10-27 08:40:29,1530,debit,Local Kirana Store,Union Trust Bank,L009,Debit Card,REF685414,Restaurant payment,Bank Core System
+TXN00738,P027,ACC-P027,2026-03-27 16:50:11,3743,debit,Local Kirana Store,BSNL Broadband,L019,ATM Withdrawal,REF272363,Online purchase,Bank Core System
+TXN00739,P027,ACC-P027,2025-11-24 21:05:18,3236,debit,Cafe Coffee Junction,Amazon,L001,Credit Card,REF420570,Fuel purchase,Bank Core System
+TXN00740,P027,ACC-P027,2026-02-06 11:15:35,4500,debit,HP Fuel Station,HP Fuel Station,L023,NEFT,REF363390,Grocery,Bank Core System
+TXN00741,P027,ACC-P027,2026-04-10 11:40:13,3646,debit,HP Fuel Station,HP Fuel Station,L019,Cash Deposit,REF972060,Grocery,Bank Core System
+TXN00742,P027,ACC-P027,2026-02-02 17:30:52,2811,debit,BSNL Broadband,Local Kirana Store,L018,Debit Card,REF317095,Grocery,Bank Core System
+TXN00743,P027,ACC-P027,2026-02-12 14:40:20,2028,debit,Highway Auto Works,HP Fuel Station,L014,UPI,REF359617,Miscellaneous,Bank Core System
+TXN00744,P027,ACC-P027,2025-11-10 12:35:24,3824,debit,Cafe Coffee Junction,Amazon,L003,ATM Withdrawal,REF923179,Miscellaneous,Bank Core System
+TXN00745,P027,ACC-P027,2025-12-28 15:10:43,2419,debit,Local Kirana Store,Spice Route Restaurant,L015,ATM Withdrawal,REF606262,Miscellaneous,Bank Core System
+TXN00746,P027,ACC-P027,2025-11-12 21:20:34,2467,debit,Nandipur City Mall,Local Kirana Store,L015,NEFT,REF605274,Miscellaneous,Bank Core System
+TXN00747,P027,ACC-P027,2026-01-18 22:50:28,439,debit,Water Board,BSNL Broadband,L012,Credit Card,REF154735,Miscellaneous,Bank Core System
+TXN00748,P028,ACC-P028,2025-09-11 09:00:46,75000,credit,Nandipur State University,Nandipur State University,L027,NEFT,REF921635,Salary credit,Bank Core System
+TXN00749,P028,ACC-P028,2025-09-13 14:10:32,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF887315,Monthly rent,Bank Core System
+TXN00750,P028,ACC-P028,2025-09-15 19:55:43,800,debit,Electricity Board,Electricity Board,,UPI,REF929874,Utility bill,Bank Core System
+TXN00751,P028,ACC-P028,2025-10-10 11:10:29,55000,credit,Nandipur State University,Nandipur State University,L027,NEFT,REF204410,Salary credit,Bank Core System
+TXN00752,P028,ACC-P028,2025-10-12 14:50:09,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF504182,Monthly rent,Bank Core System
+TXN00753,P028,ACC-P028,2025-10-14 20:35:41,800,debit,Electricity Board,Electricity Board,,UPI,REF310317,Utility bill,Bank Core System
+TXN00754,P028,ACC-P028,2025-11-10 10:00:36,68000,credit,Nandipur State University,Nandipur State University,L027,NEFT,REF526895,Salary credit,Bank Core System
+TXN00755,P028,ACC-P028,2025-11-12 14:50:31,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF315437,Monthly rent,Bank Core System
+TXN00756,P028,ACC-P028,2025-11-14 17:10:14,950,debit,Electricity Board,Electricity Board,,UPI,REF580546,Utility bill,Bank Core System
+TXN00757,P028,ACC-P028,2025-12-10 10:10:26,42000,credit,Nandipur State University,Nandipur State University,L027,NEFT,REF578916,Salary credit,Bank Core System
+TXN00758,P028,ACC-P028,2025-12-12 12:40:30,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF123570,Monthly rent,Bank Core System
+TXN00759,P028,ACC-P028,2025-12-14 14:20:42,1200,debit,Electricity Board,Electricity Board,,UPI,REF874489,Utility bill,Bank Core System
+TXN00760,P028,ACC-P028,2026-01-08 11:00:05,32000,credit,Nandipur State University,Nandipur State University,L027,NEFT,REF982125,Salary credit,Bank Core System
+TXN00761,P028,ACC-P028,2026-01-10 14:35:40,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF902623,Monthly rent,Bank Core System
+TXN00762,P028,ACC-P028,2026-01-12 16:00:02,800,debit,Electricity Board,Electricity Board,,UPI,REF477970,Utility bill,Bank Core System
+TXN00763,P028,ACC-P028,2026-02-07 11:15:36,42000,credit,Nandipur State University,Nandipur State University,L027,NEFT,REF198922,Salary credit,Bank Core System
+TXN00764,P028,ACC-P028,2026-02-09 12:35:27,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF811715,Monthly rent,Bank Core System
+TXN00765,P028,ACC-P028,2026-02-11 20:55:22,950,debit,Electricity Board,Electricity Board,,UPI,REF341292,Utility bill,Bank Core System
+TXN00766,P028,ACC-P028,2026-04-14 15:15:59,4173,debit,Amazon,Cafe Coffee Junction,L015,NEFT,REF110107,Fuel purchase,Bank Core System
+TXN00767,P028,ACC-P028,2026-02-03 20:50:00,3705,debit,Electricity Board,Local Kirana Store,L011,Cash Deposit,REF884832,Miscellaneous,Bank Core System
+TXN00768,P028,ACC-P028,2025-12-19 22:50:49,4128,debit,Electricity Board,Water Board,L021,UPI,REF594670,Restaurant payment,Bank Core System
+TXN00769,P028,ACC-P028,2026-03-29 19:55:44,1342,debit,Spice Route Restaurant,Union Trust Bank,L019,Cash Deposit,REF106860,Grocery,Bank Core System
+TXN00770,P028,ACC-P028,2026-04-22 15:10:53,714,debit,Water Board,Union Trust Bank,L019,Credit Card,REF374329,Fuel purchase,Bank Core System
+TXN00771,P028,ACC-P028,2025-09-17 18:20:06,1309,debit,BSNL Broadband,Union Trust Bank,L017,Credit Card,REF107802,Fuel purchase,Bank Core System
+TXN00772,P028,ACC-P028,2025-12-27 16:40:46,3879,debit,Flipkart,Local Kirana Store,L024,ATM Withdrawal,REF804463,Miscellaneous,Bank Core System
+TXN00773,P028,ACC-P028,2026-01-07 16:20:41,1284,debit,Nandipur City Mall,Nandipur City Mall,L018,UPI,REF562988,Fuel purchase,Bank Core System
+TXN00774,P028,ACC-P028,2025-09-13 16:30:11,2940,debit,Amazon,Cafe Coffee Junction,L015,NEFT,REF641707,Grocery,Bank Core System
+TXN00775,P028,ACC-P028,2026-04-19 19:00:35,2357,debit,BSNL Broadband,Flipkart,L024,Credit Card,REF254547,Fuel purchase,Bank Core System
+TXN00776,P029,ACC-P029,2025-09-11 09:30:04,32000,credit,Highway Auto Works,Highway Auto Works,L007,NEFT,REF760349,Salary credit,Bank Core System
+TXN00777,P029,ACC-P029,2025-09-13 17:45:49,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF724823,Monthly rent,Bank Core System
+TXN00778,P029,ACC-P029,2025-09-15 18:05:36,1200,debit,Electricity Board,Electricity Board,,UPI,REF912044,Utility bill,Bank Core System
+TXN00779,P029,ACC-P029,2025-10-12 11:10:03,75000,credit,Highway Auto Works,Highway Auto Works,L007,NEFT,REF277897,Salary credit,Bank Core System
+TXN00780,P029,ACC-P029,2025-10-14 12:25:05,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF276118,Monthly rent,Bank Core System
+TXN00781,P029,ACC-P029,2025-10-16 12:50:06,1500,debit,Electricity Board,Electricity Board,,UPI,REF848554,Utility bill,Bank Core System
+TXN00782,P029,ACC-P029,2025-11-09 10:25:13,28000,credit,Highway Auto Works,Highway Auto Works,L007,NEFT,REF661655,Salary credit,Bank Core System
+TXN00783,P029,ACC-P029,2025-11-11 17:05:19,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF856990,Monthly rent,Bank Core System
+TXN00784,P029,ACC-P029,2025-11-13 20:10:12,1500,debit,Electricity Board,Electricity Board,,UPI,REF874647,Utility bill,Bank Core System
+TXN00785,P029,ACC-P029,2025-12-11 09:20:12,68000,credit,Highway Auto Works,Highway Auto Works,L007,NEFT,REF559125,Salary credit,Bank Core System
+TXN00786,P029,ACC-P029,2025-12-13 14:05:49,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF110953,Monthly rent,Bank Core System
+TXN00787,P029,ACC-P029,2025-12-15 15:10:09,1200,debit,Electricity Board,Electricity Board,,UPI,REF129413,Utility bill,Bank Core System
+TXN00788,P029,ACC-P029,2026-01-08 09:00:05,75000,credit,Highway Auto Works,Highway Auto Works,L007,NEFT,REF474681,Salary credit,Bank Core System
+TXN00789,P029,ACC-P029,2026-01-10 18:25:44,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF437502,Monthly rent,Bank Core System
+TXN00790,P029,ACC-P029,2026-01-12 17:00:36,1200,debit,Electricity Board,Electricity Board,,UPI,REF552949,Utility bill,Bank Core System
+TXN00791,P029,ACC-P029,2026-02-08 10:10:48,68000,credit,Highway Auto Works,Highway Auto Works,L007,NEFT,REF285465,Salary credit,Bank Core System
+TXN00792,P029,ACC-P029,2026-02-10 14:45:50,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF699713,Monthly rent,Bank Core System
+TXN00793,P029,ACC-P029,2026-02-12 10:20:37,950,debit,Electricity Board,Electricity Board,,UPI,REF627993,Utility bill,Bank Core System
+TXN00794,P029,ACC-P029,2026-03-06 17:10:03,1012,debit,HP Fuel Station,BSNL Broadband,L016,Credit Card,REF783024,Online purchase,Bank Core System
+TXN00795,P029,ACC-P029,2025-11-03 13:05:57,834,debit,BSNL Broadband,Flipkart,L009,NEFT,REF128373,Restaurant payment,Bank Core System
+TXN00796,P029,ACC-P029,2026-02-22 08:00:01,1001,debit,Flipkart,Electricity Board,L003,IMPS,REF770711,Miscellaneous,Bank Core System
+TXN00797,P029,ACC-P029,2026-03-02 18:05:36,2418,debit,Highway Auto Works,Flipkart,L009,NEFT,REF149666,Fuel purchase,Bank Core System
+TXN00798,P029,ACC-P029,2026-04-18 16:20:20,4465,debit,Local Kirana Store,Water Board,L026,Credit Card,REF893132,Online purchase,Bank Core System
+TXN00799,P029,ACC-P029,2025-11-24 16:55:37,4115,debit,Electricity Board,Local Kirana Store,L010,NEFT,REF796937,Fuel purchase,Bank Core System
+TXN00800,P029,ACC-P029,2026-03-20 16:50:07,2258,debit,Local Kirana Store,Nandipur City Mall,L012,Cash Deposit,REF461373,Grocery,Bank Core System
+TXN00801,P029,ACC-P029,2026-04-01 15:20:51,3352,debit,BSNL Broadband,Cafe Coffee Junction,L018,NEFT,REF325517,Grocery,Bank Core System
+TXN00802,P029,ACC-P029,2026-02-11 22:10:46,1085,debit,Water Board,Cafe Coffee Junction,L021,Debit Card,REF636390,Miscellaneous,Bank Core System
+TXN00803,P029,ACC-P029,2026-02-20 22:20:40,2899,debit,Amazon,Nandipur City Mall,L001,NEFT,REF982778,Online purchase,Bank Core System
+TXN00804,P029,ACC-P029,2026-02-10 22:45:53,752,debit,Union Trust Bank,Highway Auto Works,L011,Cash Deposit,REF564591,Online purchase,Bank Core System
+TXN00805,P029,ACC-P029,2025-11-12 19:00:24,1528,debit,Union Trust Bank,Nandipur City Mall,L018,IMPS,REF565147,Fuel purchase,Bank Core System
+TXN00806,P029,ACC-P029,2026-03-26 20:25:39,1188,debit,Electricity Board,BSNL Broadband,L019,IMPS,REF951590,Fuel purchase,Bank Core System
+TXN00807,P030,ACC-P030,2025-09-12 09:25:26,32000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF667976,Salary credit,Bank Core System
+TXN00808,P030,ACC-P030,2025-09-14 11:35:58,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF452081,Monthly rent,Bank Core System
+TXN00809,P030,ACC-P030,2025-09-16 17:50:39,950,debit,Electricity Board,Electricity Board,,UPI,REF291029,Utility bill,Bank Core System
+TXN00810,P030,ACC-P030,2025-10-12 09:50:35,75000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF320998,Salary credit,Bank Core System
+TXN00811,P030,ACC-P030,2025-10-14 11:25:28,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF767621,Monthly rent,Bank Core System
+TXN00812,P030,ACC-P030,2025-10-16 17:40:04,800,debit,Electricity Board,Electricity Board,,UPI,REF841553,Utility bill,Bank Core System
+TXN00813,P030,ACC-P030,2025-11-10 11:05:23,35000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF389328,Salary credit,Bank Core System
+TXN00814,P030,ACC-P030,2025-11-12 14:15:23,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF389541,Monthly rent,Bank Core System
+TXN00815,P030,ACC-P030,2025-11-14 09:35:15,1200,debit,Electricity Board,Electricity Board,,UPI,REF685801,Utility bill,Bank Core System
+TXN00816,P030,ACC-P030,2025-12-10 11:20:12,75000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF706942,Salary credit,Bank Core System
+TXN00817,P030,ACC-P030,2025-12-12 13:55:51,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF857676,Monthly rent,Bank Core System
+TXN00818,P030,ACC-P030,2025-12-14 10:25:42,1500,debit,Electricity Board,Electricity Board,,UPI,REF527205,Utility bill,Bank Core System
+TXN00819,P030,ACC-P030,2026-01-09 11:20:01,32000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF436644,Salary credit,Bank Core System
+TXN00820,P030,ACC-P030,2026-01-11 14:45:53,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF145272,Monthly rent,Bank Core System
+TXN00821,P030,ACC-P030,2026-01-13 13:00:00,1200,debit,Electricity Board,Electricity Board,,UPI,REF705838,Utility bill,Bank Core System
+TXN00822,P030,ACC-P030,2026-02-08 11:00:59,68000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF204927,Salary credit,Bank Core System
+TXN00823,P030,ACC-P030,2026-02-10 17:05:09,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF210912,Monthly rent,Bank Core System
+TXN00824,P030,ACC-P030,2026-02-12 18:05:29,1200,debit,Electricity Board,Electricity Board,,UPI,REF847024,Utility bill,Bank Core System
+TXN00825,P030,ACC-P030,2025-09-19 19:00:13,2110,debit,Nandipur City Mall,Spice Route Restaurant,L002,Debit Card,REF344141,Grocery,Bank Core System
+TXN00826,P030,ACC-P030,2026-04-07 12:00:39,2241,debit,Local Kirana Store,BSNL Broadband,L007,UPI,REF659515,Restaurant payment,Bank Core System
+TXN00827,P030,ACC-P030,2025-11-27 10:45:35,3454,debit,Flipkart,HP Fuel Station,L011,Debit Card,REF588542,Fuel purchase,Bank Core System
+TXN00828,P030,ACC-P030,2025-11-09 22:55:55,3678,debit,Flipkart,Highway Auto Works,L007,IMPS,REF240466,Miscellaneous,Bank Core System
+TXN00829,P030,ACC-P030,2025-10-21 16:00:42,4244,debit,Spice Route Restaurant,Union Trust Bank,L001,ATM Withdrawal,REF176132,Restaurant payment,Bank Core System
+TXN00830,P030,ACC-P030,2026-01-10 08:30:00,1702,debit,Union Trust Bank,Spice Route Restaurant,L014,Cash Deposit,REF989511,Online purchase,Bank Core System
+TXN00831,P030,ACC-P030,2026-01-03 10:40:24,3490,debit,Union Trust Bank,Nandipur City Mall,L016,Cash Deposit,REF138578,Grocery,Bank Core System
+TXN00832,P030,ACC-P030,2026-02-10 16:20:29,3262,debit,BSNL Broadband,HP Fuel Station,L018,Debit Card,REF383920,Grocery,Bank Core System
+TXN00833,P030,ACC-P030,2026-02-06 22:25:18,2277,debit,Spice Route Restaurant,Nandipur City Mall,L011,UPI,REF499449,Grocery,Bank Core System
+TXN00834,P030,ACC-P030,2025-11-08 09:25:42,4481,debit,Amazon,Spice Route Restaurant,L007,Debit Card,REF782481,Grocery,Bank Core System
+TXN00835,P030,ACC-P030,2025-10-24 20:20:29,3325,debit,Electricity Board,HP Fuel Station,L013,Credit Card,REF767260,Online purchase,Bank Core System
+TXN00836,P031,ACC-P031,2025-09-10 09:15:56,42000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF338375,Salary credit,Bank Core System
+TXN00837,P031,ACC-P031,2025-09-12 14:45:40,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF776345,Monthly rent,Bank Core System
+TXN00838,P031,ACC-P031,2025-09-14 09:00:30,1500,debit,Electricity Board,Electricity Board,,UPI,REF945220,Utility bill,Bank Core System
+TXN00839,P031,ACC-P031,2025-10-13 09:05:54,32000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF354467,Salary credit,Bank Core System
+TXN00840,P031,ACC-P031,2025-10-15 16:15:09,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF119238,Monthly rent,Bank Core System
+TXN00841,P031,ACC-P031,2025-10-17 16:20:11,800,debit,Electricity Board,Electricity Board,,UPI,REF694855,Utility bill,Bank Core System
+TXN00842,P031,ACC-P031,2025-11-10 09:10:16,28000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF491064,Salary credit,Bank Core System
+TXN00843,P031,ACC-P031,2025-11-12 10:30:53,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF786815,Monthly rent,Bank Core System
+TXN00844,P031,ACC-P031,2025-11-14 10:35:44,1500,debit,Electricity Board,Electricity Board,,UPI,REF843881,Utility bill,Bank Core System
+TXN00845,P031,ACC-P031,2025-12-10 09:35:34,42000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF121383,Salary credit,Bank Core System
+TXN00846,P031,ACC-P031,2025-12-12 11:30:17,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF895904,Monthly rent,Bank Core System
+TXN00847,P031,ACC-P031,2025-12-14 10:20:00,1500,debit,Electricity Board,Electricity Board,,UPI,REF852048,Utility bill,Bank Core System
+TXN00848,P031,ACC-P031,2026-01-10 09:00:45,32000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF484713,Salary credit,Bank Core System
+TXN00849,P031,ACC-P031,2026-01-12 15:10:17,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF335728,Monthly rent,Bank Core System
+TXN00850,P031,ACC-P031,2026-01-14 15:40:26,950,debit,Electricity Board,Electricity Board,,UPI,REF144129,Utility bill,Bank Core System
+TXN00851,P031,ACC-P031,2026-02-09 10:20:39,55000,credit,Highway Auto Works,Highway Auto Works,L016,NEFT,REF180819,Salary credit,Bank Core System
+TXN00852,P031,ACC-P031,2026-02-11 12:20:24,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF676682,Monthly rent,Bank Core System
+TXN00853,P031,ACC-P031,2026-02-13 11:55:20,800,debit,Electricity Board,Electricity Board,,UPI,REF595353,Utility bill,Bank Core System
+TXN00854,P031,ACC-P031,2026-03-21 15:05:58,1026,debit,Highway Auto Works,Nandipur City Mall,L024,ATM Withdrawal,REF344582,Grocery,Bank Core System
+TXN00855,P031,ACC-P031,2026-03-27 17:10:47,997,debit,Local Kirana Store,Union Trust Bank,L005,NEFT,REF383548,Grocery,Bank Core System
+TXN00856,P031,ACC-P031,2025-11-29 14:55:04,3136,debit,Nandipur City Mall,Union Trust Bank,L016,UPI,REF457247,Online purchase,Bank Core System
+TXN00857,P031,ACC-P031,2026-01-18 08:00:45,1177,debit,HP Fuel Station,Union Trust Bank,L010,UPI,REF127401,Miscellaneous,Bank Core System
+TXN00858,P031,ACC-P031,2026-01-01 10:50:25,1304,debit,BSNL Broadband,Union Trust Bank,L008,ATM Withdrawal,REF257235,Fuel purchase,Bank Core System
+TXN00859,P031,ACC-P031,2026-01-24 16:10:02,2205,debit,Spice Route Restaurant,HP Fuel Station,L012,IMPS,REF270564,Online purchase,Bank Core System
+TXN00860,P031,ACC-P031,2026-02-01 16:05:43,3095,debit,Local Kirana Store,Amazon,L019,IMPS,REF910139,Online purchase,Bank Core System
+TXN00861,P031,ACC-P031,2026-03-14 20:35:43,3268,debit,Flipkart,Local Kirana Store,L015,NEFT,REF369368,Restaurant payment,Bank Core System
+TXN00862,P031,ACC-P031,2025-10-09 20:10:26,1747,debit,Cafe Coffee Junction,BSNL Broadband,L026,IMPS,REF103301,Grocery,Bank Core System
+TXN00863,P031,ACC-P031,2025-10-24 08:55:16,3942,debit,Water Board,HP Fuel Station,L026,UPI,REF795489,Grocery,Bank Core System
+TXN00864,P031,ACC-P031,2025-11-01 21:55:12,2387,debit,Nandipur City Mall,Spice Route Restaurant,L018,Debit Card,REF417735,Miscellaneous,Bank Core System
+TXN00865,P032,ACC-P032,2025-09-11 10:50:37,42000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L004,NEFT,REF669738,Salary credit,Bank Core System
+TXN00866,P032,ACC-P032,2025-09-13 12:25:39,15000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF758197,Monthly rent,Bank Core System
+TXN00867,P032,ACC-P032,2025-09-15 18:40:33,950,debit,Electricity Board,Electricity Board,,UPI,REF909826,Utility bill,Bank Core System
+TXN00868,P032,ACC-P032,2025-10-10 11:15:19,35000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L004,NEFT,REF298601,Salary credit,Bank Core System
+TXN00869,P032,ACC-P032,2025-10-12 16:25:31,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF612868,Monthly rent,Bank Core System
+TXN00870,P032,ACC-P032,2025-10-14 16:10:08,1500,debit,Electricity Board,Electricity Board,,UPI,REF248661,Utility bill,Bank Core System
+TXN00871,P032,ACC-P032,2025-11-10 10:40:33,32000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L004,NEFT,REF463903,Salary credit,Bank Core System
+TXN00872,P032,ACC-P032,2025-11-12 12:30:43,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF480603,Monthly rent,Bank Core System
+TXN00873,P032,ACC-P032,2025-11-14 20:45:28,1200,debit,Electricity Board,Electricity Board,,UPI,REF601628,Utility bill,Bank Core System
+TXN00874,P032,ACC-P032,2025-12-12 09:55:23,35000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L004,NEFT,REF358960,Salary credit,Bank Core System
+TXN00875,P032,ACC-P032,2025-12-14 10:10:58,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF987668,Monthly rent,Bank Core System
+TXN00876,P032,ACC-P032,2025-12-16 12:45:55,800,debit,Electricity Board,Electricity Board,,UPI,REF296958,Utility bill,Bank Core System
+TXN00877,P032,ACC-P032,2026-01-09 10:45:23,35000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L004,NEFT,REF509145,Salary credit,Bank Core System
+TXN00878,P032,ACC-P032,2026-01-11 14:15:28,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF968034,Monthly rent,Bank Core System
+TXN00879,P032,ACC-P032,2026-01-13 14:35:43,800,debit,Electricity Board,Electricity Board,,UPI,REF883258,Utility bill,Bank Core System
+TXN00880,P032,ACC-P032,2026-02-09 11:35:47,55000,credit,"Union Trust Bank, Nandipur Branch","Union Trust Bank, Nandipur Branch",L004,NEFT,REF180191,Salary credit,Bank Core System
+TXN00881,P032,ACC-P032,2026-02-11 18:45:31,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF690823,Monthly rent,Bank Core System
+TXN00882,P032,ACC-P032,2026-02-13 18:55:36,1500,debit,Electricity Board,Electricity Board,,UPI,REF366557,Utility bill,Bank Core System
+TXN00883,P032,ACC-P032,2025-11-15 09:15:22,4443,debit,Spice Route Restaurant,HP Fuel Station,L001,NEFT,REF175828,Miscellaneous,Bank Core System
+TXN00884,P032,ACC-P032,2025-11-07 21:05:48,3198,debit,Local Kirana Store,Local Kirana Store,L014,Debit Card,REF627060,Fuel purchase,Bank Core System
+TXN00885,P032,ACC-P032,2026-02-05 16:05:35,3016,debit,Electricity Board,Union Trust Bank,L005,Debit Card,REF121312,Fuel purchase,Bank Core System
+TXN00886,P032,ACC-P032,2025-10-06 20:10:14,806,debit,Local Kirana Store,Water Board,L001,NEFT,REF491495,Miscellaneous,Bank Core System
+TXN00887,P032,ACC-P032,2026-01-11 09:10:45,2340,debit,Local Kirana Store,Cafe Coffee Junction,L022,UPI,REF815993,Online purchase,Bank Core System
+TXN00888,P032,ACC-P032,2026-04-04 08:15:57,220,debit,Electricity Board,Union Trust Bank,L006,Debit Card,REF386779,Restaurant payment,Bank Core System
+TXN00889,P032,ACC-P032,2025-10-22 18:00:04,4091,debit,Amazon,Union Trust Bank,L010,NEFT,REF569478,Fuel purchase,Bank Core System
+TXN00890,P033,ACC-P033,2025-09-12 11:00:58,28000,credit,Riverbank Realty,Riverbank Realty,L007,NEFT,REF571727,Salary credit,Bank Core System
+TXN00891,P033,ACC-P033,2025-09-14 13:00:05,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF495849,Monthly rent,Bank Core System
+TXN00892,P033,ACC-P033,2025-09-16 17:15:09,1200,debit,Electricity Board,Electricity Board,,UPI,REF516863,Utility bill,Bank Core System
+TXN00893,P033,ACC-P033,2025-10-10 10:10:26,35000,credit,Riverbank Realty,Riverbank Realty,L007,NEFT,REF501133,Salary credit,Bank Core System
+TXN00894,P033,ACC-P033,2025-10-12 12:40:24,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF232443,Monthly rent,Bank Core System
+TXN00895,P033,ACC-P033,2025-10-14 11:40:50,1500,debit,Electricity Board,Electricity Board,,UPI,REF507644,Utility bill,Bank Core System
+TXN00896,P033,ACC-P033,2025-11-09 11:50:50,55000,credit,Riverbank Realty,Riverbank Realty,L007,NEFT,REF122945,Salary credit,Bank Core System
+TXN00897,P033,ACC-P033,2025-11-11 17:30:51,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF458074,Monthly rent,Bank Core System
+TXN00898,P033,ACC-P033,2025-11-13 15:30:46,950,debit,Electricity Board,Electricity Board,,UPI,REF710614,Utility bill,Bank Core System
+TXN00899,P033,ACC-P033,2025-12-10 11:30:06,32000,credit,Riverbank Realty,Riverbank Realty,L007,NEFT,REF964901,Salary credit,Bank Core System
+TXN00900,P033,ACC-P033,2025-12-12 17:05:46,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF223985,Monthly rent,Bank Core System
+TXN00901,P033,ACC-P033,2025-12-14 13:25:03,1200,debit,Electricity Board,Electricity Board,,UPI,REF407218,Utility bill,Bank Core System
+TXN00902,P033,ACC-P033,2026-01-09 11:25:12,42000,credit,Riverbank Realty,Riverbank Realty,L007,NEFT,REF392068,Salary credit,Bank Core System
+TXN00903,P033,ACC-P033,2026-01-11 17:55:41,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF377108,Monthly rent,Bank Core System
+TXN00904,P033,ACC-P033,2026-01-13 14:00:26,1200,debit,Electricity Board,Electricity Board,,UPI,REF122607,Utility bill,Bank Core System
+TXN00905,P033,ACC-P033,2026-02-08 11:20:31,68000,credit,Riverbank Realty,Riverbank Realty,L007,NEFT,REF887285,Salary credit,Bank Core System
+TXN00906,P033,ACC-P033,2026-02-10 17:35:02,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF392091,Monthly rent,Bank Core System
+TXN00907,P033,ACC-P033,2026-02-12 17:30:00,1200,debit,Electricity Board,Electricity Board,,UPI,REF272473,Utility bill,Bank Core System
+TXN00908,P033,ACC-P033,2025-11-13 09:10:36,896,debit,Spice Route Restaurant,HP Fuel Station,L016,UPI,REF570638,Restaurant payment,Bank Core System
+TXN00909,P033,ACC-P033,2026-01-14 17:45:52,3546,debit,Water Board,Water Board,L026,UPI,REF276092,Grocery,Bank Core System
+TXN00910,P033,ACC-P033,2026-03-12 14:35:58,2897,debit,Union Trust Bank,Spice Route Restaurant,L026,Cash Deposit,REF571356,Restaurant payment,Bank Core System
+TXN00911,P033,ACC-P033,2025-10-15 10:30:29,2474,debit,HP Fuel Station,Electricity Board,L026,IMPS,REF773088,Online purchase,Bank Core System
+TXN00912,P033,ACC-P033,2026-03-12 10:00:36,859,debit,Amazon,Electricity Board,L007,ATM Withdrawal,REF779302,Restaurant payment,Bank Core System
+TXN00913,P033,ACC-P033,2026-01-15 13:10:46,3371,debit,Amazon,Flipkart,L023,ATM Withdrawal,REF125240,Restaurant payment,Bank Core System
+TXN00914,P033,ACC-P033,2026-01-24 11:00:56,2114,debit,Nandipur City Mall,Union Trust Bank,L023,Credit Card,REF642727,Fuel purchase,Bank Core System
+TXN00915,P033,ACC-P033,2025-11-28 17:05:27,4252,debit,Spice Route Restaurant,Highway Auto Works,L014,NEFT,REF496410,Online purchase,Bank Core System
+TXN00916,P033,ACC-P033,2025-10-04 15:30:28,2473,debit,Nandipur City Mall,Water Board,L018,NEFT,REF563973,Fuel purchase,Bank Core System
+TXN00917,P033,ACC-P033,2025-11-23 11:35:48,577,debit,Electricity Board,Union Trust Bank,L009,Debit Card,REF526054,Miscellaneous,Bank Core System
+TXN00918,P033,ACC-P033,2025-11-02 18:10:29,3971,debit,HP Fuel Station,HP Fuel Station,L013,ATM Withdrawal,REF829515,Online purchase,Bank Core System
+TXN00919,P034,ACC-P034,2025-09-11 10:35:44,35000,credit,Riverbank Realty,Riverbank Realty,L010,NEFT,REF648868,Salary credit,Bank Core System
+TXN00920,P034,ACC-P034,2025-09-13 11:15:59,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF709343,Monthly rent,Bank Core System
+TXN00921,P034,ACC-P034,2025-09-15 14:45:59,1500,debit,Electricity Board,Electricity Board,,UPI,REF342373,Utility bill,Bank Core System
+TXN00922,P034,ACC-P034,2025-10-13 09:40:30,42000,credit,Riverbank Realty,Riverbank Realty,L010,NEFT,REF585309,Salary credit,Bank Core System
+TXN00923,P034,ACC-P034,2025-10-15 10:30:04,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF682006,Monthly rent,Bank Core System
+TXN00924,P034,ACC-P034,2025-10-17 13:50:12,800,debit,Electricity Board,Electricity Board,,UPI,REF579565,Utility bill,Bank Core System
+TXN00925,P034,ACC-P034,2025-11-09 10:55:57,42000,credit,Riverbank Realty,Riverbank Realty,L010,NEFT,REF114705,Salary credit,Bank Core System
+TXN00926,P034,ACC-P034,2025-11-11 15:20:28,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF749788,Monthly rent,Bank Core System
+TXN00927,P034,ACC-P034,2025-11-13 15:40:36,800,debit,Electricity Board,Electricity Board,,UPI,REF395576,Utility bill,Bank Core System
+TXN00928,P034,ACC-P034,2025-12-11 10:00:14,32000,credit,Riverbank Realty,Riverbank Realty,L010,NEFT,REF758665,Salary credit,Bank Core System
+TXN00929,P034,ACC-P034,2025-12-13 14:05:20,6000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF487715,Monthly rent,Bank Core System
+TXN00930,P034,ACC-P034,2025-12-15 15:05:55,1200,debit,Electricity Board,Electricity Board,,UPI,REF122687,Utility bill,Bank Core System
+TXN00931,P034,ACC-P034,2026-01-09 09:50:54,42000,credit,Riverbank Realty,Riverbank Realty,L010,NEFT,REF715291,Salary credit,Bank Core System
+TXN00932,P034,ACC-P034,2026-01-11 13:45:56,8000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF424113,Monthly rent,Bank Core System
+TXN00933,P034,ACC-P034,2026-01-13 12:45:59,950,debit,Electricity Board,Electricity Board,,UPI,REF152287,Utility bill,Bank Core System
+TXN00934,P034,ACC-P034,2026-02-07 09:05:00,68000,credit,Riverbank Realty,Riverbank Realty,L010,NEFT,REF543909,Salary credit,Bank Core System
+TXN00935,P034,ACC-P034,2026-02-09 12:15:33,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF946359,Monthly rent,Bank Core System
+TXN00936,P034,ACC-P034,2026-02-11 15:50:12,1500,debit,Electricity Board,Electricity Board,,UPI,REF585132,Utility bill,Bank Core System
+TXN00937,P034,ACC-P034,2026-01-31 14:10:05,1926,debit,Local Kirana Store,Union Trust Bank,L011,IMPS,REF986307,Grocery,Bank Core System
+TXN00938,P034,ACC-P034,2025-11-28 12:05:23,4248,debit,Flipkart,BSNL Broadband,L006,Cash Deposit,REF826852,Fuel purchase,Bank Core System
+TXN00939,P034,ACC-P034,2026-02-01 19:10:48,3865,debit,Spice Route Restaurant,Electricity Board,L006,NEFT,REF392173,Restaurant payment,Bank Core System
+TXN00940,P034,ACC-P034,2025-11-09 14:45:51,640,debit,Amazon,Spice Route Restaurant,L016,Debit Card,REF880411,Fuel purchase,Bank Core System
+TXN00941,P034,ACC-P034,2025-12-28 22:20:53,829,debit,Electricity Board,Cafe Coffee Junction,L025,NEFT,REF714881,Restaurant payment,Bank Core System
+TXN00942,P034,ACC-P034,2026-03-31 20:40:00,819,debit,Union Trust Bank,Local Kirana Store,L004,UPI,REF716175,Grocery,Bank Core System
+TXN00943,P034,ACC-P034,2026-02-17 08:35:14,2266,debit,Highway Auto Works,Cafe Coffee Junction,L016,IMPS,REF801696,Fuel purchase,Bank Core System
+TXN00944,P034,ACC-P034,2025-11-24 14:45:09,1472,debit,Electricity Board,Amazon,L012,UPI,REF846167,Miscellaneous,Bank Core System
+TXN00945,P034,ACC-P034,2025-10-21 10:35:38,537,debit,Nandipur City Mall,HP Fuel Station,L018,UPI,REF786025,Miscellaneous,Bank Core System
+TXN00946,P034,ACC-P034,2025-11-17 08:25:06,3412,debit,Flipkart,Union Trust Bank,L024,Credit Card,REF273875,Grocery,Bank Core System
+TXN00947,P035,ACC-P035,2025-09-10 09:25:02,32000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L022,NEFT,REF253346,Salary credit,Bank Core System
+TXN00948,P035,ACC-P035,2025-09-12 14:05:09,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF362129,Monthly rent,Bank Core System
+TXN00949,P035,ACC-P035,2025-09-14 09:20:41,1200,debit,Electricity Board,Electricity Board,,UPI,REF369554,Utility bill,Bank Core System
+TXN00950,P035,ACC-P035,2025-10-10 11:25:34,75000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L022,NEFT,REF366951,Salary credit,Bank Core System
+TXN00951,P035,ACC-P035,2025-10-12 11:40:20,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF715365,Monthly rent,Bank Core System
+TXN00952,P035,ACC-P035,2025-10-14 17:25:31,1500,debit,Electricity Board,Electricity Board,,UPI,REF620850,Utility bill,Bank Core System
+TXN00953,P035,ACC-P035,2025-11-11 10:55:13,75000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L022,NEFT,REF435563,Salary credit,Bank Core System
+TXN00954,P035,ACC-P035,2025-11-13 13:45:22,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF960993,Monthly rent,Bank Core System
+TXN00955,P035,ACC-P035,2025-11-15 20:55:57,950,debit,Electricity Board,Electricity Board,,UPI,REF175035,Utility bill,Bank Core System
+TXN00956,P035,ACC-P035,2025-12-11 10:15:33,68000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L022,NEFT,REF565636,Salary credit,Bank Core System
+TXN00957,P035,ACC-P035,2025-12-13 15:35:49,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF884860,Monthly rent,Bank Core System
+TXN00958,P035,ACC-P035,2025-12-15 11:25:08,1200,debit,Electricity Board,Electricity Board,,UPI,REF884779,Utility bill,Bank Core System
+TXN00959,P035,ACC-P035,2026-01-10 10:05:27,28000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L022,NEFT,REF834006,Salary credit,Bank Core System
+TXN00960,P035,ACC-P035,2026-01-12 15:30:38,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF597983,Monthly rent,Bank Core System
+TXN00961,P035,ACC-P035,2026-01-14 18:40:06,950,debit,Electricity Board,Electricity Board,,UPI,REF375032,Utility bill,Bank Core System
+TXN00962,P035,ACC-P035,2026-02-10 10:25:01,42000,credit,Kalinga Softtech Pvt Ltd,Kalinga Softtech Pvt Ltd,L022,NEFT,REF519166,Salary credit,Bank Core System
+TXN00963,P035,ACC-P035,2026-02-12 14:15:42,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF611461,Monthly rent,Bank Core System
+TXN00964,P035,ACC-P035,2026-02-14 12:20:48,800,debit,Electricity Board,Electricity Board,,UPI,REF438597,Utility bill,Bank Core System
+TXN00965,P035,ACC-P035,2026-03-18 08:45:45,1844,debit,Electricity Board,Cafe Coffee Junction,L015,UPI,REF297778,Restaurant payment,Bank Core System
+TXN00966,P035,ACC-P035,2025-10-03 13:45:48,4208,debit,Amazon,Highway Auto Works,L014,ATM Withdrawal,REF737637,Grocery,Bank Core System
+TXN00967,P035,ACC-P035,2025-12-22 17:25:18,690,debit,Electricity Board,Water Board,L008,Credit Card,REF381419,Fuel purchase,Bank Core System
+TXN00968,P035,ACC-P035,2025-11-02 08:50:01,4388,debit,BSNL Broadband,HP Fuel Station,L027,ATM Withdrawal,REF799038,Grocery,Bank Core System
+TXN00969,P035,ACC-P035,2026-04-07 22:55:43,856,debit,Cafe Coffee Junction,Local Kirana Store,L025,IMPS,REF574869,Online purchase,Bank Core System
+TXN00970,P035,ACC-P035,2025-09-22 09:00:58,4463,debit,Water Board,Amazon,L005,Credit Card,REF121664,Fuel purchase,Bank Core System
+TXN00971,P035,ACC-P035,2025-11-27 09:45:15,1523,debit,Union Trust Bank,Local Kirana Store,L005,Credit Card,REF997969,Miscellaneous,Bank Core System
+TXN00972,P035,ACC-P035,2025-12-21 15:10:06,3710,debit,Highway Auto Works,Water Board,L014,IMPS,REF433532,Fuel purchase,Bank Core System
+TXN00973,P035,ACC-P035,2025-12-23 14:05:01,2672,debit,Amazon,BSNL Broadband,L010,NEFT,REF531950,Restaurant payment,Bank Core System
+TXN00974,P035,ACC-P035,2025-10-19 11:20:52,2427,debit,Local Kirana Store,Electricity Board,L012,IMPS,REF256499,Online purchase,Bank Core System
+TXN00975,P035,ACC-P035,2026-04-01 21:50:21,3362,debit,Nandipur City Mall,HP Fuel Station,L003,Cash Deposit,REF644318,Online purchase,Bank Core System
+TXN00976,P035,ACC-P035,2026-04-16 13:40:49,1227,debit,Nandipur City Mall,Water Board,L020,Credit Card,REF621472,Fuel purchase,Bank Core System
+TXN00977,P036,ACC-P036,2025-09-12 10:30:25,75000,credit,Self-employed,Self-employed,L003,NEFT,REF978627,Salary credit,Bank Core System
+TXN00978,P036,ACC-P036,2025-09-14 14:20:30,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF970917,Monthly rent,Bank Core System
+TXN00979,P036,ACC-P036,2025-09-16 15:05:40,950,debit,Electricity Board,Electricity Board,,UPI,REF861349,Utility bill,Bank Core System
+TXN00980,P036,ACC-P036,2025-10-10 10:40:15,28000,credit,Self-employed,Self-employed,L003,NEFT,REF148684,Salary credit,Bank Core System
+TXN00981,P036,ACC-P036,2025-10-12 16:40:10,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF345337,Monthly rent,Bank Core System
+TXN00982,P036,ACC-P036,2025-10-14 09:00:49,1200,debit,Electricity Board,Electricity Board,,UPI,REF563526,Utility bill,Bank Core System
+TXN00983,P036,ACC-P036,2025-11-11 11:00:15,28000,credit,Self-employed,Self-employed,L003,NEFT,REF726897,Salary credit,Bank Core System
+TXN00984,P036,ACC-P036,2025-11-13 10:55:08,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF187356,Monthly rent,Bank Core System
+TXN00985,P036,ACC-P036,2025-11-15 11:50:35,1200,debit,Electricity Board,Electricity Board,,UPI,REF371748,Utility bill,Bank Core System
+TXN00986,P036,ACC-P036,2025-12-09 10:00:42,35000,credit,Self-employed,Self-employed,L003,NEFT,REF288299,Salary credit,Bank Core System
+TXN00987,P036,ACC-P036,2025-12-11 17:15:02,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF710520,Monthly rent,Bank Core System
+TXN00988,P036,ACC-P036,2025-12-13 13:10:45,800,debit,Electricity Board,Electricity Board,,UPI,REF858954,Utility bill,Bank Core System
+TXN00989,P036,ACC-P036,2026-01-11 11:00:49,42000,credit,Self-employed,Self-employed,L003,NEFT,REF334864,Salary credit,Bank Core System
+TXN00990,P036,ACC-P036,2026-01-13 18:15:02,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF356225,Monthly rent,Bank Core System
+TXN00991,P036,ACC-P036,2026-01-15 09:35:25,1200,debit,Electricity Board,Electricity Board,,UPI,REF160988,Utility bill,Bank Core System
+TXN00992,P036,ACC-P036,2026-02-07 10:05:17,68000,credit,Self-employed,Self-employed,L003,NEFT,REF884550,Salary credit,Bank Core System
+TXN00993,P036,ACC-P036,2026-02-09 14:25:15,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF389191,Monthly rent,Bank Core System
+TXN00994,P036,ACC-P036,2026-02-11 12:45:18,950,debit,Electricity Board,Electricity Board,,UPI,REF115329,Utility bill,Bank Core System
+TXN00995,P036,ACC-P036,2026-04-06 21:10:03,480,debit,Amazon,Cafe Coffee Junction,L001,NEFT,REF192007,Restaurant payment,Bank Core System
+TXN00996,P036,ACC-P036,2025-10-23 16:20:34,3828,debit,Amazon,Flipkart,L026,Debit Card,REF241828,Miscellaneous,Bank Core System
+TXN00997,P036,ACC-P036,2026-01-10 11:30:39,1448,debit,Nandipur City Mall,Flipkart,L027,IMPS,REF905623,Online purchase,Bank Core System
+TXN00998,P036,ACC-P036,2025-12-25 14:40:20,4032,debit,Spice Route Restaurant,Flipkart,L009,Debit Card,REF318108,Restaurant payment,Bank Core System
+TXN00999,P036,ACC-P036,2026-03-20 18:15:35,1975,debit,Amazon,Cafe Coffee Junction,L022,Cash Deposit,REF839821,Miscellaneous,Bank Core System
+TXN01000,P036,ACC-P036,2026-04-21 21:00:33,2370,debit,Nandipur City Mall,Union Trust Bank,L004,UPI,REF183288,Online purchase,Bank Core System
+TXN01001,P036,ACC-P036,2025-11-23 20:55:13,2068,debit,Local Kirana Store,Water Board,L027,NEFT,REF470029,Grocery,Bank Core System
+TXN01002,P036,ACC-P036,2025-10-14 09:30:42,1675,debit,BSNL Broadband,Water Board,L019,ATM Withdrawal,REF374100,Miscellaneous,Bank Core System
+TXN01003,P036,ACC-P036,2026-01-17 17:45:51,4243,debit,Water Board,Highway Auto Works,L023,IMPS,REF171482,Miscellaneous,Bank Core System
+TXN01004,P036,ACC-P036,2026-01-18 18:25:27,1515,debit,Spice Route Restaurant,Spice Route Restaurant,L014,IMPS,REF454011,Miscellaneous,Bank Core System
+TXN01005,P036,ACC-P036,2026-02-06 11:20:10,1939,debit,Cafe Coffee Junction,Water Board,L027,Credit Card,REF318282,Miscellaneous,Bank Core System
+TXN01006,P036,ACC-P036,2026-03-16 15:35:07,3834,debit,Amazon,Highway Auto Works,L016,Credit Card,REF346988,Grocery,Bank Core System
+TXN01007,P036,ACC-P036,2026-01-07 22:15:19,1601,debit,Nandipur City Mall,Flipkart,L006,UPI,REF621450,Miscellaneous,Bank Core System
+TXN01008,P037,ACC-P037,2025-09-13 10:50:23,55000,credit,Self-employed,Self-employed,L024,NEFT,REF224552,Salary credit,Bank Core System
+TXN01009,P037,ACC-P037,2025-09-15 18:20:00,12000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF761472,Monthly rent,Bank Core System
+TXN01010,P037,ACC-P037,2025-09-17 10:20:19,1500,debit,Electricity Board,Electricity Board,,UPI,REF291367,Utility bill,Bank Core System
+TXN01011,P037,ACC-P037,2025-10-12 09:00:21,28000,credit,Self-employed,Self-employed,L024,NEFT,REF679351,Salary credit,Bank Core System
+TXN01012,P037,ACC-P037,2025-10-14 11:30:57,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF874594,Monthly rent,Bank Core System
+TXN01013,P037,ACC-P037,2025-10-16 19:35:34,1500,debit,Electricity Board,Electricity Board,,UPI,REF660254,Utility bill,Bank Core System
+TXN01014,P037,ACC-P037,2025-11-12 11:35:10,42000,credit,Self-employed,Self-employed,L024,NEFT,REF817541,Salary credit,Bank Core System
+TXN01015,P037,ACC-P037,2025-11-14 11:40:42,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF271228,Monthly rent,Bank Core System
+TXN01016,P037,ACC-P037,2025-11-16 17:55:04,1200,debit,Electricity Board,Electricity Board,,UPI,REF609669,Utility bill,Bank Core System
+TXN01017,P037,ACC-P037,2025-12-10 10:15:06,68000,credit,Self-employed,Self-employed,L024,NEFT,REF556942,Salary credit,Bank Core System
+TXN01018,P037,ACC-P037,2025-12-12 13:55:06,15000,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF360187,Monthly rent,Bank Core System
+TXN01019,P037,ACC-P037,2025-12-14 15:15:31,800,debit,Electricity Board,Electricity Board,,UPI,REF882907,Utility bill,Bank Core System
+TXN01020,P037,ACC-P037,2026-01-10 10:05:39,68000,credit,Self-employed,Self-employed,L024,NEFT,REF682088,Salary credit,Bank Core System
+TXN01021,P037,ACC-P037,2026-01-12 15:30:12,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF168425,Monthly rent,Bank Core System
+TXN01022,P037,ACC-P037,2026-01-14 17:30:17,1500,debit,Electricity Board,Electricity Board,,UPI,REF976551,Utility bill,Bank Core System
+TXN01023,P037,ACC-P037,2026-02-08 10:00:45,32000,credit,Self-employed,Self-employed,L024,NEFT,REF192255,Salary credit,Bank Core System
+TXN01024,P037,ACC-P037,2026-02-10 12:40:07,9500,debit,Landlord/Housing,Rent Payment,L021,IMPS,REF615774,Monthly rent,Bank Core System
+TXN01025,P037,ACC-P037,2026-02-12 10:35:50,800,debit,Electricity Board,Electricity Board,,UPI,REF504140,Utility bill,Bank Core System
+TXN01026,P037,ACC-P037,2026-03-28 15:30:20,2341,debit,Flipkart,Cafe Coffee Junction,L014,Debit Card,REF873505,Restaurant payment,Bank Core System
+TXN01027,P037,ACC-P037,2026-03-20 12:55:34,2951,debit,Highway Auto Works,Water Board,L008,UPI,REF716731,Restaurant payment,Bank Core System
+TXN01028,P037,ACC-P037,2026-04-17 22:45:04,2126,debit,Highway Auto Works,Highway Auto Works,L011,NEFT,REF259254,Fuel purchase,Bank Core System
+TXN01029,P037,ACC-P037,2026-04-06 09:45:02,2361,debit,Amazon,Cafe Coffee Junction,L002,Debit Card,REF455886,Fuel purchase,Bank Core System
+TXN01030,P037,ACC-P037,2025-09-21 11:05:26,4092,debit,Union Trust Bank,Union Trust Bank,L019,Cash Deposit,REF724845,Miscellaneous,Bank Core System
+TXN01031,P037,ACC-P037,2026-03-13 21:45:35,2121,debit,Water Board,HP Fuel Station,L004,IMPS,REF847621,Grocery,Bank Core System
+TXN01032,P037,ACC-P037,2026-04-17 18:30:10,541,debit,Union Trust Bank,Electricity Board,L022,UPI,REF904396,Online purchase,Bank Core System
+TXN01033,P037,ACC-P037,2026-03-02 17:40:44,542,debit,HP Fuel Station,Amazon,L001,ATM Withdrawal,REF778084,Grocery,Bank Core System
+TXN01034,P037,ACC-P037,2025-09-27 14:10:41,3258,debit,Water Board,Water Board,L003,Cash Deposit,REF162904,Miscellaneous,Bank Core System
+TXN01035,P037,ACC-P037,2025-10-02 20:15:30,2435,debit,Union Trust Bank,Flipkart,L009,Debit Card,REF536788,Online purchase,Bank Core System
+TXN01036,P037,ACC-P037,2026-03-19 20:35:46,927,debit,Nandipur City Mall,Flipkart,L013,UPI,REF128681,Grocery,Bank Core System
+TXN01037,P038,ACC-P038,2025-09-12 09:15:44,32000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF236768,Salary credit,Bank Core System
+TXN01038,P038,ACC-P038,2025-09-14 13:40:49,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF219565,Monthly rent,Bank Core System
+TXN01039,P038,ACC-P038,2025-09-16 13:40:47,950,debit,Electricity Board,Electricity Board,,UPI,REF533580,Utility bill,Bank Core System
+TXN01040,P038,ACC-P038,2025-10-13 09:40:43,75000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF569450,Salary credit,Bank Core System
+TXN01041,P038,ACC-P038,2025-10-15 11:30:27,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF510475,Monthly rent,Bank Core System
+TXN01042,P038,ACC-P038,2025-10-17 20:25:01,1500,debit,Electricity Board,Electricity Board,,UPI,REF404584,Utility bill,Bank Core System
+TXN01043,P038,ACC-P038,2025-11-11 11:30:34,42000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF587410,Salary credit,Bank Core System
+TXN01044,P038,ACC-P038,2025-11-13 13:05:10,8000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF262721,Monthly rent,Bank Core System
+TXN01045,P038,ACC-P038,2025-11-15 13:30:41,800,debit,Electricity Board,Electricity Board,,UPI,REF696905,Utility bill,Bank Core System
+TXN01046,P038,ACC-P038,2025-12-10 10:40:35,28000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF848963,Salary credit,Bank Core System
+TXN01047,P038,ACC-P038,2025-12-12 18:15:35,9500,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF444794,Monthly rent,Bank Core System
+TXN01048,P038,ACC-P038,2025-12-14 09:10:35,950,debit,Electricity Board,Electricity Board,,UPI,REF116368,Utility bill,Bank Core System
+TXN01049,P038,ACC-P038,2026-01-09 10:15:46,68000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF289499,Salary credit,Bank Core System
+TXN01050,P038,ACC-P038,2026-01-11 18:15:00,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF204264,Monthly rent,Bank Core System
+TXN01051,P038,ACC-P038,2026-01-13 18:40:13,1200,debit,Electricity Board,Electricity Board,,UPI,REF716647,Utility bill,Bank Core System
+TXN01052,P038,ACC-P038,2026-02-08 09:45:22,68000,credit,Nandipur Herald,Nandipur Herald,L003,NEFT,REF755873,Salary credit,Bank Core System
+TXN01053,P038,ACC-P038,2026-02-10 10:10:24,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF219755,Monthly rent,Bank Core System
+TXN01054,P038,ACC-P038,2026-02-12 13:10:40,800,debit,Electricity Board,Electricity Board,,UPI,REF963566,Utility bill,Bank Core System
+TXN01055,P038,ACC-P038,2026-03-14 10:00:49,2234,debit,Electricity Board,Spice Route Restaurant,L021,IMPS,REF966355,Fuel purchase,Bank Core System
+TXN01056,P038,ACC-P038,2026-04-06 19:40:30,1511,debit,Water Board,Cafe Coffee Junction,L006,IMPS,REF843144,Fuel purchase,Bank Core System
+TXN01057,P038,ACC-P038,2026-01-15 16:35:44,4122,debit,Electricity Board,Electricity Board,L010,Credit Card,REF738596,Miscellaneous,Bank Core System
+TXN01058,P038,ACC-P038,2026-01-30 08:05:41,299,debit,Water Board,Amazon,L006,ATM Withdrawal,REF873528,Online purchase,Bank Core System
+TXN01059,P038,ACC-P038,2026-01-26 12:05:54,894,debit,Union Trust Bank,Water Board,L005,NEFT,REF405602,Grocery,Bank Core System
+TXN01060,P038,ACC-P038,2026-01-22 14:30:40,643,debit,HP Fuel Station,Flipkart,L024,ATM Withdrawal,REF493026,Fuel purchase,Bank Core System
+TXN01061,P039,ACC-P039,2025-09-12 10:00:52,68000,credit,Nandipur State University,Nandipur State University,L010,NEFT,REF453312,Salary credit,Bank Core System
+TXN01062,P039,ACC-P039,2025-09-14 10:05:28,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF203162,Monthly rent,Bank Core System
+TXN01063,P039,ACC-P039,2025-09-16 19:10:50,800,debit,Electricity Board,Electricity Board,,UPI,REF178170,Utility bill,Bank Core System
+TXN01064,P039,ACC-P039,2025-10-10 10:55:19,68000,credit,Nandipur State University,Nandipur State University,L010,NEFT,REF421276,Salary credit,Bank Core System
+TXN01065,P039,ACC-P039,2025-10-12 15:20:22,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF172136,Monthly rent,Bank Core System
+TXN01066,P039,ACC-P039,2025-10-14 19:05:50,800,debit,Electricity Board,Electricity Board,,UPI,REF294781,Utility bill,Bank Core System
+TXN01067,P039,ACC-P039,2025-11-11 11:35:35,55000,credit,Nandipur State University,Nandipur State University,L010,NEFT,REF561767,Salary credit,Bank Core System
+TXN01068,P039,ACC-P039,2025-11-13 11:15:42,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF241240,Monthly rent,Bank Core System
+TXN01069,P039,ACC-P039,2025-11-15 10:00:46,950,debit,Electricity Board,Electricity Board,,UPI,REF932177,Utility bill,Bank Core System
+TXN01070,P039,ACC-P039,2025-12-12 09:50:22,32000,credit,Nandipur State University,Nandipur State University,L010,NEFT,REF662633,Salary credit,Bank Core System
+TXN01071,P039,ACC-P039,2025-12-14 11:05:27,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF718491,Monthly rent,Bank Core System
+TXN01072,P039,ACC-P039,2025-12-16 17:55:41,1200,debit,Electricity Board,Electricity Board,,UPI,REF602370,Utility bill,Bank Core System
+TXN01073,P039,ACC-P039,2026-01-09 09:30:53,28000,credit,Nandipur State University,Nandipur State University,L010,NEFT,REF185230,Salary credit,Bank Core System
+TXN01074,P039,ACC-P039,2026-01-11 18:25:43,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF118245,Monthly rent,Bank Core System
+TXN01075,P039,ACC-P039,2026-01-13 17:45:31,950,debit,Electricity Board,Electricity Board,,UPI,REF482944,Utility bill,Bank Core System
+TXN01076,P039,ACC-P039,2026-02-09 09:20:25,68000,credit,Nandipur State University,Nandipur State University,L010,NEFT,REF809271,Salary credit,Bank Core System
+TXN01077,P039,ACC-P039,2026-02-11 16:55:19,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF340660,Monthly rent,Bank Core System
+TXN01078,P039,ACC-P039,2026-02-13 17:35:23,1200,debit,Electricity Board,Electricity Board,,UPI,REF536883,Utility bill,Bank Core System
+TXN01079,P039,ACC-P039,2026-01-17 18:05:40,1045,debit,BSNL Broadband,Union Trust Bank,L002,Credit Card,REF934255,Restaurant payment,Bank Core System
+TXN01080,P039,ACC-P039,2026-04-25 21:55:47,4205,debit,HP Fuel Station,Electricity Board,L015,IMPS,REF444308,Online purchase,Bank Core System
+TXN01081,P039,ACC-P039,2026-03-15 12:40:01,2153,debit,Electricity Board,Cafe Coffee Junction,L022,UPI,REF628695,Fuel purchase,Bank Core System
+TXN01082,P039,ACC-P039,2026-04-22 22:15:17,4045,debit,Local Kirana Store,Flipkart,L026,Cash Deposit,REF145074,Grocery,Bank Core System
+TXN01083,P039,ACC-P039,2026-03-19 19:45:43,2864,debit,Nandipur City Mall,Union Trust Bank,L015,Cash Deposit,REF314314,Restaurant payment,Bank Core System
+TXN01084,P039,ACC-P039,2025-10-15 11:40:50,1684,debit,Electricity Board,Flipkart,L015,ATM Withdrawal,REF321761,Online purchase,Bank Core System
+TXN01085,P039,ACC-P039,2026-01-16 11:05:28,4075,debit,Highway Auto Works,HP Fuel Station,L027,ATM Withdrawal,REF528795,Fuel purchase,Bank Core System
+TXN01086,P039,ACC-P039,2025-10-10 21:25:44,1041,debit,Electricity Board,HP Fuel Station,L010,Credit Card,REF461680,Fuel purchase,Bank Core System
+TXN01087,P039,ACC-P039,2026-02-14 14:10:44,253,debit,Nandipur City Mall,Cafe Coffee Junction,L007,NEFT,REF997099,Miscellaneous,Bank Core System
+TXN01088,P039,ACC-P039,2026-02-15 12:45:16,1021,debit,Spice Route Restaurant,Flipkart,L013,UPI,REF147372,Restaurant payment,Bank Core System
+TXN01089,P039,ACC-P039,2025-10-24 10:05:53,2262,debit,Union Trust Bank,Local Kirana Store,L007,Debit Card,REF826421,Restaurant payment,Bank Core System
+TXN01090,P039,ACC-P039,2026-01-17 13:25:08,2610,debit,Flipkart,Spice Route Restaurant,L017,Debit Card,REF814457,Grocery,Bank Core System
+TXN01091,P040,ACC-P040,2025-09-11 10:55:55,35000,credit,Nandipur City Hospital,Nandipur City Hospital,L024,NEFT,REF724451,Salary credit,Bank Core System
+TXN01092,P040,ACC-P040,2025-09-13 15:45:36,9500,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF875564,Monthly rent,Bank Core System
+TXN01093,P040,ACC-P040,2025-09-15 14:35:09,800,debit,Electricity Board,Electricity Board,,UPI,REF192503,Utility bill,Bank Core System
+TXN01094,P040,ACC-P040,2025-10-13 09:10:18,28000,credit,Nandipur City Hospital,Nandipur City Hospital,L024,NEFT,REF698541,Salary credit,Bank Core System
+TXN01095,P040,ACC-P040,2025-10-15 17:20:30,6000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF601491,Monthly rent,Bank Core System
+TXN01096,P040,ACC-P040,2025-10-17 14:00:17,1200,debit,Electricity Board,Electricity Board,,UPI,REF905735,Utility bill,Bank Core System
+TXN01097,P040,ACC-P040,2025-11-10 11:10:43,28000,credit,Nandipur City Hospital,Nandipur City Hospital,L024,NEFT,REF600757,Salary credit,Bank Core System
+TXN01098,P040,ACC-P040,2025-11-12 10:20:45,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF491084,Monthly rent,Bank Core System
+TXN01099,P040,ACC-P040,2025-11-14 09:25:12,950,debit,Electricity Board,Electricity Board,,UPI,REF645529,Utility bill,Bank Core System
+TXN01100,P040,ACC-P040,2025-12-12 10:45:03,32000,credit,Nandipur City Hospital,Nandipur City Hospital,L024,NEFT,REF724787,Salary credit,Bank Core System
+TXN01101,P040,ACC-P040,2025-12-14 18:35:12,12000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF974388,Monthly rent,Bank Core System
+TXN01102,P040,ACC-P040,2025-12-16 09:35:57,1200,debit,Electricity Board,Electricity Board,,UPI,REF503040,Utility bill,Bank Core System
+TXN01103,P040,ACC-P040,2026-01-10 10:20:48,75000,credit,Nandipur City Hospital,Nandipur City Hospital,L024,NEFT,REF548000,Salary credit,Bank Core System
+TXN01104,P040,ACC-P040,2026-01-12 13:00:53,15000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF106475,Monthly rent,Bank Core System
+TXN01105,P040,ACC-P040,2026-01-14 14:50:22,950,debit,Electricity Board,Electricity Board,,UPI,REF897946,Utility bill,Bank Core System
+TXN01106,P040,ACC-P040,2026-02-08 10:25:46,35000,credit,Nandipur City Hospital,Nandipur City Hospital,L024,NEFT,REF284104,Salary credit,Bank Core System
+TXN01107,P040,ACC-P040,2026-02-10 16:30:37,8000,debit,Landlord/Housing,Rent Payment,L018,IMPS,REF431691,Monthly rent,Bank Core System
+TXN01108,P040,ACC-P040,2026-02-12 09:35:31,1200,debit,Electricity Board,Electricity Board,,UPI,REF836448,Utility bill,Bank Core System
+TXN01109,P040,ACC-P040,2026-02-24 11:50:26,2228,debit,Flipkart,Cafe Coffee Junction,L007,Cash Deposit,REF942342,Grocery,Bank Core System
+TXN01110,P040,ACC-P040,2026-04-09 13:10:20,954,debit,BSNL Broadband,Highway Auto Works,L025,ATM Withdrawal,REF403959,Restaurant payment,Bank Core System
+TXN01111,P040,ACC-P040,2025-12-19 12:55:39,4372,debit,Local Kirana Store,Nandipur City Mall,L005,Cash Deposit,REF686643,Miscellaneous,Bank Core System
+TXN01112,P040,ACC-P040,2025-11-18 16:00:27,719,debit,Water Board,Highway Auto Works,L022,Cash Deposit,REF575620,Fuel purchase,Bank Core System
+TXN01113,P040,ACC-P040,2026-01-14 20:25:08,1280,debit,Electricity Board,Flipkart,L009,Credit Card,REF593724,Miscellaneous,Bank Core System
+TXN01114,P040,ACC-P040,2025-12-06 15:10:24,3235,debit,Union Trust Bank,Flipkart,L026,NEFT,REF743013,Grocery,Bank Core System
+TXN01115,P040,ACC-P040,2025-10-30 19:00:14,3795,debit,Union Trust Bank,Nandipur City Mall,L014,Credit Card,REF636284,Restaurant payment,Bank Core System
+TXN01116,P041,ACC-P041,2025-09-13 11:45:49,68000,credit,Self-employed,Self-employed,L019,NEFT,REF691425,Salary credit,Bank Core System
+TXN01117,P041,ACC-P041,2025-09-15 12:30:11,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF887193,Monthly rent,Bank Core System
+TXN01118,P041,ACC-P041,2025-09-17 17:00:14,1200,debit,Electricity Board,Electricity Board,,UPI,REF133399,Utility bill,Bank Core System
+TXN01119,P041,ACC-P041,2025-10-12 11:50:45,28000,credit,Self-employed,Self-employed,L019,NEFT,REF392282,Salary credit,Bank Core System
+TXN01120,P041,ACC-P041,2025-10-14 17:00:50,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF688555,Monthly rent,Bank Core System
+TXN01121,P041,ACC-P041,2025-10-16 20:40:16,950,debit,Electricity Board,Electricity Board,,UPI,REF557524,Utility bill,Bank Core System
+TXN01122,P041,ACC-P041,2025-11-12 10:00:24,35000,credit,Self-employed,Self-employed,L019,NEFT,REF402728,Salary credit,Bank Core System
+TXN01123,P041,ACC-P041,2025-11-14 18:35:19,8000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF442642,Monthly rent,Bank Core System
+TXN01124,P041,ACC-P041,2025-11-16 14:10:05,1200,debit,Electricity Board,Electricity Board,,UPI,REF790455,Utility bill,Bank Core System
+TXN01125,P041,ACC-P041,2025-12-12 11:15:57,42000,credit,Self-employed,Self-employed,L019,NEFT,REF326252,Salary credit,Bank Core System
+TXN01126,P041,ACC-P041,2025-12-14 15:40:07,6000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF836079,Monthly rent,Bank Core System
+TXN01127,P041,ACC-P041,2025-12-16 10:00:00,1500,debit,Electricity Board,Electricity Board,,UPI,REF610626,Utility bill,Bank Core System
+TXN01128,P041,ACC-P041,2026-01-08 10:15:01,68000,credit,Self-employed,Self-employed,L019,NEFT,REF805053,Salary credit,Bank Core System
+TXN01129,P041,ACC-P041,2026-01-10 12:45:11,12000,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF906610,Monthly rent,Bank Core System
+TXN01130,P041,ACC-P041,2026-01-12 13:10:56,1200,debit,Electricity Board,Electricity Board,,UPI,REF332812,Utility bill,Bank Core System
+TXN01131,P041,ACC-P041,2026-02-08 09:20:20,55000,credit,Self-employed,Self-employed,L019,NEFT,REF800918,Salary credit,Bank Core System
+TXN01132,P041,ACC-P041,2026-02-10 17:55:19,9500,debit,Landlord/Housing,Rent Payment,L014,IMPS,REF642552,Monthly rent,Bank Core System
+TXN01133,P041,ACC-P041,2026-02-12 18:40:03,1200,debit,Electricity Board,Electricity Board,,UPI,REF881788,Utility bill,Bank Core System
+TXN01134,P041,ACC-P041,2026-03-18 09:15:48,904,debit,Highway Auto Works,BSNL Broadband,L008,Credit Card,REF113299,Grocery,Bank Core System
+TXN01135,P041,ACC-P041,2025-12-25 13:40:44,2463,debit,Amazon,Nandipur City Mall,L020,UPI,REF647690,Fuel purchase,Bank Core System
+TXN01136,P041,ACC-P041,2025-10-02 15:40:28,2695,debit,Union Trust Bank,Local Kirana Store,L001,Credit Card,REF851937,Restaurant payment,Bank Core System
+TXN01137,P041,ACC-P041,2026-01-02 20:25:04,1298,debit,BSNL Broadband,Flipkart,L024,Debit Card,REF525645,Fuel purchase,Bank Core System
+TXN01138,P041,ACC-P041,2025-12-02 10:30:26,326,debit,Local Kirana Store,BSNL Broadband,L007,Credit Card,REF349514,Miscellaneous,Bank Core System
+TXN01139,P041,ACC-P041,2025-10-21 22:00:11,1497,debit,Water Board,Electricity Board,L018,Debit Card,REF599265,Restaurant payment,Bank Core System
+TXN01140,P041,ACC-P041,2025-10-31 17:25:06,258,debit,Amazon,Spice Route Restaurant,L011,Debit Card,REF176238,Grocery,Bank Core System
+TXN01141,P041,ACC-P041,2026-04-21 10:15:24,1521,debit,Spice Route Restaurant,Highway Auto Works,L019,ATM Withdrawal,REF224711,Online purchase,Bank Core System
+TXN01142,P041,ACC-P041,2025-10-10 21:15:20,520,debit,Nandipur City Mall,Cafe Coffee Junction,L013,Debit Card,REF112748,Grocery,Bank Core System
+TXN01143,P041,ACC-P041,2025-12-29 21:50:32,4369,debit,BSNL Broadband,BSNL Broadband,L005,UPI,REF440880,Miscellaneous,Bank Core System
+TXN01144,P041,ACC-P041,2026-02-07 11:45:44,1922,debit,Cafe Coffee Junction,Union Trust Bank,L019,Cash Deposit,REF871700,Online purchase,Bank Core System
+TXN01145,P042,ACC-P042,2025-09-12 10:55:17,68000,credit,Dash & Partners Law Office,Dash & Partners Law Office,L022,NEFT,REF322898,Salary credit,Bank Core System
+TXN01146,P042,ACC-P042,2025-09-14 15:05:52,15000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF742612,Monthly rent,Bank Core System
+TXN01147,P042,ACC-P042,2025-09-16 17:15:34,1200,debit,Electricity Board,Electricity Board,,UPI,REF323778,Utility bill,Bank Core System
+TXN01148,P042,ACC-P042,2025-10-11 11:10:15,55000,credit,Dash & Partners Law Office,Dash & Partners Law Office,L022,NEFT,REF926846,Salary credit,Bank Core System
+TXN01149,P042,ACC-P042,2025-10-13 14:05:40,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF861017,Monthly rent,Bank Core System
+TXN01150,P042,ACC-P042,2025-10-15 14:50:18,800,debit,Electricity Board,Electricity Board,,UPI,REF964149,Utility bill,Bank Core System
+TXN01151,P042,ACC-P042,2025-11-10 11:10:27,75000,credit,Dash & Partners Law Office,Dash & Partners Law Office,L022,NEFT,REF458788,Salary credit,Bank Core System
+TXN01152,P042,ACC-P042,2025-11-12 15:20:48,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF332185,Monthly rent,Bank Core System
+TXN01153,P042,ACC-P042,2025-11-14 14:15:25,950,debit,Electricity Board,Electricity Board,,UPI,REF968393,Utility bill,Bank Core System
+TXN01154,P042,ACC-P042,2025-12-09 10:20:57,28000,credit,Dash & Partners Law Office,Dash & Partners Law Office,L022,NEFT,REF540638,Salary credit,Bank Core System
+TXN01155,P042,ACC-P042,2025-12-11 14:00:17,12000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF612095,Monthly rent,Bank Core System
+TXN01156,P042,ACC-P042,2025-12-13 12:55:25,950,debit,Electricity Board,Electricity Board,,UPI,REF786920,Utility bill,Bank Core System
+TXN01157,P042,ACC-P042,2026-01-10 09:40:47,32000,credit,Dash & Partners Law Office,Dash & Partners Law Office,L022,NEFT,REF378141,Salary credit,Bank Core System
+TXN01158,P042,ACC-P042,2026-01-12 15:35:11,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF816002,Monthly rent,Bank Core System
+TXN01159,P042,ACC-P042,2026-01-14 20:05:57,950,debit,Electricity Board,Electricity Board,,UPI,REF680791,Utility bill,Bank Core System
+TXN01160,P042,ACC-P042,2026-02-10 09:10:36,68000,credit,Dash & Partners Law Office,Dash & Partners Law Office,L022,NEFT,REF885681,Salary credit,Bank Core System
+TXN01161,P042,ACC-P042,2026-02-12 17:20:21,6000,debit,Landlord/Housing,Rent Payment,L001,IMPS,REF730849,Monthly rent,Bank Core System
+TXN01162,P042,ACC-P042,2026-02-14 16:35:53,800,debit,Electricity Board,Electricity Board,,UPI,REF395759,Utility bill,Bank Core System
+TXN01163,P042,ACC-P042,2026-03-26 10:25:31,1013,debit,Local Kirana Store,Electricity Board,L012,ATM Withdrawal,REF315431,Restaurant payment,Bank Core System
+TXN01164,P042,ACC-P042,2026-01-23 11:00:54,2627,debit,HP Fuel Station,Amazon,L015,Credit Card,REF491960,Fuel purchase,Bank Core System
+TXN01165,P042,ACC-P042,2025-09-11 17:10:05,4396,debit,HP Fuel Station,Flipkart,L017,Credit Card,REF760072,Grocery,Bank Core System
+TXN01166,P042,ACC-P042,2026-02-28 13:40:26,774,debit,Nandipur City Mall,Local Kirana Store,L018,ATM Withdrawal,REF306043,Online purchase,Bank Core System
+TXN01167,P042,ACC-P042,2026-04-09 18:40:04,1587,debit,Local Kirana Store,Nandipur City Mall,L025,NEFT,REF474101,Online purchase,Bank Core System
+TXN01168,P042,ACC-P042,2025-12-19 19:55:00,1702,debit,Highway Auto Works,Cafe Coffee Junction,L024,ATM Withdrawal,REF963638,Miscellaneous,Bank Core System
+TXN01169,P042,ACC-P042,2026-01-12 12:50:19,1000,debit,BSNL Broadband,Nandipur City Mall,L006,ATM Withdrawal,REF454998,Restaurant payment,Bank Core System
+TXN01170,P042,ACC-P042,2026-02-01 08:35:00,2778,debit,Amazon,Electricity Board,L007,NEFT,REF913381,Grocery,Bank Core System
+TXN01171,P042,ACC-P042,2026-04-22 12:10:09,4396,debit,HP Fuel Station,Nandipur City Mall,L017,Cash Deposit,REF548693,Restaurant payment,Bank Core System
+TXN01172,P042,ACC-P042,2025-11-03 17:40:09,1277,debit,Electricity Board,Spice Route Restaurant,L007,NEFT,REF865406,Online purchase,Bank Core System
+TXN01173,P009,ACC-P009,2026-02-28 00:00:00,20000,debit,Naveen Mishra,Personal Transfer,L011,UPI,REF618775,Repayment of personal loan (partial),Bank Core System
+TXN01174,P042,ACC-P042,2026-02-28 01:00:00,20000,credit,Aditi Mallick,Personal Transfer,L011,UPI,REF894865,Received from Aditi Mallick,Bank Core System
+TXN001175,P009,ACC-P009,2026-02-28 10:14:22,18000,debit,P042 / Naveen Mishra,Naveen Mishra,,UPI,REF-LOAN-0228,Loan repayment - personal advance,Bank Core System
+TXN001176,P042,ACC-P042,2026-02-28 10:14:24,18000,credit,P009 / Aditi Mallick,Naveen Mishra,,UPI,REF-LOAN-0228,Loan repayment received,Bank Core System
